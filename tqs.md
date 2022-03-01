@@ -44,3 +44,4 @@ In it you will:
 - Twitter: [@murthynikhil](https://twitter.com/murthynikhil)
 - YouTube: [https://www.youtube.com/channel/UCoFEuEueEt1Z2L-CQM8Uopw](https://www.youtube.com/channel/UCoFEuEueEt1Z2L-CQM8Uopw)
 - E-mail: [murthynik1@gmail.com](mailto:murthynik1@gmail.com)
+- Presskit: [Presskit](/presskit_tqs)

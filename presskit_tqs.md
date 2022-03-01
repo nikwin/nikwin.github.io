@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presskit - The Quiet Sleep
+title: Presskit (TQS)
 ---
 
 Presskit - The Quiet Sleep
