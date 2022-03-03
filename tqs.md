@@ -45,3 +45,16 @@ In it you will:
 - YouTube: [https://www.youtube.com/channel/UCoFEuEueEt1Z2L-CQM8Uopw](https://www.youtube.com/channel/UCoFEuEueEt1Z2L-CQM8Uopw)
 - E-mail: [murthynik1@gmail.com](mailto:murthynik1@gmail.com)
 - Presskit: [Presskit](/presskit_tqs)
+
+# Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.tag == "city" %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.desc }}
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
