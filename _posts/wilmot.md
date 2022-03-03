@@ -1,0 +1,40 @@
+
+---
+layout: post
+title: The Curious, Exogenous Degeneracy of Wilmot's Warehouse
+tag: articles
+date: 2020-05-08
+desc: How Wilmot's Warehouse ended up with an exogenous degeneracy.
+---
+<h2>[The Curious, Exogenous Degeneracy of *Wilmot's Warehouse*](/blog/articles/wilmot)</h2>
+<img src="/blogImages/Wilmot1.png" />
+
+I read a fair bit about *Wilmot's Warehouse* when it came out and picked it up this week. It's an extremely charming game and a lot of clean fun, but I'm a little disappointed that a very surprising degeneracy in it kept me from experiencing something that I wanted to try. Still, that degeneracy is fascinating and I felt that I should write a bit about it.
+
+## Degeneracy
+
+Just in case the term is new to you, I use degeneracy here in the sense of a degenerate solution, which is a solution (or strategy or tactic or any other equivalent term) that is enough better than the others that the player should always use it. A classic example is in chess, where a large number of endgame states are completely solved and so there is only one way that each player should play from that state onwards. Trivially, you can see that if the opponent starts in the center in tic-tac-toe, you have to play your next move in a corner. The same thing comes up frequently in contemporary games in things like build orders for RTS games or netdecks for deckbuilders or character builds in RPGs.
+
+
+Degeneracy results in the player only playing in the way the degenerate solution prescribes. So, even if a different way is more fun or more interesting or if the player is just bored of playing in that one way, the burden of optimal play pushes them towards playing as they are. Of course, there are many players who will play the way they want, degenerate solution or no, but as a trend, the existence of a degenerate solution pushes players into playing that way, or to put it another way, players tend to play in the way that helps them win, or to put it in an even simpler way, players tend to get better at the game.
+
+## *Wilmot's Warehouse*
+
+When reading about *Wilmot's Warehouse*, I saw people talk about how they organized their warehouse by type. This really interested me as I love seeing innovative uses of the semantic value of game pieces and the way the icons in *Wilmot's Warehouse* are open to interpretation seemed like I would see something new here. However, I ended up just sorting things by color instead.
+
+
+The thing is that color is easy to determine, easy to understand and easy to sort by, and the game stresses me out enough that I want the easier path. My color interpretation also stays constant. I might see something as a shoe one day and a face another, but I don't change what I think the color is. Additionally, the icons all have at least one primary color and one secondary color and these pairs are often repeated, so it's easy to subdivide regions as well. I don't bother interpreting the symbols because the colors just seem the better strategy.
+
+
+What makes this degeneracy so interesting to me is that it is based on exogenous factors and not endogenous ones. That is, it comes from things outside the systems of the game instead of internal ones. Things like netdecks or RPG specs don't really care about what each piece represents outside of the numbers behind it. A card could be a bear or a man with a sword or a chess piece and it doesn't matter one whit to how degenerate the deck is (tribal synergies aside). Degeneracy normally comes from the systems because it's normally enforced by the systems. It's very difficult for a game to tell you about things that it doesn't understand.
+
+
+With *Wilmot's Warehouse* though, the degeneracy is due to things outside the purview of the game. It's easier for me to sort things by color than by type for reasons completely external to the game. It's exogenic, not endogenic. This is a fine difference and splitting this hair doesn't have that much in the way of useful application, but it's still something that I thought was a bit cool for how unusual it is to see in this form.
+
+
+Of course, one can take the position that the colors are endogenous traits, but the problem posed to the player is how to sort the pieces in such a way that the exact same player is best able to retrieve items, which is a problem that lives in the player, not the game. It has endogenous inputs and outputs, but the core of the problem is outside of what the game explicitly defines and so exogenous.
+
+## Caveat
+
+I do want to put down a little bit of a caveat as a final point though. Degeneracy is, like everything else, in the eye of the player. That is to say that it doesn't really matter if something is mathematically degenerate or not as long as the player thinks it's degenerate. For instance, fighting game players often find that the move they thought was unbeatable actually has a clean counter. It's certainly possible that if I had played a couple of hours more, I would find that sorting by colors has a fatal flaw in it. Still, at the moment, this was an interesting degeneracy and something that I enjoyed thinking about.
+

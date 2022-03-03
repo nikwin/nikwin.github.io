@@ -1,0 +1,180 @@
+
+---
+layout: post
+title: Article Notes 2015-11-30
+tag: notes
+date: 2018-10-29
+desc: Notes on various articles from November, 2015.
+---
+
+
+These are just the notes I took down in November. All of the notes can be found [here](/articleNotes)
+
+## [RPS: How 80 Days Adapted The Modernist Spirit Of Verne](http://www.rockpapershotgun.com/2015/10/14/80-days-design-interview/)
+- Putting the choices on the map (for both 80 days and Sorcery!) helped make the degree to which the story branches transparent to users.
+- Part of the problem with The Walking Dead was that once you suspect that Clementine will not actually remember what the game tells you she remembers the magic is gone.
+- They really believe in the power of making the protagonist someone who is not the player and so abandoning the second person. Passepartout has his own personality which is very malleable, but is still defined. Naturally, people still take credit for actions that they did, it is not Passepartout who helped someone give birth on a plane, it is the player.
+- The fact that 80 Day's steampunk is not Britain obsessed is a lot of what makes it feel so new and interesting.
+  
+
+
+## [Chris Hecker: No One Knows About Your Game](https://www.youtube.com/watch?v=ueJkbQin-wk)
+- You cannot overhype, only underdeliver.
+  
+
+
+## [Rami Ismail to indie startups: You Don't Stand A Chance](https://www.youtube.com/watch?v=PZn9a9-Gyc0)
+- Work on your pitch until you have it down. You know that you need it, and you need it to be words. All you have right now is an idea.
+  
+
+
+## [*Ico*, *Final Fantasy VII*, and Others: On Making Players Feel With Mechanics](https://www.youtube.com/watch?v=wyyp4RqRtME)
+- Attaching mechanics to characters makes their loss more impactful (*Brothers*, *Shadow of the Colossus*).
+- Part of what makes losing Aeris so painful is that you have spent effort figuring out her role in the party. Player investment in time and thought leads to more emotional connection. She is your Aeris in particular.
+  
+
+
+## [RPS: *Rebel Galaxy* Review](http://www.rockpapershotgun.com/2015/11/10/rebel-galaxy-review/)
+- Interesting condemnation of context specific actions - mapping multiple actions to a single button means that players need to keep a more explicit track of context switching, which makes the game feel more gamey.
+- Yet more evidence that stat boosts are of limited player engagement. A system cannot feed into itself infinitely, it needs some more meaningful rewards embedded in it.
+  
+
+
+## [NYT: Should I Tell My Friend's Husband That She's Having an Affair?](http://www.nytimes.com/2015/11/15/magazine/should-i-tell-my-friends-husband-that-shes-having-an-affair.html)
+- I'm just surprised that someone can make so definite a judgement about a scenario like this.
+  
+
+
+## [Reducing perceived attack delay in INVERSUS](http://gamasutra.com/blogs/RyanJuckett/20151028/257556/Reducing_perceived_attack_delay_in_INVERSUS.php)
+- Great example on how much design is needed for small things.
+  
+
+
+## [RPS: *CoD Black Ops 3*'s Multiplayer Has An Insoluble Problem At Its Core](http://www.rockpapershotgun.com/2015/11/12/call-of-duty-black-ops-3s-multiplayer-has-an-insoluble-problem-at-its-core/)
+- It's important to think about the skills you want your player to develop, how easy it is for them to see how to improve those skills, and if those are the skills that they need to improve.
+  
+
+
+## [Gamasutra: Talking Simulators](http://gamasutra.com/blogs/BenTaber/20151110/259042/Talking_Simulators.php)
+- Dialogue systems often have both things that you want to say and things that give you the most gameplay benefit (specifically overt benefit, like xp) and the things that give the most gameplay benefit are very often just going to be what the player chooses. This leaves them unhappy as it is not what they want to do, just what is smart to do.
+  
+
+
+## [Polygon: Downwell is the best game I've played in 2015](http://www.polygon.com/2015/10/16/9550205/downwell-is-the-best-game-ive-played-in-2015)
+- One of the things that Downwell does well is rewarding you for doing what is the most fun and cool. Getting long combos feels good and the game encourages you to get them and rewards you appropriately. Also, it is a way to make early levels stay interesting for experienced players. The challenge is not to complete the level, but to get the best combo while doing so.
+- Making the upgrades operate on multiple axes makes them more of an interesting decision. Often you downgrade your weapon to get a health/charge bonus.
+  
+
+
+## [Report: India leads world in Facebook content censoring](http://www.aljazeera.com/news/2015/11/report-india-leads-world-facebook-content-censoring-151113122410512.html)
+- India censors more Facebook content than any other country in the world.
+  
+
+
+## [Extra Credits: The Delta of Randomness - Can You Balance for RNG?](https://www.youtube.com/watch?v=0V5eq4IQ6Go)
+- Good randomness is something that the player can interact with - if the player can make plays that makes a random event more or less likely, it feels much more deserved.
+  
+
+
+## [Independent Game Sales in 2015](https://www.youtube.com/watch?v=VQulBHr5sTk)
+- Even low-end on PC tends to be between 1k and 10k sales.
+- 7 new games every day on PC, 500 on iOS, 200 on Android
+  
+
+
+## [D'toid: *Clandestine* Review](http://www.destructoid.com/review-clandestine-320445.phtml)
+- I think that establishing downtime (eg; bases, recap screens) is very important for a game.
+  
+
+
+## [Two years of revenue for #1 iOS game *A Dark Room*](https://www.reddit.com/r/gamedev/comments/3syzuc/two_years_of_revenue_for_1_ios_game_a_dark_room/)
+- Some numbers for iOS sales.
+  
+
+
+## [*M:tG*: Decisions, Decisions, Part II](http://magic.wizards.com/en/articles/archive/decisions-decisions-part-ii-2009-08-10)
+- Removing ways for players to win due to rules lawyering is good.
+- Often, you can both decrease complexity and increase depth. I think that the idea that the two are interlinked is false. Naturally, there are plently of times when you can increase depth by increasing complexity, but for a game like *M:tG* for instance, adding a card or even a rule can result in fewer decisions and fewer viable playstyles, thus decreasing depth. Eg; Jace, The Mind Sculptor.
+  
+
+
+## [*M:tG*: Split Decisions](http://magic.wizards.com/en/articles/archive/making-magic/split-decisions-2002-02-11)
+- This is so much of what I hated about working at Pocket Gems. Game design should not be all politics and speeches. Programming is not, why do we accept this from design?
+  
+
+
+## [D'toid: *Renowned Explorers: International Society* Review](http://www.destructoid.com/review-renowned-explorers-international-society-321138.phtml)
+- If your clever systems are hard for the player to see, then you risk leaving them with a poor first impression and that hurts their overall opinion of the game quite severely.
+  
+
+
+## [Raph Koster: An Atomic Theory of Fun Game Design](http://www.raphkoster.com/2012/01/24/an-atomic-theory-of-fun-game-design/)
+- Atoms are systems with input and output
+- Atoms can be linked together and the resultant molecule must also meet all of the criteria of what makes an atom fun.
+- Look at the site for a breakdown of what Raph Koster believes makes an MMORPG atom fun.
+- Consider what are all of the attributes that makes an atom fun for your game/genre.
+    <li>Determine the direction of the attributes:
+- Things like the core mechanic and skills can be circular, they interact with themselves.
+- Feedback, failure cost are output
+- Preparation is input</li>
+- The core of Koster's argument though is that game design is fractal.
+- He feels that if an atom contains a skill, that skill can be looked at as an atom/molecule.
+- When a game is diagrammed out, all of the atoms should be checked with your list of necessary attributes.
+- I'm not sure that I buy this at all though. I do not think that every system needs to satisfy all of the player needs as long as all of those needs are actually satisfied.
+  
+
+
+## [Gamespot: *Anno 2205* Review](http://www.gamespot.com/reviews/anno-2205-review/1900-6416317/)
+- Making a simulation game too predictable can ruin a lot of the fun of the genre. I think the sweet spot is to make sure that the player always feels in control, but has unexpected crises every now and again.
+  
+
+
+## [EA *Star Wars* game creators Amy Hennig and Jade Raymond reflect on game storytelling](http://venturebeat.com/2015/11/20/ea-star-wars-game-creators-amy-hennig-and-jade-raymond-reflect-on-game-storytelling/view-all/)
+- "People play games because they miss math tests" - The feeling of working on a problem and getting a concrete grade at the end of the day based off a very clear and objective problem is missing from most of life.
+- Systemizing the rules of human interaction is interesting for players - they can experiment within the parameters.
+- Is there an uncanny valley for these systems? A place where the missing pieces of the system, the things that the system cannot represent, break the immersion?
+- By simplifying stuff that isn't relevant, essentially making caricatures, like SF you can minimize this.
+- It's hard to get people to engage consciously with the message embedded in a system, but people often do see it. European players play The Sims as role-play of American consumerism.
+  
+
+
+## [Gamasutra: Near-win - giving runner ups a taste of success](http://www.gamasutra.com/blogs/PhilipBarclay/20151124/260237/Nearwin__giving_runner_ups_a_taste_of_success.php)
+- Generating near-wins can take a lot of the sting out of a loss. Giving people a common two-in-a-row when they need a three makes them at least feel as though they were close.
+  
+
+
+## [Hunicke, LeBlanc, Zubek: MDA - A Formal Approach to Game Design and Game Research](http://www.cs.northwestern.edu/~hunicke/MDA.pdf)
+- Goal is to aid in making a game coherent by using MDA to help translate between levels of abstraction.
+- Mechanics -> Dynamics -> Aesthetics
+- Players consume this in the opposite order though.
+- Aesthetics are desired emotions (eg; discovery, expression)
+- Dynamics work to create aesthetic experiences. Eg; the aesthetic of fellowship can be encouraged by sharing information across certain members.
+- Mechanics are the actions, behaviors and control mechanisms afforded to the player. Eg; weapons, ammo and spawn points in an FPS. These generate dynamics.
+  
+
+
+## [Costikyan: I Have No Words & I Must Design](http://www.costik.com/nowords2002.pdf)
+- Both SimCity and SimEarth are toys more than games as they have no explicit win conditions. They depend on their players setting themselves goals.
+- What makes SimCity so much better though is the variety of goals and the resistance it gives you on the path to achieving that goal.
+- MMOs share many of these traits as well.
+- The period between goals is boring for the player though. If they have finished their previous goal and have yet to have a new one, that is where they are likely to be bored.
+- Interesting article, but a little introductory past that though.
+  
+
+
+## [JK Rowling meets Lauren Laverne](http://www.theguardian.com/books/2015/nov/28/conversation-lauren-laverne-jk-rowling-interview)
+- Talks about how part of the joy of having children is the loss of control and joy of the unknown. You don't get to pick who they are.
+  
+
+
+## [Escaping the Indie Shame Spiral](https://www.youtube.com/watch?v=gKDvGZ8-kEE)
+- Run weekly post-mortem and see what went wrong
+- Make commitment devices.
+  
+
+
+## [NYT: France Using Emergency Powers To Clamp Climate Protests](http://www.nytimes.com/2015/11/30/world/europe/france-uses-sweeping-powers-to-curb-climate-protests-but-clashes-erupt.html)
+- Title says it all really.
+  
+
+

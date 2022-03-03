@@ -1,0 +1,109 @@
+
+---
+layout: post
+title: Article Notes - 2016/04
+tag: notes
+date: 2018-11-20
+desc: Notes on various articles from April, 2016
+---
+
+
+These are just the notes I took down in April. All of the notes can be found [here](/articleNotes)
+
+## [Better Polling Techniques](http://fivethirtyeight.com/features/trumps-support-would-be-easier-to-explain-with-better-polling/)
+- When people are given a survey, they tend either to an extreme or to apathy. There are a lot more strong dislikes than mild dislikes.
+- Giving people a limited number of points that they can distribute amongst the various topics results in possibly more accurate surveys.
+- Additionally, making the point costs quadratic, so that the fourth point in a category costs a lot more than the first helps determine if a view is actually that extreme.
+- This is a better than words in getting people to understand numbers.
+  
+
+
+## [Gamasutra: Analyzing the Epic Card Game](http://gamasutra.com/blogs/DanFelder/20160330/269068/Analyzing_the_Epic_Card_Game.php)
+
+
+  
+    <li>Challenges:
+- Multiple formats
+- No hard restrictions on deck-building.
+- Only two possible costs - 0 or 1, so fewer knobs to tweak.
+- Kills climatic structure of card games - breaking the game up into turns for each player adds a natural up-and-down cadence to the game. Letting your opponent make impactful plays on your turn removes this.
+    </li>
+- Their loyalty mechanics functions as a soft color system.
+  
+
+
+## [*M:tG* *Shadows over Innistrad* Q&amp;A](http://magic.wizards.com/en/articles/archive/making-magic/odds-ends-shadows-over-innistrad-part-1-2016-04-11)
+- *M:tG* tried once to design evergreen keywords, but didn't find any success with doing so explicitly, so instead they just make mechanics that they think are cool and then make the ones that play best into evergreen mechanics.
+  
+
+
+## [RPS: *LoL* On Game Balance](https://www.rockpapershotgun.com/2016/04/15/league-of-legends-greg-street-game-balance/)
+- Rotating which heroes are strong is bad design as it teaches players that the investment that they make in a character can be taken away at any time.
+- Players find the short-cuts in your game's obstacle course and they do so quickly and accurately.
+  
+
+
+## [Invisible Walls, Puffy Clouds](http://www.molleindustria.org/blog/invisible-walls-puffy-clouds/)
+- You cannot represent everything about the system you are trying to simulate.
+- You can present things that you do not want to represent as the random occurrence of the effect you want to represent though.
+- Choosing not to represent something is a political statement as well.
+  
+
+
+## [Kotaku: ​What To Do With *Prison Architect*](http://kotaku.com/what-to-do-with-prison-architect-a-video-game-about-b-1505204131)
+- Prison labour is the dominant strategy and that takes away the ability for players to run the prison in the way they want. They cannot role-play a prison director.
+  
+
+
+## [Mitu Khandaker: Modding Passage](http://mitu.nu/2016/04/22/modding-passage/)
+- Mitu Khandaker remixed Passage to be about two women, one of whom is a woman of color changed treasure chests to be family members and changed stars to be hearts.
+- I love the idea of remixing other games like this.
+  
+
+
+## [Tips For Game Storytellers](http://www.awkwardpegasus.com/tips-for-game-storytellers.html)
+- Don't have the verbs of the game contradict the story. If the game lets you take hostages, make the main character someone who would take hostages.
+- You have to look at every part of the game to communicate the story, not just the writing.
+- Your writing should be a part of your feedback loop. This is actually what SMAC did really well, they made the writing part of the reward and slipped it perfectly into their game loop.
+  
+
+
+## [*M:tG* - Where Does Modern Go From Here](http://magic.wizards.com/en/events/coverage/ptsoi/where-modern-goes-from-here-2016-04-24)
+- This is a very good example of a bad way to design your game.
+- Don't assume answers as this article does and then make them goals. Figure out your goals and keep the way to get there separate.
+- Here the assumption is that a banned list is necessary, and then they try to minimize. Better would be to figure out exactly what goals this method is trying to achieve and then make those the goals instead.
+- These goals sound like they were written after working backwards from existing process as they are tied so deeply into it.
+  
+
+
+## [Gamasutra: Prototyping to *Pyre*](http://www.gamasutra.com/view/news/271161/How_Supergiant_Games_aggressively_prototyped_its_way_into_Pyre.php)
+- They like having some amount of confusion. They're okay with players being uncomfortable with what they do or don't know as long as they're engaged.
+  
+
+
+## [Gamasutra: Sid Meier on Interesting Decisions](http://www.gamasutra.com/view/news/164869/gdc_2012_sid_meier_on_how_to_see_.php)
+- It's easier to look at what is not an interesting decision.
+- When the player always chooses the first of three options, that decision is not interesting.
+- When the player makes decisions randomly, that is also uninteresting.
+- Ask yourself what are the decisions that you're presenting to the player and if they are interesting.
+- Good decisions are situational.
+- Interesting decisions can also let you express your personal play style.
+- Risk/reward and short vs long term decisions are two standard patterns for interesting decisions.
+- One of the strengths of *Civilization* is how it has short, medium and long term goals going concurrently, so you can adjust the short term goals to get you to the long term goal.
+- Customization functions also create interesting decisions.
+- It's not fun for players to have to pick something, but to be unsure of the results of their choice.
+- Genre conventions help reduce complexity. Similarly, the historical setting of *Civilization* helps people on-board.
+- Game response for a decision is enormously important.
+- Reinforce the fantasy that players create in their minds and help them reinforce that.
+- Understand who your playtesters are and look for their feedback on the pieces that they would know best.
+- Don't forget that the game is not just the decisions. The detailed minutiae of developing interesting decisions ought not to take away from the production of a rich, vivid world that feels real and fun for the player.
+  
+
+
+## [Gamasutra: Thoughts on Game Design Methods](http://gamasutra.com/blogs/LukaszHacura/20160421/270986/A_few_thoughts_on_game_design_methods.php)
+- When designing levels for a game, designers would often come up with clever ideas that naturally would increase scope. So, the levels would be designed such that they work in the fallback case of not being able to make the cool special piece of them in order to manage scope.
+- Put big, ugly placeholders in the game so that people fix it just out of exasperation at seeing that ugly thing over and over again.
+- If everyone else thinks your design sucks, it quite possibly means that you haven't played it enough and so you didn't see what was wrong.
+  
+
+

@@ -1,0 +1,189 @@
+
+---
+layout: post
+title: Pokemon, Not Potemkin
+tag: articles
+date: 2021-06-18
+desc: Thoughts on the experience and game design of New Pokemon Snap.
+---
+
+
+I've played a lot of *New Pokemon Snap* over the previous weeks and I have a bunch of thoughts that I want to put down on it.
+
+## Identifying The Experience
+<img src="/blogImages/snap_bidoof.jpeg" />
+
+A natural analogue for the game is a theme park attraction or at best, a safari ride in a theme park. The strict rails automatically bring it to mind and the clean reset before every fresh run bring to mind Grigory Potemkin. I don't think the analogue holds though and so I want to break down how what exactly it feels like to me.
+
+
+To me, a theme park is an outing. It's a place to go with friends or family and so, it's a place to be. It's hard to find something that quite matches it, but there are similarities with other outings. The closest thing that I can think of is going and watching a movie at a mall with some friends. Both are, after all, very adolescent activities. These are communal activities and ones that feel wrong without a group to enjoy them with. The experience is defined by sharing it. A theme park is a destination though, while a mall is more of a default.
+
+
+You can group visiting zoos, parks and museums with people in the same bucket, but those are much more sedate activities and so ones that work well alone as well. Theme parks have a very different energy.
+
+
+This is not the energy I get from *New Pokemon Snap*. This is a video game and is uncomplicated about it. To say that a video game is a video game and not a theme park is not a very profound statement though. The core of the criticism is in the artificial aspects of the game. There's an undeniable hollowness to being told that you're entering the savannah zone of a ride and seeing animals from a savannah grouped together in their little exhibits.
+
+
+At its very worst, *New Pokemon Snap* shares that hollowness. The worst point of the game was a moment when I entered a new part of the undersea region and it was just three Qwillfish or something like that. They were floating about in front of the camera by themselves and it was just tiring to see. It felt like a display tank.
+
+
+I feel like that criticism aims at more than that though and I think misses more than it hits. Right at the beginning of the first course, you see a Grookey and a Pichu and they do a little dance of excitement and then scamper away and they do this every time you run that course. It's understandable to compare that to animatronics coming back to life and running their loop, especially given that the Grookey and Pichu are doing something special. This does not feel like natural behaviour for the two Pokemon. It feels like pandering to the player. However, in that clearly artificial moment, it's easy to claim an artifice different from the one actually present.
+
+
+If I play a Mario level, I know that the first Goomba is going to appear in the same place at the same time every time. This isn't artificial, this is just the relationship that video games have with time. Going over the same few minutes multiple times is an accepted game trope. It causes no friction for players. Not only are we used to starting with a fresh slate, but we are even somewhat reliant on it both as players and designers.
+
+
+*New Pokemon Snap* is fundamentally a puzzle box. It takes a little while to reduce down to this, but once you have a grip on the course, it becomes one pretty quickly. Using some combination of logic and pushing and prodding, you trigger the interaction that you want to see. When you see the game as a puzzle box, the structure comes into focus fairly quickly. Reproducibility is key to being able to present the puzzles to the player and in order to create multi-step puzzles. Additionally, the limitation of only seeing any individual Pokemon a few times helps keep the puzzles approachable for the player. That is to say that if I know that I need to solve a puzzle related to Glaceon, then naturally I can only solve it when Glaceon is present.
+
+## Breaking Down A Puzzle
+<img src="/blogImages/snap_venusaur.jpeg" />
+
+My favorite puzzle was getting Venusaur into the pool. There are a bunch of pieces to this, so I'm going to break them down one by one.
+
+
+The first piece is seeing Venusaur itself. The starters are all exciting Pokemon for players to encounter and I was a Bulbasaur kid, so meeting Venusaur is a big deal. The game only unlocks it after you've leveled up the jungle enough, so you get a moment when you're moving through a very familiar part of the course and then suddenly a Venusaur is sleeping there. It's a surprise and a delightful one. So much of the magic of the game is in just this, the simple delight of meeting a Pokemon that you're attached to.
+
+
+The second piece only has Venusaur as a supporting character. You get a request to trigger Arbok fighting and the way to do that is to lure it to the nearby Venusaur whom you wake up. Once the two register each other, they posture for awhile and then suddenly the Venusaur loses heart and flees. This interaction in itself is a major reward for the player. Most of the most exciting interactions are between Pokemon. Also, in this one, I expected the Venusaur to come out on top. I've always thought of it as the stronger Pokemon. Seeing the Arbok scare it off was unexpected fun and the way that Venusaur bounds off is charming.
+
+
+You then come across the same Venusaur sleeping near the pool. If you don't trigger the Arbok fight, then there will be no Venusaur there. I saw the Venusaur sprayed with water in the trailer, so when I saw it sleeping by the pool, I knew that it was possible to get it to happen.
+
+
+There were a couple of Sobble on a rock next to a Crystabloom. From here, it's just a question of trying things until you get to illuminating the Crystabloom and then playing the melody, which gets them to spray jets of water at Venusaur, waking it up and pushing it to jump into the pool. This is even hinted at by having just playing the melody get the Sobble to gently water the Venusaur. The game is consistent about having Illumina power up Pokemon and so it's not hard to realize that the Crystabloom will result in something forceful enough to wake up the Venusaur.
+
+
+So, here we have the three pieces that make for a Pokemon puzzle:
+- Exciting Pokemon.
+- Logic in the Pokemon world.
+- Simple pushing and prodding.
+
+
+## The Aims of the Game
+
+The aspect of the game that most resonates with players seems to be watching Pokemon be Pokemon. In the main games, the aims of the player character is centered and most of your Pokemon interactions are combat-focused. *New Pokemon Snap* lets you see things like a Scorbunny impressing a Pichu and Grookey with some fire kicks or seeing a Machamp and a Sharpedo have a race. It lets you live in the Pokemon world in a way both separate and complementary to that of the other games or the television show or even the trading cards. All of these give you different pieces of a larger picture, the mainline games detail out the combat and the evolutions, the TV show gives you narratives, *Pokemon Go* put them in the real world and *New Pokemon Snap* lets you see more of what they do when you're not around.
+
+
+From here, it is easy to see why the game is built around Pokemon interactions. We want the Pokemon to do things. It doesn't feel like living amongst them if they're just standing around. It is then natural to make these interactions the reward and to structure the game around puzzles to trigger these interactions.
+
+<img src="/blogImages/snap_xerneas.jpeg" />
+
+Interestingly though, the interactions and puzzles are just one way that the game achieves its aims. Something as simple as turning a corner and seeing a Blastoise in front of you can do the same thing. There's just such a sense of wonder from inhabiting a world full of Pokemon. Obviously, this would not be enough to carry a game by itself, but it is nevertheless an important part of the experience.
+
+
+With the focus on Pokemon interactions and the puzzle box, it becomes easy to make discovering secrets the foundation of the game. This is why the Venusaur thing is fun and the Deerling alternate path is cool. Having matched wits against the game and succeeded, the player wants a reward that feels appropriate and secrets are a much more compelling reward than something like a trinket here.
+
+
+Secrets also feed forward in a very fitting way. You get to meet some new Pokemon, see some new spaces and the design cost is very manageable due to how sealed the system is. Furthermore, these secrets involve Pokemon themselves. I follow a Sawsbuck or a Sandslash instead of blazing my own path and so the Pokemon and their interactions stay in the forefront.
+
+
+This is made even more interesting by how packed the game routes are. Following one secret means letting others go unexplored for the run. I cannot simultaneously follow the Bidoof and Grookey storylines. I must choose one for any given run. This emphasizes the idea of the Pokemon existing without your interaction and of being in their world.
+
+
+So, does the puzzle box work to make the Pokemon come alive? The logic part certainly does. The logic of the game follows the logic of the Pokemon world and by having you engage with that kind of thinking, it helps you inhabit their world. The interactions and secrets do as well. They give you little narratives that you can use to flesh out the world, like the Lotads stacking themselves up. Even the pushing and prodding is fun because the Pokemon mostly respond to it, whether it's just an Exeggutor having a snack or a Jolteon deciding that a fluffruit deserves the nuclear response.
+
+## The Photo Mechanics
+<img src="/blogImages/snap_flareon.jpeg" />
+
+Being able to take photos is, of course, the engine of the game. It's about as light an action as one can have when it comes to affecting the game world and so enables the experience of inhabiting the world without bending it around yourself. The different stars do a lot of work in pushing players to go over the same course multiple times in the hope of finding new things.
+
+
+The scoring system is understandable, but has severe flaws. I want to keep and display the photos that I like the most, but it only rewards the photos that are high value by its metric. Also, the system is limited. There are a lot of times where I just don't bother as I already have good photographs of that Pokemon. Additionally, I don't really care to increase either Pokedex score or course score once I've maxed out the course. The game just doesn't really direct me to do either one.
+
+## The Real World Again
+<img src="/blogImages/snap_vulpix.jpeg" />
+
+Having talked about what *New Pokemon Snap* is, I now want to talk a little about what it is not. I think that the real world analogues that come to mind end us missing a lot more than they hit and I want to talk about why.
+
+
+First of all, Pokemon are not animals and thinking of them as such can only lead you wrong. An animal is a real creature, Pokemon most definitely are not.
+
+
+Imagine being seven and making up stories and adventures featuring the family pet. Pokemon are the actualization of that, not of the dog itself. A Pokemon attack is when you imagine Bolt to let out a bark so powerful that the mean birds all flew away and so the consequences of a Pokemon attack are no more severe than the consequences of that bark and the stakes are the same. The Pokemon is your best friend in a world you must defend and cannot be separated from that Saturday Morning Cartoon context.
+
+
+Also, this is a video game. I think there's a lot of nuance as to how games can foster beliefs in people, but I am not going to throw apples at animals until I get a response in the real world, even if that is what the game pushes for.
+
+
+Pokemon are Pokemon. It makes sense that the Grookey and Pichu are so excited to see you because that is their nature. They cannot be cleanly separated from the animals that they are based on, the Bouffalant and Vivillion and park sign that the game opens with are clearly meant to evoke American national parks, but different rules apply to Pokemon and everyone who plays understands that.
+
+## Understanding Repetition
+<img src="/blogImages/snap_clefairy.jpeg" />
+
+This being said, there's one point that can't help but to look artificial - the way the course resets after each run. It's a tic easy to condemn. It's easy to look at that and claim a similarity to theme parks or animatronics or Potemkin villages, but this is simply just a video game trait. This repetition feeds forward. It acts as the base of the game in the way that seeing the same Goomba in the same place does for Mario. Knowing what is where is what lets me play the game. This is what separates it from repetition in the other contexts mentioned. A roller coaster in a theme park goes down the same track again and again and there's nothing the player can do to build on that.
+
+
+A more interesting similarity is in certain novels. Reading *An Artist of the Floating World* is very different the second time despite being the same words in the same order. When you know the structure of the book, you can appreciate the set-up and the subplots in a way that you are just not informed enough to do on the first pass. Sometimes it takes a couple of runs at something to actually get what all it has to say. Having the text change with every read isn't necessarily a worse experience, but it is definitely a different experience and shouldn't be treated as a necessarily more natural one.
+
+
+I would argue that each course is a set text and players simply retread it in order to fully understand it. There are a lot of practical reasons for this and I'm sure they dominated the reasoning behind the scenes for why this is the way it is, but I want to examine the textual difference a little more.
+
+
+By taking a specific course that you go over multiple times, the game doesn't present a Spector city block but instead a single, very specific situation. What this means is that instead of universal truths, the game presents a set of instances. It doesn't say that Beartics lose Cubchoos in snowdrifts. It says that this Beartic lost this Cubchoo in a snowdrift. It is this Lapras that saved this Squirtle from this Sharpedo and is a single instance of interaction. Imagine writing a rule for this. Do you have every Lapras save every Squirtle from every Sharpedo? Will they save a Poliwag? Will they fight off a Gyrados? Making a system that answers these questions is not that difficult, but what you have now done is made a definitive answer for your player for all of these questions. The game now tells them hard rules. Instead of this one Lapras saved this one Squirtle, it becomes doctrine that all Lapras will save all Squirtle from all predators, no matter what the player had once believed.
+
+
+This actually came up with the Venusaur from above. I was very surprised when the Arbok scared the Venusaur because, in my head, Venusaurs are much stronger than Arboks. The structure of the game lets me maintain this belief by letting me have the space to say that this one Venusaur is just a coward. Maybe it's underleveled and maybe it's just the scardiest Venusaur in the jungle. I can explain it however I want because the game doesn't present a definitive system, but instead just demonstrates a single interaction. This leaves the player a lot more free space to think out the underlying world as they want.
+
+
+This is not without costs to immersion of its own though. There was a time in the jungle when I was trying to get a very specific shot and so rushed through the beginning of the stage. As a result, I ignored the Arbok menacing the Wooper right at the start. Normally, I scare off the Arbok so that the poor little Wooper can go free, but this time I didn't bother. The game has made it clear that everything will reset and that there are no repercussions to leaving this poor Wooper in fear and so I left the pair alone and chased whatever goal I was after. This was a moment where I stopped treating the Pokemon like Pokemon and the game was unable to push back on that. If anything, it had softly encouraged me to do this.
+
+## On The Rails
+<img src="/blogImages/snap_pikachu.jpeg" />
+
+Following the repetition, I think the design decision that most stands out is putting the game on rails. It's a choice that just feels a little dated and so a little surprising. Once I actually played the game though, it made a lot of sense.
+
+
+*New Pokemon Snap* is not a large game in terms of real estate. If you unroll the paths and place them next to each other, the whole just does not cover that large an area. Cutting the restriction of the rails would require the game to greatly expand if you want players to have a similar experience and filling out that space gets expensive. The rails provide tremendous value in managing the development costs.
+
+
+It's easy to underestimate the cost of filling out space. It's one of those underappreciated tasks. It's the kind of thing you notice only when it's poorly done. First of all, these courses are visually varied. Even within a single course, there are lots of smaller regions, all of which are visually distinct. This is expensive to make and the more of it that you want, the more expensive it is.
+
+
+More importantly though, the courses are dense with Pokemon and a lot of the excitement of the game comes from just how many Pokemon are in front of you. More space means more Pokemon means more money, especially when putting in more Pokemon needs to bring a greater variety of Pokemon with it.
+
+
+Production cost is a valid reason in itself, but there are other values to putting the game on rails. The game is built around Pokemon interactions and those are easier to direct and easier to see when the game is on rails. There is an interaction in the game where a Crabrawler took a sleeping Exeggutor for a coconut tree, tried to pluck off a head, woke the Pokemon up and was chased into the jungle. What makes this really fun is when you reach the final beach before the course ends, the two Pokemon burst out of the jungle again, still in their chase sequence. It was a great surprise to see them return and a surprise that draws from scripted media. It felt like a *Tom & Jerry* sequence. This is the kind of thing that works better on rails.
+
+
+Additionally, the game is just simpler to play on rails. Games like *New Pokemon Snap* naturally draw a lot of kids to play, some of a very young age, and the straightforwardness of rails makes it easier to play.
+
+## Jurassic Open World
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJlmYh27MHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There's a strong appeal to an open world *Pokemon Snap* though and I want to go into that a little. I think the core of that appeal is in *Jurassic Park*. Early in the movie, both the characters and the viewers meet their first dinosaur. That moment, where you first see a Brachiosaur and it rears up on its hind legs to eat the leaves off a tree is awe-inspiring and that "Welcome to Jurassic Park" moment is what the idea of *New Pokemon Snap* sort of promises to deliver.
+
+
+The Brachiosaur in the movie feels completely independent of the people. It's walking and eating as it does and is indifferent to the people around it. This is something of the promise of *New Pokemon Snap* and the rails are in conflict with that, albeit a manageable one.
+
+
+Manipulating the Pokemon for secrets also conflicts with this, as do the reproducible set-ups. More generally, player interaction pushes against it. This is much less of an issue than it appears when written down like this. Every game is full of competing objectives. It's interesting to think out what different compromises would look like though.
+
+## Soft Open World
+<img src="/blogImages/snap_gengar.jpeg" />
+
+The most obvious compromise is extremely straightforward. Have biomes for each of the current regions, add some connective tissue between the regions and within them as well and allow players the ability to move freely. However, you keep the way the game resets and the focus on secrets. You just let the players move a little more freely within it. I think this is what people had in mind when they wanted this game to be open world.
+
+
+There are a bunch of obvious advantages and disadvantages to this, most of which I've covered above. There's a greater sense of freedom, even if it is a small game in terms of real estate. What I want to highlight though is that this does not do much to eliminate the contrivance that one would hope to avoid. You still have the same Wooper menaced by the same Arbok and without eliminating the contrivance, is there that much point to the open world at all? Being able to make a beeline to a specific Pokemon might even make the puppet strings clearer.
+
+## Photography For The Open World
+
+Photography really does fit well with the promise of the game. It's interactive but non-invasive and the photograph itself makes a great reward. So, could we imagine something that makes that more of a process? What if we made a game where each photograph required ten minutes of preparation and hard work just to set yourself up to take the photograph. Imagine that instead of being flooded with Pokemon, it would take finding tracks, researching them and figuring out where to be. You could imagine special events that fit in with this, maybe a Vivillion migration or a Bellsprout bloom.
+
+
+This is very clearly a feel very different from the one that *New Pokemon Snap* went with and one that feels much more limited, but makes for an interesting thought for how we could make a significantly less invasive Pokemon photography game.
+
+## Pokemon Simulations
+<img src="/blogImages/snap_wailord.jpeg" />
+
+Finally, let's imagine something that goes even farther the other way. Imagine a fairly basic simulation for the Pokemon. Different Pokemon have different regions and interact with each other for territorial control. It wouldn't be completely antagonistic, you can have multi-species herds and you can have some Pokemon protecting others and have friendships develop. Give each Pokemon a set of behaviours (eg; neutral, eat, attack 1 and attack 2) and some more specific interactions and let the player be able to bring about interactions and influence the results. You would see a Charmander use Ember against a Caterpie, but use Bite against a Slowpoke for instance, and so try to get the Charmanders to engage with both.
+
+
+As this, the game would be quite shallow and it seems like it takes the invasiveness too far, but the procedural background does make the exploratory phase feel more real to the player. That Blastoise is more exciting if you know it wasn't placed there. The fights feel more honest when you know that they happen for a reason besides the player showing up.
+
+## The Perfect Open World
+<img src="/blogImages/snap_eevee.jpeg" />
+
+I'm going to end this article with the one perfect open world Pokemon game. When I was six years old, I once went to a friend's house and the two of us went into the backyard and imagined that we were catching Pokemon. I'm not sure how, but kindergarten kicks and punches featured heavily in this game. I can't tell you a single thing about how that game worked. I don't even remember that friend's name. Nevertheless, that was the most fun I've ever had with a Pokemon game and I still smile when I think of it.
+

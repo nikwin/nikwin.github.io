@@ -1,0 +1,80 @@
+
+---
+layout: post
+title: Why Not? Ep. 1a - Pokemon Go: The Future Is Now
+tag: pokego
+date: 2018-11-27
+desc: On Pokemon Go and what it means for the future of games..
+---
+
+
+*Pokemon Go* has me excited in the way that few recent games have. We are probably going to see a surge of AR games in the near future and this is enough of a new space that it will result in new tools and new theories for game design as a whole. This reminds me very much of the MMO craze of 15 years ago or the explosion of Facebook games from seven years ago. Both of those periods forced people to challenge existing theories of game design and expanded the field, and I hope that we'll see the same from this one.
+
+
+This is a very high level view of the effects of *Pokemon Go*. I'm going to go further in depth on many of them over the next week. If there are any points in particular that interest you, please tell me and I'll try to look at them as well.
+
+
+Having said that, the key thing that interests me about this game is how easily I might be wrong about everything. It's quite possible that this entire article will seem laughably foolish in a very short period of time. That's the whole fun of seeing something new.
+
+## Things That Amaze Me
+## Making walking around into a currency
+
+Traditionally, there hasn't really been too much that we can ask for from our players. Far and away the most used one is simply time. Whether in the direct form of grinding or in the more indirect form of requiring practice, asking people for their time is fundamental to most games (and to be fair, it is key to *Pokemon Go* as well). Other things were mental effort, actual cash, creativity and socializing. This is obviously non-exhaustive, but what *Pokemon Go* did is ask us to walk. This is time related, you cannot walk without spending time, but this plays out moderately differently. If nothing else, it is a very specific use of the time asked for.
+
+
+However, practically, the difference is deeper than that. It requires actual human stamina and helps build health. The fact that players know that it builds health feeds back into the entire game, but asking people to take a walk outside is a very charged ask. People know that it's good for them, but it does require effort that they may not want to pay and has quite the barrier to entry. A lot of people are proud of how much walking they've done due to *Pokemon Go*.
+
+## Real world impact of *Pokemon Go*
+
+I can't think of a game that has ever bled into the real world to the extent that *Pokemon Go* has. People are congregating in parks because of this game. People are wading into the ocean because of this game. People are getting mugged because of this game. This is a game that was designed to get people to meet each other in the real world, and the level of success that it has had is fascinating. Also, the sub-culture that it has is impressive. It feels like we're both in on a secret when I meet someone else playing on the street.
+
+
+More prosaically, businesses are getting huge boosts in customers through this game and setting up lures as a way to get business. There is clearly money here for the right real world businesses and I can't imagine that it will take too long before actual businesses move in on that promise. I personally think that a lot of them are going to lose money on doing so. I fear that most approaches will be too direct and so will be rejected by players, but I am very interested in what is going to happen.
+
+## Selling the fantasy of Pokemon
+
+*Pokemon Go* does not feel like the handheld games in more than just mechanics. The feeling of seeing Pokemon in the real world, while walking around that real world is a big deal. I personally turned off the AR quickly and even when it was on, it felt more like a clumsy sticker on a photo than part of the real world. Turning my phone around to see a Pokemon was so disconnected from reality to do anything to sell the idea of them being in the real world. However, seeing them on the map felt very real. The game completely sold me on the idea that they had a physical location.
+
+
+This is the closest that I have ever been to being seven years old and running around outside pretending that I was catching Pokemon. Well, the closest that I've been since age seven. For the record, it was a lot more fun when I was seven, and I am a little upset at *Pokemon Go* for that, but I'll get into that later. The point here is that this game tapped into a fantasy of my youth and that is amazing.
+
+## First realization of AR
+
+It's hard not to be excited about futuristic things and VR and AR look cooler than most of the rest of the bleeding edge of video games, especially to people who aren't completely consumed by video games. *Pokemon Go* is not the first AR game, but it is the first major one. This is the point where the technology rounds the corner and becomes something that people consider when making new games. I assure you that there are people out there putting the final touches on their pitch for an AR game and I would bet some of those pitches are going to make it to release.
+
+## Sobering Up
+
+No matter how fun it is to ride the hype train and go starry-eyed into the future, reality tends to be more mundane than dreams, and keeping your feet on the ground is important.
+
+## Pokemon + AR is a unique combination.
+
+Pokemon is one of the biggest IPs of the past 50 years and it's uniquely well suited to AR. I wrote above about how this taps into something that I made-believe that I could do at age 7, but this is one of the few things that's true of. Cops and Robbers doesn't have the single IP that this requires, much though we all played it in my elementary class. D&D is far, far smaller than Pokemon. Harry Potter doesn't have the immediate AR connection that Pokemon does (although Harry Potter is interesting, I'll go deeper into it in a future article). Also, this is the first Pokemon game to hit handhelds and that pent-up demand is not to be underestimated. Basically, don't expect people to react as well to your unknown IP as they did to a Pokemon AR game.
+
+## AR Game Design Is Still Game Design
+
+Making a game is hard, and making a good game is very hard. Adding AR is not going to change those facts. AR will not cover up for the weaknesses in your game's design and implementation, or at least won't do so when it becomes commonplace. It will make everything more expensive though.
+
+## Being a Phenomenon
+
+The stuff that people talk about comes more from being a phenomenon than anything else. Your AR game won't fill Central Park, especially if it's not the only one out. This is even more of a problem when there are multiple AR games. When I see someone walking around while playing a game right now, I can assume that they're playing *Pokemon Go*, but if there are multiple AR games co-existing, I would not know if they're playing the same game I am. Also, future AR games are not going to get the same free press as *Pokemon Go* did and user acquisition on mobile is expensive.
+
+## Ingress
+
+*Pokemon Go* is not the first AR game to have come out, it's just the first one to be successful. It is possible that all that was holding AR games back was just that people were dubious of the act of walking around while playing a game and *Pokemon Go* has proven to people that games like this can be fun. However, it is also possible, and indeed quite likely, that there were other things holding these games back and it's possible that we'll find something about AR in *Pokemon Go* that will cripple it. The puzzle of AR in video games has not yet been solved.
+
+## On The New Hotness
+## Fads are Fads
+
+I think it's a little too early to declare Go Pokemon a success. We don't know what the retention or monetization numbers look like. I think it's ridiculous to expect it to sustain the player base it sees right now, and the question of what population it will stabilize with is critical. Additionally, this is an MMO and the experience suffers when the population drops below a threshold, which can lead to a death spiral. It's going to take some time before I can be certain of anything with this game.
+
+## Failure of Previous Trends
+
+It's easy as a game designer to get excited about what the future will hold. When trends start, all I see are the dreams of the games that could now be. I saw this with the MMO boom and the Facebook game boom. Sadly, if not surprisingly, players in the real world weren't interested in quite the weird stuff that I was, and the genres felt more tame than they had to be. I expect to see the same thing with AR. I'm still going to dream though.
+
+## Success of Previous Trends
+
+On the other hand, look at the tools we got from both. Metrics, the social tools of MMOs, gifting, daily bonuses, idle games and so on. We can argue the morality and utility of these tools and with some of them, there is good reason to do so, but anything that expands the toolbox available to designers is something that I'm going to be happy about. It really took Facebook games for me to understand how to use real time instead of playing time in a game, and while there is no dearth of games that don't use real time well, it can be a powerful tool.
+
+
+This is an exciting time to be working. I'm excited. We should see some great games and some great new approaches to video games come out in the near future and I want both to play those games and use those tools.
+

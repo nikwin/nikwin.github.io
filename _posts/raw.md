@@ -1,0 +1,162 @@
+
+---
+layout: post
+title: Pokemon Go: Raw Notes
+tag: pokego
+date: 2018-11-26
+desc: Raw Notes from playing Pokemon Go.
+---
+
+## Raw Notes
+## Nostalgia Factor of Pokemon
+- Playing in a car reminds me of road trips when I was little.
+- I wish the game was less P&D and that catching Pokemon was real. This is the flip side of the legacy.
+- This is not as much fun as when I was seven and running around pretending to do the same thing with a friend
+- Terminology is bad. Why badges and not gym badges. Why not level?
+- I want to be a pokemon master. It wants me to take walks. I actually like my walks more without the game.
+- A lot of the appeal is that this is essentially what a lot of people would do as kids with their imagination instead of their phones.
+- Everyone wants AR to work, and everyone particularly wants Pokemon AR to work.
+- Similar to Rock Band or Wii Sports in how it works. - Is fantasy fulfillment
+- The way different areas had very different pokemon was a big deal in the games. - I'm tired of seeing the same Pidgeys and Rattatas
+- The worthlessness of the pokemon that you start with really hurts. The right thing for me to do now is to transfer the pokemon and I don't want to do that.
+- For all of the flaws of the pokemon tv series, it did one really important thing and that was make you feel like you were in the pokemon world. It was like Jurassic Park, it committed to the idea of being in a world full of pokemon.
+
+## On making things valuable to the player
+- If these things were not Pokemon, I would have no attachment to them, but Cubone is Cubone and Magikarp is Magikarp.
+- Tell me the areas where I'm more likely to find the pokemon I want. Make catching a pokemon more than just a lucky draw, let me put some effort into getting the ones I want.
+- Being able to catch evolved forms really sucks. - really conflicts with the Heroes Charge evolving system
+- Randomly getting powerful Pokemon feels bad.
+  <li>Think about what made Pokemon such a good collection game:
+- The effort in catching a pokemon
+- The value they had in the system
+- The amount you invested in some of them
+- The amount of effort the designers put into them - flavor text.
+- "Gotta Catch 'Em All"
+- Pokemon being intrinsically valuable/meaningful as pets, the TV show helped with this.
+- Constant interaction with pokemon, reinforcing their value.
+    
+  <li>Pokemon does a lot to make its pokemon valuable:
+- Type systems
+- HMs
+- Rarity
+- Different areas for different pokemon
+  </li>
+- When you have multiple traits for an item that has a value such that V = a1 * a + b1 * b ... (This is atrocious and completely false math, but bear with me a little) it lets people express themselves as the a1, b1 ... that they believe can be different from the co-efficients someone else uses. Their different evaluation criteria lead to differing values for the items, which leads to differing teams. So, in Pokemon, you would see different teams across different people, but with CP in PokeGo being a single number, this is impossible. I just use the 6 strongest pokemon.
+- The value of the pokemon also derives from your investment in them. This is broken in Go by letting you capture evolved pokemon in that the evolved pokemon is no longer representative of the effort spent on it as you could have just taken the shortcut to get there. Additionally, when a pokemon required a lot of work to evolve and has a CP that is not commensurate with that effort, it feels really bad for players. The evolution system in place and the ability to capture are in conflict, either one should be changed.
+- Value also derives from players investing in the item
+
+## Game design
+- The Heroes Charge stuff all feels bad though - I don't like the leveling system one bit.
+- Goddamn, but this game would be better if it had an aquarium.
+- The game feels like the attacker is favored at a gym, which disincentivizes me from investing too hard into the defense.
+- The gym system is just very grindy - it takes forever to take down a gym. This isn't really the way to incentivize social either. I'm not going to get a bunch of people together to take down a gym.
+- Is this game meant for kids? Is that why the capturing system is the way it is?
+- How much of this game is designed in the way that it is to make the game interactions quick and non-intrusive
+- Is more an app to get you to exercise and explore than anything else, but fails completely at that.
+- The candy system doesn't make much sense, but what's really been bothering me is that I should get more candy for transferring the Pokemon than for catching it. I don't understand the metaphor here.
+- The game feels weirdly predatory. - It uses a lot of the P&D/Heroes Charge style things that were designed to prey on players.
+- I enjoy my walks more without it, and I walk a lot. I had a walk where I could not find the Omanite I wanted and captured a gym just to lose it within five minutes and I came back frustrated more than recharged.
+  <li>Eggs requiring walking is probably the best feature of the game though
+- Works like a salary. Is a guaranteed reward.
+- It guarantees you a pokemon after a certain walk
+  </li>
+- The game doesn't actually do that much to push me to explore new areas.
+- Doesn't have the addictive pacing of the original
+- There's so little scope for personality. I can't do anything with PokeStops or Gyms or really anything to show people that I was here and that I am not exactly the same as everyone else.
+- Stardust limits the number of pokemon you can upgrade, so getting a new Meowth is worthless to me because I can't afford to level up my Persian despite having a lot of candy because I need to save my Stardust for the one/two pokemon that have a higher base power.
+- The fact that CP doesn't even actually tell you a Pokemon's strength makes things worse. Why give me a number that you present as a definitive measure of strength, but actually is not? Why lie to me like that?
+  <li>The points of keeping your game from being pay-to-win are contradicted by the game:
+- I don't feel rewarded for my investment into my pokemon as I (or other people) can just catch or hatch a pokemon enough stronger than what I have now to invalidate all of my work
+- Pokemon strength seems to be related to player level, so someone can go out and buy a bunch of lucky eggs and essentially buy their way to stronger pokemon
+- The game has no system of diminishing returns for time investment, so I can't catch up with players with more time than I have. This works out to much of the same feeling as being unable to catch up with players who are willing to spend more than I am.
+- Having said this, much of the problem of being pay-to-win is in appearing pay-to-win.
+  </li>
+- Game is a lot less fun when you already have all the pokemon near you.
+- Lures do push me to go to new places even if much of the rest does not.
+- The random chance to get a curveball bonus is very weird  - How exactly I am to get the curveball bonus is not clear to me, and actually throwing a curveball does not guarantee it.
+- Stardust, XP and the burden of optimal play are forcing me to catch all of these pokemon that I don't really want to catch. In the old game, I'd just run away from all of these Rattata and Pidgeys. It feels like a slot machine where I have to play out a loss for a minute after I lose.
+- It is not a fun feeling to open the pokemon near you menu and see that you have all of the pokemon near you already.
+- Game sort of disincentives exploring on my daily route because I've already figured out the optimal route and deviating from it would result in my getting fewer things.
+- Additonally, monetizing pokestops is a fantastic way to kill the exploratory aspects of the game.
+- Gyms function as a daily bonus, but require a lot of energy from the player to collect.
+- The randomness of catching a pokemon makes it really hard to determine if you're getting better at the skill parts of it. I thought that just getting the circle smaller was enough, I didn't realize that I also had to get the ball in that circle.
+- The whole thing of taking down a gym would fit a lot better in the game if it were not a team activity in quite the same way. When I think of gyms in Pokemon, even the Sandshrew one and the Electabuzz/Scyther ones, they had one person and then some minor trainers. That's what would work better here. Also, the themes were good. Also, badges should come from this.
+- Spending lots of stardust on a pokemon just to catch more powerful ones later is irritating.
+
+## On AR
+- Would it kill the game to tell me how far something is and give me the path to walk there (Using Google Maps)? It would really help me go to gyms in particular.
+- Make it more social - let me put down a point where I have caught something so that other people can see. Let me talk to other people in my team in my area so that we can coordinate.
+- I dislike pokestops. Why couldn't they be shops or pokecenters or trainers?
+- Being able to see on the map what areas have the pokemon
+- Wouldn't it make sense to have pokemon near pokestops?
+- This reminds me of the first social games. This is a new area and we may all just be wrong.
+- Honestly, the social interactions I've had with people due to this app have been pretty awkward.
+- Can we get past the old stereotype of the gamer as unathletic? It's just untrue at this stage.
+- Does AR success require a monopoly and a cultural movement? Social experiences are because we can see other people taking actions and we know they're playing Go, but what if there are multiple games like this? I'm not going to flash someone my phone screen when there's a 20% chance that they're playing the same game I am.
+- Think about playing Mirror's Edge and then seeing the city you're in differently and plotting out possible routes. The game has reshaped the world the way that PokeGo does, but less directly.
+- Making sure that everyone sees the same pokemon is a very good decision
+- Honestly, I don't like random people. I don't like the casual hate and pettiness I get from them. It is worse for many, but I do have my share of weirdness and I do not like being reduced to those traits. I don't like the need to compare levels in the game or pokemon. I don't like most people and there are valid reasons for that.
+- It would be nice if the game affected the world and not just the other way around   - There's a little bit of that in people setting up lures by their businesses and real life meet-ups, but I mean something more video game-y and mechanical
+- The UGC of PokeStops leads to bad gameplay where there are many areas with few to none and some areas with so many that you have to constantly stop while walking to collect from them.
+- The fact that everyone can catch the same pokemon is very important. It makes for a good social elements and prevents the feeling of having a pokemon stolen from you.
+- When thinking about the future of AR, remember how WoW defined the future of MMOs by removing a lot of the promise of the genre. Making the game something that is convenient for the players is more important than the promise in your head.
+  <li>Other AR games:
+- Farming game - You could set your home IRL to be your home in the game. That actually really excites me.
+- Mob game
+- Journalism game
+- Imagine something that puts weapons on your car so that you can fight against other kids in backseats.
+- Harry Potter might actually work though - maybe something about being a wizard in the world of Muggles though? That might work. Also, kids can't wander around like millenials can.
+- Maybe comic books?
+  </li>
+- It was a lot of fun to track down the Flareon with other people though.
+- Game really should have a panic button - to call the police or someone you trust.
+- A large question that comes up is how much can I ask from the player for this game? Going within walking distance of where they already are and occasionally making an expedition for the express purpose of catching pokemon seems to be the answer for this game. Can I normally ask them to drive somewhere? Can I ask them to do so with a time restriction?
+- Are feotch quests a reasonable ask?
+
+## On AR as an MMO
+- It looks like you are likely to catch higher CP pokemon when at a higher level and even otherwise, your team power trends upward with time, but the game does no balancing for early players. You're competing with players who have been at the game longer and are so more powerful just straight up. The gym just goes to the person with the highest level pokemon, which is essentially the most experienced player.
+- Feels very lonely for an AR MMO
+- The opacity of the rules makes for good conversations.
+- The game doesn't provide icebreakers though
+- It was a pain to go around in a group that was largely mystic.
+- I think that incense is a mistake because it is inherently anti-social in a game that lives on social.
+- Again, I hate making your game opaque in order to foster player communication. It's non-renewable and causes a lot of frustration. There are better solutions.
+- The shared secret of Pokemon Go is appealing though.
+
+## On bugs
+- THERE IS A BUG THAT MAKES MY GYM OPPONENT UNKILLABLE.
+- They cause your player base to get very upset with you
+- It makes actions more expensive from the player's perspective. I don't want to catch a Pidgey, because it might crash the game. I don't want to take out a gym because I might get stuck trying to fight or get kicked out after a single battle. Everything takes more time than it should and so costs me more than it should and is less fun than it should be.
+- Imagine being told that you were going to have a feature that kept the player from doing anything for some amount of time, or randomly invalidated actions. That feature would never get through a design process, but effectively has.
+- You need to be communicating with them to placate them
+- The slow servers means that I need to stand still at stops instead of being able to collect them while walking.
+- The terrible community management is also a textbook case of how not to do something.
+
+## General notes
+- I am officially heavily fatigued of the game. It doesn't feel like there is much of a point to any of the actions.
+- http://www.forbes.com/sites/jasonevangelho/2016/07/12/niantic-ceo-confirms-sponsored-locations-are-coming-to-pokemon-go/#6273fb0c137e - Making sponsored locations for Pokemon Go.
+- Anecdotally, the fad seems to be dying.
+- Are tutorials necessary anymore? Will players just learn how to do things on the internet instead?
+- I had no idea what to do with a pokestop the first time that I saw it.
+- What is the impact of this game on Nintendo's brand? People associate this more with them than with Niantic, although people are quick to blame Niantic for the failures of the game. Will people remember the hype? The bugs? The disdain for the old games?
+- The next AR game has a lot less fighting to do than the one before this.
+
+## Blog Posts To Write
+
+  <li>The future is now:
+- I don't actually know anything. This is Farmville all over again, except for the ways that it is not.
+  </li>
+  <li>On Pokemon
+- On the actual fantasy of pokemon and the age group it was for
+- Designed to be bug catching
+- How perfectly it represents adventuring as a child.
+  </li>
+- On making things valuable to the player
+  <li> On the game design of pokemon go
+- On the game's goals
+      <li>On bugs
+    
+  </li>
+- On AR and AR as an MMO
+- On the failures and successes of Pokemon Go
+

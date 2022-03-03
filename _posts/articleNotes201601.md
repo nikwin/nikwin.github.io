@@ -1,0 +1,141 @@
+
+---
+layout: post
+title: Article Notes 2016-01
+tag: notes
+date: 2018-11-8
+desc: Notes on various articles from January, 2016
+---
+
+
+These are just the notes I took down in January. All of the notes can be found [here](/articleNotes)
+
+## [Gamasutra: Jonathan Blow on *The Witness*](http://www.gamasutra.com/view/news/262900/Qamp_A_Jonathan_Blow_on_The_Witness_and_the_state_of_indie_games.php)
+- I am now very excited about *The Witness*.
+- He dislikes aha moments as he feels that those are artificial moments designed to make you feel smart instead of just letting you be smart and rewarding you for that.
+- Aha moments are arbitrary, which he dislikes.
+- He makes the keys for doors into ideas that you can learn from other places. You can open every door immediately if you can figure out the right idea, but other parts of the island will give you clues to help.
+- His notes on why *Gone Home* could not be an F2P game seem wrong. Traditional F2P tactics (timers for instance) might not work, but that doesn't make it impossible.
+- The point that F2P games define a win state that you want in order to monetize you and so limit your design space is true, but also seems surmountable.
+  
+
+
+## [Jonathan Blow: Game Design - The Medium Is The Message](https://youtu.be/AxFzf6yIfcc)
+- Commercial breaks and syndication really affected the structure of television.
+- The shows were built knowing that they had to keep you through the commercial break.
+- Syndication forced the show to reset after every episode as you couldn't guarantee that people would watch the show in the right order.
+- HBO rejecting these constraints allowed them to produce higher quality television.
+- The audience of the standard 70s TV show had low expectations of the television they consumed and didn't want to invest much energy in it. On the other hand, movies had a cost associated with going to them, and so people had higher expectations.
+- Similarly, arcades defined early games and that is why they were so hard.
+  
+
+
+## [Slate: Who Really Controls Your Facebook Feed](http://www.slate.com/articles/technology/cover_story/2016/01/how_facebook_s_news_feed_algorithm_works.html)
+- There are a lot of people behind the Facebook algorithm.
+  
+
+
+## [RPS: *Infested Planet*'s Mutation Mechanic](https://www.rockpapershotgun.com/2016/01/08/how-do-infested-planets-mutations-work/)
+- The core is that RTS single-player can be boring as the player can find a strategy that wins and then just use the same strategy against the entire campaign.
+- *Starcraft 2* avoids this by adding gimmicks to different levels to force them to require non-traditional strategies. However, this kills the replayability of those levels as they then become puzzles.
+- *Infested Planet* has the enemies mutate to gererate situations that require different strategies naturally.
+- For most of the game, these mutations are random. This still feels like it is responding to the player as people tend to draw false positives.
+- This is also easier to make.
+  
+
+
+## [Gamasutra: Procedural Storytelling from *Moon Hunters*](http://www.gamasutra.com/view/news/263303/3_lessons_on_procedural_storytelling_from_Moon_Hunters.php)
+- Roguelikes work very well with a procedurally generated story due to their random, repetitive nature.
+- She advises breaking away from duality (good/evil) and having a more nuanced story choice system.
+- Make room for mundanity, but make it compelling.
+- Go for breadth over depth - look at *Sunless Sea*
+  
+
+
+## [NYT: Ted Cruz and Donald Trump fight over NY](http://www.nytimes.com/2016/01/15/nyregion/ted-cruz-and-donald-trumps-familiar-feud-over-new-york.html?partner=rss&emc=rss&_r=0)
+- No real note to take here, it was just fun to read the NYT eviscerate Ted Cruz for attacking New York
+  
+
+
+## [Gamasutra: Mechanics of Tension](www.gamasutra.com/blogs/ChrisPruett/20160115/263292/The_Mechanics_of_Tension.php)
+- Article is about mechanics that help make video games scary.
+- Making the rules change creates a feeling of not being in control.
+- Systemic problem solving can take the player out of the experience and so reduce fear.
+- Hiding rules and mechanics helps with both of the above.
+- Meaningful failure adds tension.
+- Game difficulty causes heart rate elevation which makes people more likely to feel scared.
+- Negative space is important as it leaves scope for player imagination.
+- Loss of agency is very powerful.
+  
+
+
+## [Gamasutra: Narrative Negative Space In Games](http://www.gamasutra.com/blogs/RyanBenno/20160113/263445/Narrative_Negative_Space_in_Games.php)
+- Negative space gives players some space to breathe.
+- Negative space gives the players space to make their own variation of the character archetype defined by the game.
+- Fully formed characters do not leave space for interpretation and can result in ludo-narrative dissonance.
+  
+
+
+## [Gamasutra: Gamifying Reviews Won't Work](http://www.gamasutra.com/blogs/RobertFearon/20160120/263893/Gamifying_Reviews_Wont_Work.php)
+- The written press is the best source for criticism of your game and that is its purpose, not to be an advertisement.
+  
+
+
+## [Gamasutra: Make Stats Designer-Facing](gamasutra.com/blogs/JakubKasztalski/20160119/263695/Balancing_a_Game_the_Right_Way_Make_Stats_DesignerFacing.php)
+- Don't make the users of your tools do arithmetic that your tool can do instead.
+  
+
+
+## [Gamasutra: Procedural Generation By Molecule or Mythology](http://www.gamasutra.com/blogs/TanyaXShort/20140916/225758/Procedural_Generation_By_Molecule_or_Mythology.php)
+- ProcGen adds replayability and an element of unpredicatability. This can make the game more fun to play for the game's developers and for people producing content on it in particular.
+- Makes content more valuable and efficient.
+- Gives people their own unique stories.
+- The modules need to interact with each other in interesting ways. The player should not feel like all of the meaningful variations have been exhausted.
+  
+
+
+## [Difficulty in games](https://blog.delphinium.io/different-ways-to-create-difficulty-in-games-or-help-my-game-is-too-easy/)
+- Non-exhaustive and slightly basic overview of ways that games add difficulty.
+  
+
+
+## [D'toid: *Darkest Dungeon* Review](http://www.destructoid.com/review-darkest-dungeon-337158.phtml)
+- I feel that difficulty in rogue-likes needs to be tempered by having each session be short, but *Darkest Dungeon* disagrees.
+  
+
+
+## [Arcen Games Layoffs](https://arcengames.com/great-work-on-starward-rogue-team-now-youre-all-laid-off/)
+- A good read about how a game company went bankrupt.
+  
+
+
+## [Cliffski: *Gratuitous Space Battles 2* Budget Breakdown](http://positech.co.uk/cliffsblog/2016/01/25/a-video-game-budget-breakdown-gratuitous-space-battles-2/)
+- Interesting statistics.
+  
+
+
+## [*M:tG*: First Pro Tour](magic.wizards.com/en/articles/archive/ways-play/oral-history-first-pro-tour-2016-02-02)
+- The NBA helps all levels of basketball. It doesn't exclude players who aren't professional.
+  
+
+
+## [RPS: *Black Desert Online* Preview](https://www.rockpapershotgun.com/2016/02/03/black-desert-online-preview/)
+- They have a knowledge system. You use this to pick up pieces of lore that you find around the game.
+- You can influence NPCs with this lore, but you have to find the right topics for them.
+- There's a mini-game to use this knowledge that functions sort of like a card game.
+- This makes them feel much more fleshed out than normal MMO quest-givers and makes the quests feel earned.
+- They can also give you their own knowledge, lend you special items or sell you rare things.
+  
+
+
+## [*M:tG*O Pro Tour Gauntlet](http://magic.wizards.com/en/articles/archive/magic-digital/pro-tour-gauntlet-comes-magic-online-2016-02-03)
+- Event on MODO that lets you play with a random top-tier deck.
+- I like this stuff to give people a quick taste of top level play.
+  
+
+
+## [Gamasutra: How *Long War* Influenced *XCOM 2*](http://www.gamasutra.com/view/news/265065/How_one_mod_helped_define_the_modern_XCOM_experience.php)
+- Jake Solomon talks here about how difficulty forces players to engage with the systems.
+  
+
+

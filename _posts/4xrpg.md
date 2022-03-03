@@ -1,0 +1,59 @@
+
+---
+layout: post
+title: The 4X, Seen As An RPG
+tag: syph
+date: 2020-01-22
+desc: Analyzing the role-playing of 4X games.
+---
+
+
+4X games are always classified as strategy games, with good reason, but a lot of their pieces only makes sense when seen through an RPG lens. The genre lets you roleplay leading a nation, or a people, or a race of sentient fungi, through history and this roleplay is a large part of what makes these games feel how they do.
+
+<img src="/blogImages/civCity3.png" />
+
+This shouldn't be a surprise given the rest of the work by the founding father of the genre, Sid Meier. Games like *Pirates* and *Covert Action* are about the idea of being a pirate or a spy more than anything else. So much of *Civilization* doesn't make sense unless you see it as part of a box of toys meant to enable role play. Things like spies or planes or nukes just do not justify their costs otherwise. Even climate change in *Civilization 6* doesn't do enough to make it worth making unless built from the top-down.
+
+
+This is just a compelling fantasy to play through. The idea of bringing a nation from birth to victory is empowering.
+
+
+Additionally, many games now blur the lines, especially the Paradox Grand Strategy games. Games like *Crusader Kings* live in the fact that the role-playing is critical to the whole experience. It's clear that the role-playing is an essential part of the whole 4X experience.
+
+## Ramifications
+
+This role-playing element opens up a lot for the genre. For a game like *Civ*, it allows for the rest of the game to be much looser than it would need to be otherwise. I play *Civ* at a lower difficulty than would really challenge me because I'm not playing it to be challenged as much as I'm playing it for the fun of building out the empire. By reducing this focus on the systemic nature of the decision making, the game becomes a lot easier to make. This is what allows the AI to be bad without the game completely falling apart, what allows the balance issues and what lets the complexity be off the charts without hurting the game severely.
+
+
+This is to say that the role-playing aspects of the game often come heavily into play when it comes to the turn-to-turn decision making parts of the game. When I choose which district to make for a new city in *Civilization*, I tend strongly towards Theater Squares and Campuses because I'm attracted to the idea of a nation with high culture and science more than out of a desire to win the game. Similarly, I'm even hesitant about deforestation and I love making natural preserves because they agree with my real world policies. I could easily continue generating tons of carbon dioxide without hurting my chances of winning, but it's very satisfying to shift to renewable energy simply because I like renewable energy.
+
+
+In this way, the theming of the game fundamentally affects the decision making of the game, and so the texture of those decisions changes too. The question changes from which build option would be best for me to which build option do I most want. This firstly adds depth as there are always lots of things that I want to build, some of which come from the systems. Additionally, it helps deal with the complexity as when I don't know what would be best for my nation, I can always default to what I want most for my nation.
+
+<img src="/blogImages/tta.png" />
+
+A great way to see how this comes into play is to look at the very good Vlaada game *Through The Ages*. *TtA* is very much a Eurogame and any role-playing aspects to the game are completely overshadowed by the game's unforgiving focus on math. Your feelings on the Pyramids versus the Colossus as ancient wonders are immaterial. What matters is entirely what each of those will do to help you win the game.
+
+
+That's not to say that those considerations do not come into play in *Civilization*. Often, I'll want to build a library and be pushed into building a swordsman instead so as to forestall an invasion. It is however that most 4X games give you the space to determine your own path. The possibility space for victory is so large that there's a lot of scope for self-expression in how you play them.
+
+
+Of course, many players care much more for the strategic side of the game than the role-playing side, but the nice thing is that none of this precludes that. You can happily play a 4X game indefinitely free of the theming. However, this role-playing allows the genre a much larger audience than would otherwise be possible.
+
+## Missing Fantasies
+
+Seeing the genre from this perspective makes it clear how much space to explore is left in the genre. That the fantasies are all so explicitly nationalistic is as though you could only play one side of an RPG. I'm going to end this article just briefly going over a lot of possible thinking points for what other fantasies can be.
+
+
+First though, I just want to make a quick, big picture point about the perspective people come to this with. History tends to focus on the big things, the big events and the big people. They tend to be nationalistic in their view and often present winners and losers. So, it's easy to take the same notions in to building a 4X game. There's a Gandhi quote from Hind Swaraj that has always stuck with me here, "But if [history] means the doings of kings and emperors, there can be no evidence of soul-force or passive resistance in such history. You cannot expect silver-ore in a tin-mine."
+
+
+Here's a quick list of ideas:
+- <b>Happiness</b> - In the real world, I don't want a government that focuses on wars or wonders, I want one that makes my daily life a little better. Citizen happiness is not just a way to increase productivity, it's the explicit goal that I want, not a means to an end.
+- <b>Wakanda</b> - Isolating yourself from the rest of the world in order to build your society and technology.
+- <b>A global leader</b> - Someone who would lead in a time of crisis. Someone who could play peacemaker or solve climate change or even act as the city on the hill, fantasy though it is.
+- <b>Utopia</b> - A post-scarcity world, an ecotopia, a fully-automated luxury communism. A utopia as something to be achieved and not built.
+- <b>Nomadic lifestyle</b> - It's not necessary to follow the path charted by humans thus far. We can have games with nomads, games that let people feel enough is sufficient, games that are willing to be satisfied.
+- <b>Passing peacefully</b> - Just letting a people pass quietly into the void that has a quiet appeal. I would enjoy playing a 4X with that as the final goal.
+
+

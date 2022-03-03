@@ -1,0 +1,189 @@
+
+---
+layout: post
+title: Article Notes - 2016/02
+tag: notes
+date: 2018-11-18
+desc: Notes on various articles from February, 2016
+---
+
+
+These are just the notes I took down in February. All of the notes can be found [here](/articleNotes)
+
+## [Brendon Chung Interview](http://huntandgather.ie/brendon-chung-30-flights-of-loving/)
+- Technical skills add to your game dev toolbox.
+- Human beings do human being things. Not having them in your game hurts the experience.
+    <li>
+  
+
+
+## [RPS: *XCOM2* Pieces](https://www.rockpapershotgun.com/2016/02/05/why-should-i-play-xcom-2/)
+- A lot of small things in *XCOM2* that make the game great.
+  
+
+
+## [Keith Burgun: Why *LoL* is the World's Greatest Game](http://keithburgun.net/why-league-of-legends-is-the-worlds-greatest-game/)
+- It takes people a couple of seconds to make decisions and *LoL* allows for that.
+- As always, his terrible writing style is a pain. Oh well. There's just so much trivially false air. So many unqualified assertions. Every single time.
+- The great Riot patch notes do a lot to help take away the sting of their changes. They work at communicating their changes.
+  
+
+
+## [RPS: *Risk of Rain* Difficulty ](https://www.rockpapershotgun.com/2016/02/05/risk-of-rain-difficulty/)
+- The core is that enemies get harder in each level as time progresses, but you also gain xp by killing things.
+- The player can go straight to the teleporter to end the level or go through it and collect stuff or anywhere in the middle.
+- Incrementing every minute was a lot smoother than every five minutes.
+- Results in a natural rhythm of alternating between being stronger and weaker than your opponents.
+- There's a really good, in-depth look at how the actual difficulty scaling is done.
+- Takes away the normal samey feeling and futility of leveling feeling that just having the enemies scale with your level.
+- There are OP item combinations though. The game is single-player and so not perfectly balanced.
+  
+
+
+## [Gamasutra: Incoherent Game Systems](http://gamasutra.com/blogs/JamesMargaris/20160204/263103/On_Incoherent_Game_Systems.php)
+- Good example of *Xenoblade Chronicles X*, where half the mechanics reward you for mixing your party up constantly and half reward you for keeping the same three members in your party.
+- Also makes the obvious case of the *Diablo 3* auction house.
+- Notes that some purposeful tension is not the same as incoherence.
+- Also, incoherent design can result in the best way to play not being the most fun way to play.
+  
+
+
+## [Channel Fireball: Having a Plan](http://www.channelfireball.com/home/having-a-plan/)
+- Good article on why it is important to have a plan in a game like *M:tG*. You need to know what has to happen for you to win the game and then play to maximize that.
+  
+
+
+## [Channel Fireball: Why Modern Should Not Be A Pro Tour Format](http://www.channelfireball.com/articles/modern-shouldnt-be-a-pro-tour-format/)
+- Having a tournament without balancing your pieces has fallout.
+- He makes the point that Modern doesn't reward the core skills of much of *M:tg* and so doesn't belong on the pro tour.
+- No one denies the value in having it as a format though.
+  
+
+
+## [Gamasutra: Short vs. Long Term Progression in Game Design](http://gamasutra.com/blogs/JoshBycer/20160205/265231/Short_vs_LongTerm_Progression_in_Game_Design.php)
+- You can use short term rewards to get a player started toward a long term goal.
+- Doesn't talk about the genius of Civilization, where time naturally pushes you to always having a goal close to complete.
+  
+
+
+## [Gamasutra: *Dead In Bermuda* numbers](http://gamasutra.com/blogs/MatthieuRichez/20160208/265375/Dead_In_Bermuda_Post_Mortem_in_Numbers__part_2.php)
+- More indie sale numbers.
+- Looks like you can assume 10k sales for an indie game.
+  
+
+
+## [Gamasutra: *83: HyperRogue*](http://gamasutra.com/blogs/JohnHarris/20160211/265731/Play_83_HyperRogue.php)
+- The game doesn't let you make a move that would get you killed on the next turn. It effectively tells you check like in *Chess*.
+  
+
+
+## [Kieron Gillen: On Diversity](http://kierongillen.tumblr.com/post/139183102752/on-diversity)
+- This is a good piece that mirrors many of my own feelings on diversity in creative fields.
+- What is acceptable now will be looked on as regressive soon enough. Progressive implies changeable.
+- Diversity is a formalist issue. Diversity makes better art.
+- Every art form is for everyone, however not every piece of art is for everyone.
+- Creatives are not just a machine to deliver diversity.
+- In any single piece of work, diversity is a zero sum game. Improving your work on one axis results in other axes suffering, there are only so many pieces.
+- Treating bad art with good diversity kindly is worse than useless.
+  
+
+
+## [RPS: *RPG Tycoon* released](https://www.rockpapershotgun.com/2016/02/12/rpg-tycoon-released/)
+- Some games front-load all of their information, which feels cluttered and confusing to new players. Only show new players the information that they need.
+- Right in the beginning, the game gives you a point where you have more slots than things that meaningfully fit into them. So, you're forced to put things that don't belong in those slots and that feels bad for the player.
+  
+
+
+## [Kotaku: Some Games Should Have Fewer Features](http://kotaku.com/some-games-should-have-fewer-features-1715621736)
+- Obvious point about how feature creep can hurt games.
+  
+
+
+## [Guide To Earning Press Coverage](http://indiewolverine.com/2016/02/11/step-by-step-guide-to-earning-press-coverage-for-your-game/)
+
+
+  
+    <li>Find similar games:
+- Steam's more like this option helps you find them.
+- You can use that link on your own game's page when you're on Steam.
+    </li>
+    <li>Find press that have covered similar games:
+- Google image search images from those games. You can get them from their presskit and from their Steam pages.
+- News and blog searches also get you there.
+    </li>
+  
+
+
+## [Nuts and Bolts: Troubleshooting](http://magic.wizards.com/en/articles/archive/making-magic/nuts-bolts-troubleshooting-2016-02-15)
+
+
+  
+    <li>Problem: Not Enough Card Slots:
+- Kill things. No scene is worth a movie, etc.
+- Make individual pieces do multiple things. Either combine all of the things that you need done in the slots that you have or add them to existing pieces.
+    </li>
+    <li>Playtesters aren't playing as you intended:
+- Talk to playtesters.
+- Do a templating/rules pass.
+- Understand player intuition and match it when you can.
+    </li>
+  
+
+
+## [Are Pro Teams Ruining *M:tG*](http://www.gatheringmagic.com/stevehorton-021816-are-pro-teams-ruining-magic/)
+- A look at the effects of the broken Eldrazi decks on the *M:tG* community.
+- A pro scene does lead to your game being solved quickly and the solved build disseminating quickly.
+- The correct answer though is to keep your game from being trivially solved, not condemn your pro community.
+- For a lot of players though, the effect of a pro scene is something like getting spoilers for a puzzle game.
+  
+
+
+## [Gamasutra: Deconstructing *Clash Royale*](http://gamasutra.com/blogs/AdamTelfer/20160218/266159/Deconstructing_Clash_Royale.php)
+- Good session design is something that should be universal to all games, not just iOS cash cow games.
+- *Clash Royale* rewards you every time you come back to the game and gives you a task that you can finish in that session, or at least within a couple of sessions.
+- You also want to give people a reason to return to the game between sessions.
+  
+
+
+## [The State of Strategy](www.giantbomb.com/articles/guest-column-the-state-of-strategy/1100-5394/)
+- Depth is term that tells you how long the journey can be, not if it is worth taking. Note: this journey can be infinite.
+  
+
+
+## [Tiny Design: *Starseed Pilgrim* Visual Design](http://tiny-design.tumblr.com/post/139796974655/the-color-coded-blocks-and-visual-design-of)
+- Making the corruption look organic contrasts it well with the blocks that it eats.
+  
+
+
+## [PBS Game/Show: How To Make Choice That Matter](https://youtu.be/RMK7VI_2w9c)
+
+
+  
+    <li>Sid Meier puts down four pillars of choices:
+- Trade-off
+- Persistence
+- Situational Choice - Things that are better in some circumstances than others.
+- Personal Choice
+    </li>
+  
+
+
+## [Learnings From Google's Team Research](www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- The most productive employees tend to build larger networks by rotating dining companions
+- On good teams, all members speak in roughly the same proportion.
+- Good teams all have a high average social sensibility
+- Psychological safety is "a sense of confidence that the team will not embarrass, reject or punish someone for speaking up,"
+- This is key to having a good team.
+  
+
+
+## [RPS: Making *XCOM2* Harder](https://www.rockpapershotgun.com/2016/02/24/xcom-2-too-hard/)
+- More anecdotal evidence of needing to make the game harder to get people to engage with the systems.
+  
+
+
+## [D'toid: Review *Soul Axiom*](www.destructoid.com/review-soul-axiom-342376.phtml)
+- The key to doing non-linear storytelling well is to give the player enough interesting snippets to make them want to piece things together themselves, while also making each part of the story the player discovers still stand on its own as something worth paying attention to.
+  
+
+

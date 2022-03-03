@@ -1,0 +1,52 @@
+
+---
+layout: post
+title: City: Knots
+tag: city
+date: 2018-11-14
+desc: Tying features together.
+---
+
+<p style="font-size:10px">Written: 2016-03-27
+
+
+The previous couple of sprints helped highlight a number of issues that the game still has and churned out some likely solutions. This sprint was mostly about just trying out some more pieces and adding some flesh to the game.
+
+## Placing Traits
+
+A couple of weeks ago, when working on memories, I implemented the tech to put a new entity in a random position close to the developed parts of the map. I then gave traits the same property so that they also spawn in random positions. [Last sprint](blog/city/iteration) made the traits more important by making them the conglomeration of multiple tower sources and by pushing tower unlocks through them. While implementing that, I had considered giving players the ability to place them instead of having them show up randomly.
+
+
+This didn't really work out however. I found that I liked having them show up on the map themselves more. I prefer the feel and storytelling of having them show up naturally. This adds to the feeling of the mind being unpredictable and capricious that I've been trying to instill. Also, having them pop up allows me to make traits that do not benefit the player.
+
+## Trait Development
+
+Traits are now only active if at least one of their towers is active. They take damage if they are left inactive for too long. Also, traits can now contribute to the completion of tasks by producing currency every tick that they are active. This lets me make traits like self-awareness that make actions to generate closure easier.
+
+## People
+
+I've made people act like traits. They now control the towers associated with them and act as sources for emotions. They also appear on the map and can grow to take more space in the player's mind. I'm really happy about this, it makes the game's language more consistent and makes the people much more interactive.
+
+
+Additionally, I gave other people the same traits that players have and use that to generate actions for the player to perform with the other people. I like the message inherent to that change and once again, I like that it makes the game more consistent.
+
+## Goals
+
+The game was able to give you a lot of things that you could do, but no help in deciding which one to take. So, the game now constantly generates goals, but limits the number active to four. In practice, this has worked out pretty well. There's enough space for autonomy and ignoring the goals is easy, but if you want to spend will and don't know what to spend it on, this gives you a direction.
+
+## Activatables
+
+These are things that the player can learn that modify actions. I put this in to add some nuance to actions, so this is how I represent working harder for instance. It adds to the work produced, but requires more focus. It functions fairly well as a way to add depth to the simulation without adding too much additional complexity and also acts as a nice reward to attach to traits and insights.
+
+## Aquariums
+
+Clicking on a trait now changes the view to the inside of the trait and the pieces modifying it. This doesn't really do anything mechanically, I just like things like this. It does also work for people, which helps reinforce the message of everyone being people that I mentioned above, but really, I just like aquariums in my video games.
+
+## Spells
+
+These are actions that cost will and directly affect the board. I've been meaning to put them in to add texture to the tower defense part of the game for a while. I haven't built out enough of them to really prove this feature either way however. Theoretically, it should add an additional reward in the same way as activatables however.
+
+## Conclusion
+
+The end of this month was my deadline for open-ended work and I am by and large happy with where the game is now. There are a few major unsolved issues, but the game can represent everything I wanted it to and is reasonably concise in doing so. From here though, the first thing to do is to take stock of the game once more and then to push it from early prototype to something playable.
+

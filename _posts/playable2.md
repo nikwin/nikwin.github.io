@@ -1,0 +1,39 @@
+
+---
+layout: post
+title: City: Playable Week 2
+tag: city
+date: 2018-11-23
+desc: Getting the City systems to really come together.
+---
+
+<p style="font-size:10px">Written: 2016-06-10
+
+
+[The last post](/blog/city/playable1) had us well ahead of schedule, but we've just burned through all of that time to put in a new feature. It is a feature that has done a tremendous amount to tie the game together though, so I feel it is time spent well.
+
+<h2>Screenshot</h2>
+<img src="/blogImages/SS_2016-06-10_01.png">
+<h2>Physical Currency</h2>
+
+The game always dealt heavily with currencies and their conversions, but those currencies were always ephemeral. They existed only in an inventory menu that was never built and in their impact on other parts of the game. Now, they exist as their own entities in the game, complete with position and image.
+
+
+This naturally required changing quite a large part of the game. Now, towers function as currency converters and require the desired currency to actually reach their location to be converted. Goals also now appear on the map and require currencies to actually go to them as well.
+
+
+This change also let me change the tower defense side of the game to something more sensible. Earlier, the emotions would move randomly around the map until they were killed, now they try to move directly to the self and only impact the character if they do so. However, their impact is now much more pronounced.
+
+
+So, to give an example of the new system, the character now produces motivation at their Letter From Home which is converted into travel at their travel tower which is converted into cash at their work tower which is sent to the goal of paying rent. However, converting motivation to travel can result in anger as the character deals with everyday aggressions. This character has placed a paint tower on the path of that anger though and kept it stocked with energy, so it kills the anger and keeps the character calm.
+
+
+This change has done a lot to make the game more comprehensible and more fun to interact with and even to watch. I think it has made a huge difference to how good the final game can be and so I'm very excited about it.
+
+<h2>Schedule</h2>
+
+It has however taken a lot of time that would otherwise have been spent getting the playtest build ready. The story is completely done, but has to be tested a couple of times more before release. The art is maybe a quarter done, as you can see from the screenshots above. There are also a couple of dozen bugs and parameter issues to fix before release. Thankfully, there was a large buffer built into the schedule, but it is definitely going to be tight. I do want people playing this by July though, and I think that we can still make it.
+
+
+Finally, if you're interested in being part of the July playtest, please tell me. The comments below are the best way to do so, but if you want to use a different channel, feel free to do that instead.
+

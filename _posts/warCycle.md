@@ -1,0 +1,83 @@
+
+---
+layout: post
+title: Cycles of War in Civilization 6
+tag: syph
+date: 2019-09-18
+desc: How the systems of Civ6 push you into war and then into cycles of war thereafter
+---
+<h2>[Cycles of War in *Civilization 6*](/blog/syph/warCycle)</h2>
+
+Warfare is a critical part of *Civilization 6*. The systems not only push you into warfare to start with, but then push you into cycles of warfare thereafter.
+
+<img src="/blogImages/civUnit3.png" />
+## Building An Army
+
+Firstly, the game pushes you into establishing a decent army.
+
+## War Benefits
+
+Capturing a city can be a huge boost to a player, especially when it is a major city of another player. It can add a significant amount to all of the currencies produced by your civilization. This strong incentive is enough to push players into war almost by itself. Additionally, it is often the case that once you have defeated an opposing army, you have a free rein to capture the entire empire, which further increases the value of war.
+
+
+It's particularly tempting to annex another empire early in the game because of how advantages snowball in the game. So, players often form an army from an early point.
+
+## Deterrence
+
+By the same token, other civs tend to are always ready to attack a weaker neighbor. The game requires you to keep up an army comparable to that of your opponents just to forestall being attacked.
+
+
+Additionally, barbarians are a constant threat in the early game and you do need to keep up some military presence to pacify them.
+
+## Army Maintenance
+
+It's hard to take the action of disbanding an army unit. Firstly, the production cost of a new unit is significant, and so it's natural to want to avoid having to rebuild a unit. Additionally, it's hard to fully grok the trade-off of keeping a unit around as the maintenance costs are unclear, so players will tend towards inaction, which means keeping the unit around.
+
+
+Furthermore, upgrading allows you to keep an army strong without any further investment of production. As long as you have existing units and sufficient currency, you don't need to worry about obsoletion forcing you to spend production.
+
+## Penalties
+
+The major diplomatic penalty is that other civs will dislike and denounce you. However, once this has happened, there's not much more they can do to you diplomatically. Hence, the diplomatic consequences of war are effectively capped and the game seems structured so that the cap is fairly low.
+
+
+There is additionally an unhappiness penalty, but it feels largely negligible and quite complex. It is also quick to disappear and so doesn't really keep you from jumping back into war shortly after.
+
+## The Low Army Cost of War
+
+Given the way that *Civilization 6* works, you can get through a major conflict without actually having very many units die outright. Your army might get quite damaged, but very few units actually die. This issue is exacerbated by the way the game's AI just cannot fight anywhere near optimally.
+
+
+Your units also heal for free every turn and so the damage is quickly erased. The result is that shortly after what should have been a very bloody war, you can emerge with your army pristine.
+
+
+In practice, between the units gaining experience and the player supplanting their army due to the war, their military strength will often increase due to a war.
+
+## Cyclic Wars
+
+These systems combine such that players tend to building an army early and then keeping it quite strong throughout the game. From there, it only makes sense for the player to declare more wars. The benefits are high and the penalties are low. Besides, having a strong army lying about can only make the player want to use it.
+
+
+Thus, the game functions such that the player is encouraged to periodically declare war and so a normal game session would have periods both of peace and war.
+
+## Issues
+
+Due to these systems, despite having the pieces to represent Pyrrhic wars and ones where economy comes to tell, the game makes war a very straightforward proposition. It's very difficult to get to a point where both sides are heavily diminished from a war or where two sides fighting just makes both of them weaker. Instead, it tends to situations where there is a clear winner, which is both a little ahistoric and a little shallow.
+
+## Potential Fixes
+## Smaller, Cheaper Units
+
+A simple fix would be to make the units smaller and cheaper so that they are more likely to die. Coming out of a war with a diminished army would do a lot to break the cycle of warfare.
+
+## Automatic Pillaging
+
+War in real life leaves large amounts of land devastated over its course. Having soldiers in war automatically pillage improvements that they pass over would require players to spend time and effort rebuilding an area after it has been through battle. This won't actually do that much to change the cycle, but should drastically change how it feels to have been through war. Requiring the player to spend fix up land that their war has hurt makes the wars feel less trivial.
+
+## Integration
+
+Another facet of real-life war is that conquered populations often resist that conquering. In *Civilization 6*, a conquered city is largely indistinguishable from one that was founded by a player. Portraying the difficulties of integration is far from trivial, but would have the system effect of depressing the value of conquering new cities and so reducing the incentive to go to war.
+
+## War Is Fun
+
+The important counter-point to all of this though is that war in *Civilization 6* is a lot of fun. This dynamic of cyclical war provides the player with an important change of pace. It also keeps units valuable, without which players would find a lot of techs to be worthless. Also, war is a fundamental part of the fantasy that Civ fulfills. Even if you agree with the criticisms of the dynamic, it's quite likely that the benefits significantly outweigh it. After all, war is a lot of the fun of the game, and depressing the feature is a thing to handle with a lot of care.
+

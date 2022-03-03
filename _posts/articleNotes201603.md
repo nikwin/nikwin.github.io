@@ -1,0 +1,236 @@
+
+---
+layout: post
+title: Article Notes - 2016/03
+tag: notes
+date: 2018-11-19
+desc: Notes on various articles from March, 2016
+---
+
+
+These are just the notes I took down in March. All of the notes can be found [here](/articleNotes)
+
+## [D'toid: *This War of Mine: The Little Ones* Review](http://www.destructoid.com/review-this-war-of-mine-the-little-ones-345460.phtml)
+- If you are going to use permadeath, then make sure that your controls work. If a player hits permadeath because the controls didn't do what they wanted, you have a serious problem.
+  
+
+
+## [Psychology Today: Wen Good Intentions Go Awry](https://www.psychologytoday.com/blog/sound-science-sound-policy/201512/when-good-intentions-go-awry)
+- People wanted to make a game to make people more empathic to poor people. It gives players the kinds of decisions that poor people have.
+- The problem is that this reinforces the preconception that poor people could escape poverty if they make the right decisions and so actually reduces empathy.
+- People were more empathic after watching someone else play through the game than if they played themselves.
+  
+
+
+## [Gamasutra: Randomness in *XCOM2*](http://www.gamasutra.com/view/news/266891/Jake_Solomon_explains_the_careful_use_of_randomness_in_Xcom_2.php)
+- They built their map out of random configurations of pieces.
+- They made random challenges for the player that get pulled out of a pool.
+- The randomness kept them from fine-tuning the challenge. You have to accept that randomness results in an uneven experience.
+- A listed 85% chance is really a 95% chance behind the scenes to align more with player understanding of probability. I like this less than the *Renowned Explorers: International Society* solution of showing you the wheel.
+  
+
+
+## [RPS: Heroes Don't Craft](https://www.rockpapershotgun.com/2016/02/29/rpgs-crafting-pc-games/)
+- Stapled on crafting is naturally worse than where it is a cornerstone of the game.
+- The old *Elder Scrolls* spellcrafting system let you do what you like, but *Skyrim* just felt like enchantment Lego.
+- *The Witcher 3* does better by having it require focus, but it only really matters at higher difficulty levels.
+- More anecdotal evidence of needing to make the game harder to get people to engage with the systems.
+- Recipes are unintuitive. There's a lot of data there, that typically requires a wiki.
+- These systems keep pushing players to do busywork, but never really reward them for it.
+- Also, the recipes remove the feeling of creativity from crafting.
+- *KotoR* did the whole crafting the lightsaber thing very well. It let you choose what you wanted and then let you keep the weapon and just constantly upgrade it.
+- Searching through maps for ingredients is also not fun.
+- Crafting should be more than just customization and more than just a currency transaction that converts raw materials into a finished product.
+- Crafting also needs to be worth more than what vendors sell you or random loot drops.
+  
+
+
+## [Emily Short: The Versu Galatea](https://emshort.wordpress.com/2016/02/23/the-versu-galatea/)
+- About reimplementing *Galatea* in *Versu*.
+- *Versu* does not allow for the noun-hunting of the original IF. This led to a sense of forward motion instead of halting discovery.
+- The fluidity made the game feel less magical.
+- The format lets the player play as what was an NPC. This perspective makes the character that was the PC appear like a tone-deaf jerk.
+  
+
+
+## [Haywire Mag: The Year of IF](http://www.haywiremag.com/distractions/2015-the-year-of-interactive-fiction/)
+- *Sunless Sea* works because it marries the mundane with the bizarre.
+- The straightforwardness of the game mechanics are straightforward in their bizarre world and their mundanity makes the world feel more real.
+  
+
+
+## [RPS: Just Go Along With It, Okay?](https://www.rockpapershotgun.com/2016/03/07/the-rpg-scrollbars-just-go-along-with-it-okay/)
+- Talking about the line between where it is interesting to see how games justify something vs things being best handwaved away.
+- It is ridiculous to have your character take months to be healed in the story when there are potion shops next door (*Vampire: The Masquerade*).
+- Also, of course, Aerith and the Phoenix Down (*FF7*).
+- *KoToR2*, *Planescape: Torment* and *Mass Effect 2* all have story reasons for people dropping everything to join your party.
+- Joking about how something is unrealistic or gamey and then doing exactly that is a really bad approach. Don't call attention to your failings and this is not intelligent enough to be satire.    
+  
+
+
+## [RPS: *Stardew Valley* Review](https://www.rockpapershotgun.com/2016/03/04/stardew-valley-review/)
+- The introduction starts you off in a boring cubicle job to reinforce the rural dream.
+- The game makes learning about people into a key reward.
+- The game offers you many moving parts and activities, but doesn't allow you to accomplish all of them in a single day. This gives every morning a sense of anticipation.
+  
+
+
+## [D'toid: *Stardew Valley* Review](http://www.destructoid.com/review-stardew-valley-345495.phtml)
+- Reinforces everything said above.
+- There's a fishing minigame in which all fish of a single type move in the same way. Due to this, experienced players know which fish is on the line before they catch it and this gives the different fish more personality.
+  
+
+
+## [What Happens When You Turn 10th Grade Into An RPG](http://www.zam.com/article/149/what-happens-when-you-turn-10th-grade-into-an-rpg)
+- Gamifying classrooms pretty much straight up.
+  
+
+
+## [Tom Francis: How To Explain Your Game To An Asshole](http://www.pentadact.com/2012-03-17-gdc-talk-how-to-explain-your-game-to-an-asshole/)
+
+
+  
+    <li>Mistakes:
+- Not explaining the game - trusting in a screenshot or the raw footage to do the work.
+- Explaining artistic intent and ignoring why people should play it.
+- Explaining story instead of explaining the game.
+- Just stating that your game as if that will persuade people that it is.
+    </li>
+    <li>Do this:
+- What kind of game it is.
+- What is the coolest thing about it.
+- Give context.
+- Describe an example of play.
+    </li>
+  
+
+
+## [/r/magicTCG: Hating Jace](https://www.reddit.com/r/magicTCG/comments/49kiw6/soi_tinfoil_conspiracy_theory/d0sjwd8)
+- Part of it is how clearly he is the stand-in for the player.
+- Even though he doesn't appear that disproportionally in the stories, the fact that he is always around in standard does make him feel like he never disappears.
+- Chandra is legal about as much, but she sees much less play.
+- Thus, though the gameplay and the story are very distinct, the first has a large impact on the second.
+  
+
+
+## [RPS: How to Fix the 4X](https://www.rockpapershotgun.com/2016/03/07/how-to-fix-the-4x/)
+- Few 4X games have a point of view or attempt to tell a meaningful story.
+- Many are not interested in what different victory paths imply.
+- They have your competitors evolve the same way that you do.
+- Societies get more advanced tools to fulfill the same basic needs. The numbers change, but the fundamental relationship to the resource and means of production does not.
+    <li>*SM:AC*
+- One of two promising approaches.
+- Does nothing different mechanically, but the narrative flavoring gives the game the feeling of progress it needs.
+- The text just does so much to make the game feel like it has moved and to flesh out the world.
+    </li>
+    <li>*Victoria 2*
+- Actually represents the societies of the cities.
+- Progress reshapes societies around the new needs it creates.
+    </li>
+  
+
+
+## [RPS: *Factorio* Review - Early Access](https://www.rockpapershotgun.com/2016/03/07/factorio-review-early-access/)
+- The game looks great, but more talking about how grinding just to make numbers go up is not sufficiently satisfying.
+  
+
+
+## [Gamasutra: 6 Formative Game Design Lessons](http://gamasutra.com/blogs/AbbasRazzaq/20160307/267430/6_Formative_Game_Design_Lessons.php)
+- Don't Prejudice Your Design - Let the game grow of it's own accord.
+- Pace The Introduction Of New Ideas - Only give players new ideas one at a time.
+- Redundancy Causes Confusion - Redundant mechanics or controls makes it harder for players to build their own internal model of the game.
+- Aesthetics Need To Be Functional
+- Work At Interpreting Player Feedback - The player knows how they feel, not what they want.
+- Design Decisions Can Go Out Of Date - Their context changes.
+  
+
+
+## [*Cinders* Post-mortem](http://moacube.com/blog/cinders-postmortem-2-production-and-business/)
+- Numbers for an indie visual novel.
+  
+
+
+## [Gamasutra: The Illusion Of Choice](www.gamasutra.com/view/news/268170/Jim_Browns_level_design_workshop_The_illusion_of_choice.php)
+- Defines agency as the capacity to choose and autonomy as the capacity to make informed decisions.
+- Argues that sunk cost fallacy can be used to force players down paths that the designer wishes.
+- Important to give players the space to layer their own interpretations and meanings on top of their path.
+- Argues that the choice in *Bioshock* is not really a choice as most people just save the kids.
+  
+
+
+## [Emily Short: GDC Highlights](https://emshort.wordpress.com/2016/03/16/gdc-highlights-tuesdaywednesday/)
+- Sam Barlow kept a spreadsheet to track the words used for *Her Story*
+    <li>Alexis Kennedy on choice in *Fallen London*:
+- Number of branches affect player perception of choice.
+- Two branches are dramatic and elegant.
+- Three allows for asymmetry.
+- Five allows you to conditionally lock a couple and show players the results of earlier choices.
+    </li>
+  
+
+
+## [Gamasutra: Richard Rouse III on Making Game Narrative More Dynamic](http://www.gamasutra.com/view/news/268253/Richard_Rouse_IIIs_6_techniques_to_make_game_narratives_more_dynamic.php)
+- Game steaming makes it more obvious to players that a game's possibility space is smaller than it may seem. I don't know if I buy this, but I do like giving players more dynamic narrative anyway.
+    <li>You can add dynamism through:
+- Explorable story space - even side narratives and a couple of deep threads helps with this.
+- Open ended stories - *Inception* and *The Shining* leave a lot open to the person watching the movie. Those movies do have a closing moment to provide resolution though.
+- Reacting to player actions.
+- Shifting story elements - Don't just change the end results and outcomes, but also change a lot of the middle.
+        <li>Character Simulation -
+- *The Sims* gives players a large possibility space and the characters behave realistically.
+- In *Civ* games, the rulers all have their own identity and remember your actions. Additionally, *SM:AC* gave them agendas and beliefs.
+- A cartoonish, slapstick tone allows people to make absurd decisions and keeps more ridiculous results of the simulation from seeming out of place.
+- It's pointless to simulate things that you don't show the player.
+          </li>
+- Drama Management - let the story drift in interesting ways.
+    </li>
+  
+
+
+## [Standard Patterns In Choice Based Games](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
+- A bunch of patterns for CYOA and some examples of each of them.
+  
+
+
+## [Channel Fireball: Culling The Week](http://www.channelfireball.com/articles/culling-the-week-teaming-up-and-the-curious-case-of-old-rutstein/)
+- Giving players space to make their own stories does a lot of work.
+- Look at how much enjoyment BBD derived from the flavor text of a bunch of *M:tG* cards giving him the space to write his own story for a supporting character.
+  
+
+
+## [*M:tG* - Revisiting Tribal](http://magic.wizards.com/en/articles/archive/latest-developments/revisiting-tribal-2016-03-18)
+- The *Dark Ascension* limited environment was less fun that triple *Innistrad* because of how heavily tribal dominated. The power level of the tribal creatures eclipsed that of the other themes.
+- Also, the tribal decks all played the same way, while the archetypes of triple *Innistrad* played substantially different, which made the set more fun.
+  
+
+
+## [On Giving Players Less Control and NPCs More](http://www.pcgamer.com/the-case-for-giving-players-less-control-and-npcs-more/)
+- Goes over how *80 Days* and interestingly *Dragon Age* take things out of the player's control and benefit from it.
+  
+
+
+## [Gamespot: Review *GalCiv3: Mercenaries*](http://www.gamespot.com/reviews/galactic-civilizations-iii-mercenaries-review/1900-6416389/)
+- How a feature can damage a game and how adding a powerful piece can remove all other options.
+  
+
+
+## [RPS: Trading Games Don't Understand Trade](https://www.rockpapershotgun.com/2016/03/23/games-trading/)
+- A trading game with a morality system is an interesting concept. There's a lot of space in trading games to be ruthless or to do good for people.
+- Trading games all tend to make the actual trading parts into a grind. It's essentially the RPG treadmill.
+- Trading games tend to make it about the management of a spreadsheet instead of dickering. They're very impersonal.
+- The goods all feel too interchangeable.
+  
+
+
+## [Flow Space](http://www.goodgamesbydesign.com/Files/FlowSpace_CMurphy_2016.pdf)
+- Good overview of a lot of game design basics.
+- Note however that *The Sims 3* for instance contradicts the article if the article is taken literally in that *The Sims 3* can generate a flow state while failing some of what the article posits as necessities, such as limited choice, when either is looked at superficially. What I'm saying is that *The Sims 3* shows that this article, taken by itself, is a slightly too shallow representation of a number of deep concepts to be used without care and a view to the implications of the article more than the article itself.
+  
+
+
+## [Thoughts on Gender and Radical Candor](http://firstround.com/review/thoughts-on-gender-and-radical-candor/)
+- Good points for when you get to hiring people.
+- Setting up a neutral third party, just so that both people can have someone to talk to. This person is not supposed to be a mediator, just an external viewpoint.
+  
+
+

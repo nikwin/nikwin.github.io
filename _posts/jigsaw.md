@@ -1,0 +1,60 @@
+
+---
+layout: post
+title: Narrative-Based Jigsaw Puzzles
+tag: gameIdeas
+date: 2018-12-15
+desc: Thoughts on making narrative-based jigsaw puzzles.
+---
+
+
+<b>Idea</b>: Have a jigsaw puzzle that can have different shapes and communicate a branching narrative. Essentially, a branching comic strip as a jigsaw puzzle.
+
+<img src="/blogImages/jigsaw.png" />
+
+<b>Why?</b>
+- Jigsaw puzzles feel like they could do with some mash-ups. The genre is a little stale and a few twists to it could be interesting.
+- The feeling of piecing together a narrative could prove very compelling.
+
+
+## Decision Making in Jigsaw Puzzles
+
+When making variations of jigsaw puzzles, it is necessary to start by thinking about how people interact with jigsaw puzzles already. This way we can make sure that we reinforce what already works and avoid unintentional mechanical conflicts.
+
+
+Jigsaw solvers do the following:
+- Look for edge/corner pieces.
+- Look for the pieces of the image to come together.
+- Look for the jigsaw cuts to fit together.
+
+
+
+Additionally, the fun of a jigsaw puzzle comes from the following:
+- Solving logical puzzles is intrinsically fun.
+- Putting things in order is inherently satisfying.
+- Tactile things are fun.
+- The completed image is very rewarding. This is partly because it is physical.
+
+
+
+From this, we can see that putting a narrative in the jigsaw puzzle would probably be a positive addition as:
+- The narrative gives people another puzzle solving axis.
+- The fun parts of the logical puzzle, putting things in order and the reward of the completed image all seem like they would be reinforced by a narrative component.
+
+
+
+An important takeaway from this is that we probably don't want an XKCD style comic. Comic strips can be beautiful, from the work of Moebius to that of Alex Ross to even the Bayeux tapestry. Comic panels that are mostly whitespace would be harder to piece together and would conflict with the final reward of the completed image.
+
+<img src="/blogImages/bayeux.jpeg" />
+## Notes on Approaches
+## The Story
+
+The story will be experienced non-linearly as the player pieces together different fragments in an ad-hoc manner. Thus, when setting up the story, it's important to build it such that it works well experienced in non-linear fragments, like *Her Story*.
+
+
+Due to the fact that players are literally piecing together the puzzle, it's tempting to have the story mirror that. An obvious example is piecing yourself together after a break-up with the panels representing different parts of the history of the relationship. This feels like it would do well non-linearly as well, rather like *500 Days of Summer*.
+
+## Panels
+
+It probably makes sense to have the different panels use different jigsaw cuts to help people break down the puzzle. As a result of that, the panel connectors would need to have one cut on one side and a different cut on the other side. This also lets us implement narrative choices by having panels multiple panels that can fit in between the same other panels. Additionally, we can have optional panels that have the same connectors on both sides. So, these panels can be slotted in or not as the player wants. Similarly, we can also implement side quests by having a panel branch out vertically from an existing panel in the main story path.
+

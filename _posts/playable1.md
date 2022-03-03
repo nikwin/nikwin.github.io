@@ -1,0 +1,30 @@
+
+---
+layout: post
+title: City: Playable Week 1
+tag: city
+date: 2018-11-22
+desc: The first week of work on getting City ready for a public playtest.
+---
+
+<p style="font-size:10px">Written: 2016-05-17
+
+
+This post marks the end of the first week of the six week stretch to get the first playable version of the game out. The goal is to have something for people to try out by the beginning of July and we are slightly ahead of pace right now.
+
+## Screenshot
+<img src="/blogImages/SS_2016-05-17_01.png" />
+## Story
+
+This week had me making sure that the first five chapters of the game run smoothly. The skeleton was already in place, but there were a lot of bugs and some of the pieces required were missing. The memories in particular required a ton of minor tweaks to be playable. Additionally, spawn rates and spawn quantities have been changed. This is all pretty dry, but requires a lot of time and iteration to get right. I don't like where things are right now, but the game is playable and I'll accept that for now.
+
+## Issues
+
+This has rather naturally exposed a number of weaknesses in the game itself. The structure is actually able to hold up for five chapters without any major issues, but a lot of the game feels very opaque and hard for the player to control. Additionally, my bug list is about half as long as my arm and I have a long arm.
+
+
+The game is far too abstract for my liking right now. I think it's very hard to understand the relationships between creeps and the other pieces of the game. It's hard to see how to manage them and hard to see whether you should be cultivating any emotion at a given point of time. When you really understand the systems, it becomes slightly more interesting, but it still lacks the immediacy it needs to be engaging. The tower defense side of the game has ranged from barely adequate to severely underserved over the development of the game and getting the game in this state shows me that it is important enough to get right.
+
+
+Still, the player can get from the beginning to the end of the campaign we have planned for launch. I'm going to try to buy a week before we release the playable to fix these bugs and take a reasonable shot at fixing the deeper problems. Thankfully, we're a little bit ahead of schedule right now, we need to see how far we can stretch that.
+

@@ -1,0 +1,36 @@
+
+---
+layout: post
+title: Preserve Like You Create
+tag: articles
+date: 2019-10-11
+desc: The implications of preservation being a creative activity
+---
+
+
+I recently read Seva Kritskiy's [article](https://historianon.wordpress.com/2019/09/24/game-preservation-and-the-quest-for-immortality/) on preserving video games and thought through a couple points related to it. I am, however, not a preservationist of any kind and nothing like an expert at this.
+
+
+I think that a critical desire of both those preserving and those whose work is preserved is in the desire for immortality, but as Seva points out, much of a game exists in the context outside of it. You can play *Dear Esther* in the same form now as when it was released, but you cannot recapture how different it felt at the time and that was the entire point of the experience.
+
+
+Secondly, of slightly less importance, is that a preserved game decays in the same way as a newly created one. When I make a game today, it is with the understanding that it is unlikely that people will be able to play it in 20 years. Similarly, an old game can be made to run on today's machines, but it's impossible to ensure that it will run on tomorrow's. Even videos and writing eventually lose their hosting. A preservation effort is not a guarantee of immortality as much as a reset of mortality, and an all-too-brief one at that.
+
+
+Thirdly, given the sheer amount of data available, the fact is that most preservation efforts will get lost in the morass of content that is out there just because most of everything gets lost in the morass of content that is out there. I'm unable to keep up with just the more recent crop of 4X games for my current work, there's no way that I can go through an archive of them in addition.
+
+
+These are all issues that are familiar to me because they are issues that affect all creative work now. To me, a preservation effort is the same as any other creative effort, just with different raw materials. Any preservation effort comes with innumerable choices and the solving of those choices puts preservation as firmly into the creative space as anything else. Preservation is an artistic endeavor and so plays by the same rules as the rest of us.
+
+
+Given the impossibility of preserving everything, it's natural that people try to preserve that which they feel to be most important. It thus follows that people think a lot about what importance is. Similarly, given that I can only make so many games over my career, it's only natural that I try to make significant work and that I've thought a lot about what significance is.
+
+
+When I made [*The Quiet Sleep*](https://store.steampowered.com/app/724510/The_Quiet_Sleep/) though, I ran into an unfortunate truth. People need to play your game for it to become significant and I just wasn't that interested in the effort required to get people to play a game once I finished it. The aim was to make the kind of game that other game developers would be inspired by, but they need to play it to be inspired by it and it's just difficult to get people to learn about your work.
+
+
+I realized that I was just not very interested in the evangelization side of making games, and the price of discarding that is that I have to discard the goal of significant work with it. However, no one actually really expects a game designer to do significant work. I can free myself from this self-imposed constraint with almost no consequence. This freedom is liberating and it's a freedom that many other people possess. No one questions people for making games that lack significance in the same way that no one questions people for writing books or papers that few will ever read. There's dignity in all of these endeavors.
+
+
+It is, of course, highly commendable to aim for significant work. The field and the world are both better for it. However, many, if not most, game designers do not aim for that at all. They do whatever they feel best serves them and if that involves significance, well and good, but if not, then that's fine as well. No one expects every creative effort to be significant and I think it follows that the same must hold true for preservation efforts. Let people preserve what they want, when they want, with the same freedom that other creative workers have. It's only fair.
+

@@ -1,0 +1,45 @@
+
+---
+layout: post
+title: The Surprising Experiment of the Twin Campaigns of Yakuza Kiwami 2
+tag: articles
+date: 2019-08-14
+desc: How the Majima campaign of Yakuza Kiwami 2 illustrated the issue of pacing in open world games.
+---
+<h2>[The Surprising Experiment of the Twin Campaigns of *Yakuza Kiwami 2*](/blog/articles/yakuza2)</h2>
+
+*Yakuza Kiwami 2* is another excellent open world game in the *Yakuza* series. It has received a lot of praise for the excellence of its writing, but what I wanted to highlight is a very surprising experiment that it unexpectedly ran.
+
+## Pacing
+
+One of the major unsolved issues of modern open world games is that of pacing, especially the pacing of the main story. These games give you a lot of freedom in how you experience the side content of substories and in-game activities and how much time you spend in each and so it becomes very difficult to design a flow that works for all players.
+
+
+Personally, I tend towards completionism with these games and so I play all of the substories as soon as they come up and finish the side content like the Cabaret Club and Majima Construction storylines very soon after the become available. As a result though, I often have long, long breaks between important beats in the main story, which can leave me disoriented when I pick it back up. Also, this means that the final section of the game can feel very hurried as the elements that provided spacing are all exhausted by the conclusion.
+
+
+This issue of pacing is common in open world games. This isn't meant as a knock on the genre given how many good games there are anyway, but just a hypothetical avenue of improvement. These games are already a lot of fun, but a good solution to this issue of pacing might make them better.
+
+
+This is especially true because these games are known for their narratives. The writing of the *Yakuza* series is the most important reason to play the games. Thus, it makes sense that the pacing of these games would be critical and yet, with these games, as with so many other open world games, the many, many distractions open to you throws any sense of pace right out the window.
+
+
+Theoretically, these games let the player set the story pace to be what they want it to be. A player who finds the gist of the main story fading from memory can always just progress it for a while and come back to the ancillary parts of the game when they feel like a break again. In practice though, this is often asking too much from the player. Much like with player-driven risk / reward structures, players tend to a structure that's suboptimal for them, either moving too slowly or too quickly for the story beats to land perfectly.
+
+## Majima
+
+The Majima section of the game is a brief standalone story featuring Goro Majima. It runs basically the same base game as the main story, but with almost all of the completionist elements cut out. This is definitely a solution to the problem described above and not necessarily as far fetched as one might think. After all, if the key value of the game is in the narrative, why not cut out the parts that don't play to it?
+
+
+The result though left me with an itch through the whole playthrough. It felt like it moved too fast and like it had no space to breathe. There were many points where I had progressed the main story for a while and wanted a moment before turning the page and the game had nothing to offer me to help with that.
+
+
+This is partly due to the stories and partly due to the expectations set by the rest of the game, but the most important factor is just that the open world of the game called to me and this story didn't let me heed that call.
+
+## Conclusions
+
+This experiment didn't really teach me anything new or interesting. It's not surprising that open world games benefit from giving players a reason to engage with the open world. The world is often called the most important character in games of this sort and it only makes sense that players should be pushed into interacting with it.
+
+
+What surprised me though was seeing an experiment like this run with a major game like *Yakuza Kiwami 2*. Normally a hypothetical of what would a game like this play like without the progression elements would have to be a thought experiment only, but this game actually made it concrete and lets you play through it. This is a gift both generous and surprising for the game designer and I felt that warranted a note.
+

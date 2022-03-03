@@ -1,0 +1,216 @@
+
+---
+layout: post
+title: Interactive Article on Balancing Card Games
+tag: articles
+date: 2018-12-31
+desc: An interactive exploration of the basics of balancing card games.
+---
+<script type="text/javascript" src="/static/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/static/underscore-min.js"></script>
+<script type="text/javascript" src="/static/std.js"></script>
+<script type="text/javascript" src="/static/card.js"></script>
+<h2>[Balancing Card Games](/blog/articles/card)</h2>
+
+Card games are inherently complicated to understand and balance due to their intrinsic randomness. It can be hard as a designer to really grok how a variety of games will play out due to the pervasiveness of that randomness. This article simulates a very basic card game so as to help you understand a standard spine for card games and provide a foundation for you to use when building one of your own.
+
+## Mana and Cards
+
+We're going to take a *Hearthstone*-like basis for this article, where cards have a mana cost and the player only draws a single card per turn. We are going to define balance as the existence of at least two decks that have a win split of no worse than 40-60. By having it such that each deck wins at least 40% against the other, it should be hard for players to accurately determine which one is favored and so they will feel free to play whichever they find more fun.
+
+
+We're only going to have vanilla cards here and give them a value based on their mana cost and a base value for being a card. We should be able to generate an aggressive deck and a control deck that together qualify as balanced from this.
+
+
+The early part of a card game like this tends to be mana constrained as players have lots of cards, but limited mana. The late game becomes card constrained as the players have spent most of their cards, but have lots of mana. So, an aggro deck is one that can play a lot of cards in the early game and a control deck is one that has spent more total mana by the late game.
+
+
+From this, it's easy to see that increasing the base value of the cards will benefit aggro decks and increasing the value mana gives to a card benefits control decks.
+
+<table><tr>
+    <td><canvas id="sim1" width="480px" height="320px" align="center"></canvas></td>
+    <td>
+      
+Base Card Value
+
+      <input id="input1_cardVal" type="range" min="0" max="5" value="0"><span id="disp1_cardVal">0</span>
+      
+Mana Value
+
+      <input id="input1_manaVal" type="range" min="0" max="5" value="1"><span id="disp1_manaVal">1</span>
+</td>
+</tr></table>
+## Balance
+
+Let's start by taking a pair of decks to represent aggro and control respectively. These decks both have a slightly more midrange curve than what you would expect in most actual card games as it's a two-deck metagame, but they should be good enough for a demonstration.
+
+
+For this simulation, we're going to set the player health to be 100 and change the ratio of mana value to health value. We're going to use the 3 mana 5/5 as our static card and change the values for the other cards based on the chosen ratio. Given these two decks, find a ratio for the base card value and mana value that result in a win split no worse than 40-60.
+
+<table><tr>
+    <td><canvas id="sim2" width="480px" height="320px" align="center"></canvas></td>
+    <td>
+      <table>
+        <tr><td>
+            
+Value Ratio
+
+            <input id="input2_ratio" type="range" min="0" max="5" value="0" step="0.5"><span id="disp2_ratio">0</span>
+            <br />
+            <span id="split2"></span>
+            <br /><br />
+            <button id="step2">Step Through</button>
+        </td></tr>
+        <tr><td>
+            <br /><br />
+            ## Tasks
+            
+
+                <li id="task2_1">Win split no worse than 40-60</li>
+            
+
+        </td></tr>
+      </table>
+</td>
+</tr></table>
+
+Observations:
+- While the presentation here is not quite traditional, this ends up working exactly as one would expect. By increasing the ratio of card to mana value, but keeping the three-drop constant, we end up buffing the cheap cards and nerfing the expensive ones. By decreasing the ratio, we do the reverse. So, it is only natural that increasing the ratio helps aggro decks and decreasing it helps control decks.
+- Each game comes down to whether the control deck can establish board prescence before the aggro deck wins. Given the simplicity of this game, it's very unlikely for the aggro deck to come back once the control deck has turned the corner.
+- There's a very sharp increase in the aggro win rate when a certain threshold is crossed and then a much more moderate increase in the win rate after that. This point is where the early drops of the aggro deck get a buff and the late, sunstantially smaller increases are when the control cards are nerfed.
+
+
+## Health Changes
+
+By changing the starting health, we very naturally expect to see a very different values for balance. For this simulation, I'm going to shift the starting health to 50 and leave the decks the same. Once again, you should try to find a ratio that results in a split of no worse than 60-40.
+
+<table><tr>
+    <td><canvas id="sim3" width="480px" height="320px" align="center"></canvas></td>
+    <td>
+      <table>
+        <tr><td>
+            
+Value Ratio
+
+            <input id="input3_ratio" type="range" min="0" max="5" value="5" step="0.5"><span id="disp3_ratio">5</span>
+            <br />
+            <span id="split3"></span>
+            <br /><br />
+            <button id="step3">Step Through</button>
+        </td></tr>
+        <tr><td>
+            <br /><br />
+            ## Tasks
+            
+
+                <li id="task3_1">Win split no worse than 40-60</li>
+            
+
+        </td></tr>
+      </table>
+</td>
+</tr></table>
+
+Observations:
+- Reducing the starting health unsurprisingly greatly helped the aggro deck.
+- There is a clear inflection point at exactly the same threshold as in the previous section.
+
+
+## Card Draw
+
+Another axis that we can play with is card draw. By having the players draw more cards, we greatly change the texture of the game and so need to change our values accordingly. For this simulation, both players are going to draw 2 cards every turn and we'll keep the starting health at 100. Once again, try to get a win split in the 40-60 range.
+
+<table><tr>
+    <td><canvas id="sim4" width="480px" height="320px" align="center"></canvas></td>
+    <td>
+      <table>
+        <tr><td>
+            
+Value Ratio
+
+            <input id="input4_ratio" type="range" min="0" max="5" value="5" step="0.5"><span id="disp4_ratio">5</span>
+            <br />
+            <span id="split4"></span>
+            <br /><br />
+            <button id="step4">Step Through</button>
+        </td></tr>
+        <tr><td>
+            <br /><br />
+            ## Tasks
+            
+
+                <li id="task4_1">Win split no worse than 40-60</li>
+            
+
+        </td></tr>
+      </table>
+</td>
+</tr></table>
+
+Observations:
+- This naturally is much better for the aggro deck than for the control deck. Compare the win rates at the same ration to the simulation at 50 health and one card per turn and it is quite clear how significant a change this is.
+- Stepping through a game, you can see how much harder it is for the control deck to establish board control and how it struggles more to turn the corner once it has control.
+
+
+## Sandbox
+
+Here's all the variables that I've used above in one simulation for you to play with.
+
+<table><tr>
+    <td><canvas id="simS" width="480px" height="320px" align="center"></canvas></td>
+    <td>
+      
+Card Value
+
+      <input id="inputS_cardVal" type="range" min="0" max="10" value="1" step="0.5"><span id="dispS_cardVal">5</span>
+      
+Mana Value
+
+      <input id="inputS_manaVal" type="range" min="0" max="10" value="1" step="0.5"><span id="dispS_manaVal">5</span>
+      <br />
+      
+Starting Health
+
+      <input id="inputS_startHealth" type="range" min="50" max="500" value="50" step="0.5"><span id="dispS_startHealth">50</span>
+      <br />
+      
+Cards Per Turn
+
+      <input id="inputS_cardsPerTurn" type="range" min="0" max="5" value="1" step="1"><span id="dispS_cardsPerTurn">1</span>
+      <br />
+      <button id="stepS">Step Through</button>
+    </td>
+</tr></table>
+## Next Steps
+
+This is the smallest version of the article that I could make. Possibly future iterations could include:
+- A card designer.
+- Balancing card drawing cards.
+- Balancing removal (both conditional and unconditional).
+- Adding in hate cards, like *Hungry Crab* or *Red Elemental Blast*.
+- Adding in board clears, like *Hellfire* or *Wrath of God*.
+- Graphs for mana spent / cards spent / board position / health by turn.
+- Graphs for win rates vs a given variable.
+- The establishment of a metagame and the aggro / midrange / control trinity.
+- Presideboarding - putting in a hate card against a percentage of the metagame.
+- Mulligans.
+- Different algorithms.
+
+
+
+If any of these seem interesting to you, please tell me and I'll be sure to put them in the next iteration of this article.
+
+## Links
+- [Github](https://github.com/nikwin/cardArticle) - The full source of the article is available here.
+- [Twitter (@murthynikhil)](https://twitter.com/murthynikhil) - My twitter account.
+- [The Quiet Sleep](http://store.steampowered.com/app/724510/The_Quiet_Sleep/) - My new game!
+
+
+## Draft Feedback
+
+This is an early draft of this article, and I'd like to hear your thoughts on it. In particular:
+- Did this article show you anything new? The idea that nerfing low-drops and buffing high-drops helps control decks is pretty obvious, but did this help deepen your understanding of why?
+- Was anything unclear?
+- Was the presentation with win percentages and tasks effective?
+
+

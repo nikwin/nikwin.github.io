@@ -1,0 +1,35 @@
+
+---
+layout: post
+title: City: Trains and Emotions
+tag: city
+date: 2018-12-2
+desc: Adding trains and emotions to The Quiet Sleep.
+---
+
+<p style="font-size:10px">Written: 2016-08-29
+
+
+As the previous pair of posts have detailed, playtesting brought a bunch of issues to the fore. I've put in a couple of new features to deal with them. These are both things that I had tried to get to work before, but didn't quite pan out earlier.
+
+## Trains of Thought
+
+The biggest issue that people had with the game was just keeping track of what all of the pieces were. This seemed like an issue that mostly needed an art pass to solve, but the entire flow of getting the pieces you needed to run was more fiddly than I liked. This also could have been largely been solved with a UI pass, but not completely.
+
+
+I put in a system to represent trains of thought to solve this. These originate from the source and go through the path picking up the currencies they need along the way. This really makes the currencies and their conversions clear. Earlier each of the currencies would move themselves to where they needed to go. Now, they only move if a train is present to carry them. This makes the game much easier to parse, but sadly loses a little of the ticking clock feeling that the old version had.
+
+
+On the whole, trains seem acceptable to me, but I'm going to keep an eye open for small tweaks that take it all the way.
+
+## Emotions
+
+Emotions, while a critical part of the game, had never been completed until this sprint. I was never sure what exactly their effect on the person should be. Now, they have an effect on each tower that they pass by and if they reach the self, they have that effect on all of the towers in the mind. These effects differ between emotions and have both benefits. Anger, for instance makes your towers fun faster, but has a chance of completely blowing up any train that passes through it and generating more anger.
+
+
+Additionally, as before, a number of towers require emotions to run and emotions generate memories, which can be used to make some highly efficient towers.
+
+## Submission
+
+These features, while short to describe, were both major changes to the game as a whole. We're looking to ship The Quiet Sleep by the end of October and ship the full game by the end of the year. So, we should stop major changes to the game and focus on polishing what we have. It's even possible that we might achieve that. There are no major issues with the game that I know of and hopefully we'll be lucky enough that none pop up. We definitely have to work on making sure that the game doesn't glitch out on players and making sure that the systems hold out into the late game. Thankfully, it looks like we'll have enough time to ensure both.
+

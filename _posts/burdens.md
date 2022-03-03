@@ -1,0 +1,75 @@
+
+---
+layout: post
+title: Extensions on the Burden of Optimal Play
+tag: articles
+date: 2019-04-03
+desc: Thinking about further implications of the burden of optimal play
+---
+<h2>[Extensions on the Burden of Optimal Play](/blog/articles/burdens)</h2>
+
+The burden of optimal play is an important and oft-used concept in video game design. The idea is that there is a weight in the mind of the player pushing them to take the move that is optimal by the game's systems. This is natural as players want to win. It becomes a salient game design point however when the optimal move is not the one that the player finds the most fun. This tension is often unpleasant for the player. If they take the move that is the most fun, then the knowledge that it was sub-optimal weighs them down, and if they take the correct one, it feels bland because they wanted the more exciting option. It's generally good design to avoid forking your players in this manner. I'm going to spend this article going over some more advanced follow-ups to this base concept.
+
+## Clarity of Definition
+
+The base definition is that there's a problem when the optimal choice is not the same as the most fun choice. I think that a more accurate definition is that there's a problem when the choice that *the player thinks is optimal* is not same as the choice that *the player thinks is the most fun*. The game exists entirely in the player's head and failing to account for that is an easy way to go wrong.
+
+
+The latter part of that is the easier half to address. I think that players are quite good at understanding what they feel to be the most fun in the moment, even if there are a number of obvious caveats to that statement. I do however caution designers to remember that what they find most fun and what players find most fun are not necessarily aligned.
+
+
+The other half is the more crucial one. Players are not ideal rational actors and what they believe to be the optimal choice may not be optimal or even good. Many games are even built around the idea of it being difficult for the player to determine the optimal choice.
+
+
+In practice though, this can often work out to being minor distinction as players figure out the actual optimal strategies of the game. As game designers, we have a fair amount of control over this overlap. Things like well-designed difficulty curves and clear game designs can help make the strategies that the player believes to be optimal and the actual optimal strategies the same. There are a couple of interesting cases that I feel are worth going over though.
+
+## The Assumption of Balance
+
+It's common for the math behind a game to be impenetrable to the player. In an RTS or an RPG, there are just too many numbers that have too much behind them. It's impossible for players to figure out what is actually optimal. So, players take the shortcut of assuming that the game is *balanced* underneath it all. Things that feel like they should be more powerful are expected to actually be more powerful. For instance, players assume that higher level spells are more powerful than lower level spells. If it were just a simple matter of comparing the amount of damage done, it would be relatively straightforward, but the complications of things like varying attack speed or status effects make it highly non-trivial for the player.
+
+
+Between this assumption and the fact that the players have spent a lot of effort in getting the new abilities, the players feel a strong burden to use the high level stuff that they have unlocked. This works on the larger scale, like high level abilities in an RPG, and on the smaller scale, like units that require late-game buildings in an RTS. Thus, when these pieces do not hold the value of some of the earlier ones, it becomes hard for the player to manage that dissonance. For instance, it can be very hard for new players to build marines when they've unlocked Thors in *Starcraft 2* even when the marines are the right thing to build.
+
+## Understanding Early Heuristics
+
+For any game of sufficient complexity, you will find that the heuristics early players use to judge game pieces are quite often sub-optimal. However, they still face the burden of optimal play, where they feel compelled to play those things that *they think are strongest*, even if they are not. New players see cards like *Wrecking Beast* in *M:tG* and are enamoured by the stats, but then die with it in their hands, which is not fun at all.
+
+<img src="/blogImages/wreckingBeast.png" />
+
+Luckily, early players often make the same mistakes with their early heuristics and so you can design to accomodate those early heuristics as well with a little care.
+
+## The Wrinkle of Difficulty
+
+These considerations are strongly, strongly flavored by the difficulty of a game. In reality, a strategy that beats the game by 10% and one that beats the game by 5000% are both strategies that players will be happy to use through a game. This is especially true because a player who is consistently winning by 10% isn't going to feel the need to find the strategy that wins by 5000%.
+
+
+Thus, for games that players can breeze through, this is a minor concern. If players are sure that they can progress normally doing whatever they find to be fun, they will be much less concerned about playing optimally. I'm able to very consistently beat *Civ 6* at my standard difficulty and so I do not spend the time to figure out the actual optimal playstyle, but instead build the cultural hub that I want.
+
+
+In games of high difficulty, especially competitive games, do not afford this margin to their players. You can try to design around it to some degree by making optimal plays more intuitive for new players, but fundamental to the idea of a highly difficult game is that the players will have to subsume themselves a little to the game and make the plays that are optimal and not necessarily those which they find fun. It's critical to make sure that it is fun when playing optimally, but you can pay less attention to how fun it is to play sub-optmally than you would for other games.
+
+## Flair
+
+Sometimes players will intentionally take sub-optimal choices in large part because they are sub-optimal. To be able to win without the strategies that you know are the most powerful is a strong expression of mastery and so you'll see players occasionally intentionally subvert the burden of optimal play. Giving players the space for flair in this nature can be very meaningful to those that have sufficiently mastered your game.
+
+## The Burden of Losing Equity
+
+I also want to write about a couple of additional burdens that players often struggle under. The first is that of losing equity. People really llike getting the full value of their game pieces and really hate it when they can't do so. You can see this a lot with games like *M:tG* and *Hearthstone*. Take the following pair of cards:
+
+<img src="/blogImages/bloodfenRaptor.png" />
+<img src="/blogImages/acidicSwampOoze.png" />
+
+The second one is almost strictly better than the first one and yet sees a slightly lower win percentage in Arena. This clearly shouldn't be the case from the relative power level of the two cards, and yet is not particularly unexpected. Players hold the *Acidic Swamp Ooze* hoping to get value from the battlecry and snipe a weapon when the correct play would have just been to put the creature down as a 3/2 for 2. With *Bloodfen Raptor*, there's no possible bonus value to obtain and so people just play it on curve, which leads to winning more.
+
+
+When you give players the chance for extra value like with this card, it can be hard for them to pass that up, even if it is correct to do so.
+
+## The Burden of Pending Goals
+
+Closely related to the other two is how it can be difficult for players not to complete optional goals. Players automatically assume that the goal is worth completing if the game is too complex for them to easily make the value calculation themselves and players hate leaving the possible equity of completing the goal on the table. So, if you put optional goals down for the player, expect that their default will be to complete them, whether or not its correct to do so.
+
+## Conclusion
+
+Hopefully, this article illustrates how you cannot just take the burden of optimal play to apply only to what is actually optimal, but that you have to consider the moves that the player may think optimal as well.
+
+

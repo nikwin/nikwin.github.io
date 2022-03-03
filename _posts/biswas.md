@@ -1,0 +1,75 @@
+
+---
+layout: post
+title: The Quest Design of A House For Mr. Biswas
+tag: articles
+date: 2019-12-14
+desc: How A House for Mr. Biswas designed its epic quest.
+---
+<h2>[The Quest Design of A House for Mr. Biswas](/blog/articles/biswas)</h2>
+
+I just read *A House For Mr. Biswas* by V.S. Naipaul and it has the structure of an epic quest of the type common to video games, but is profoundly different in ways that I think are worth examining.
+
+
+First however, some background. V.S. Naipaul was a highly decorated author. He was also a complicated man, where that term does its usual job standing in for "terrible human being". His breakthrough novel, *A House For Mr. Biswas*, was released in 1961 and details the life of Mohun Biswas, a Trinidadan man of Indian origin, and his efforts to get a house for himself. I picked it up in the hope that I would get some of Naipaul's famously scathing invective targeted at the Empire. I saw plenty of invective in this, but none at colonization. I may have been better served with *A Bend In The River*, but that can't be helped. There will naturally be heavy spoilers for the book in this article.
+
+## The Stakes
+
+The most obvious of the differences is in the stakes of this quest. Biswas wants nothing more than to have a house for himself. There is no universe to save, no people to deliver, no wrongs to right. There is just a man who wants a house for himself and his family and his struggles to get exactly that.
+
+
+These low stakes are rare in video games, but are practically expected in books of this sort. The low stakes let them focus on the insights they want to state and the epigrams they want to get off. It's also an avenue through which they can manage the complexity. By piggybacking off the real world, there's just less to distract the reader and less to confuse them as well.
+
+
+On this note, it's immediately evident that the house is not simply a house to Biswas, it's his dignity as well. The desire for dignity is universal and in the plebeian nature of the quest is also relatability. It's not unreasonable to limit a story to everyday desires when the goal is to present an everyman.
+
+
+Additionally, the book starts with a description of the house, which serves to make the stakes more concrete. It's not a mansion, nor even a particularly nice house, but by spending the time to describe it, Naipaul helps the reader understand Biswas' attachment to the place and so gets the reader attached to it as well and thus invested in the quest.
+
+## Abandoning The Quest
+
+There's a section of the book through which Biswas had abandoned his quest. This is not out of discouragement after an action fails or someone getting hurt, but because his son's goals started to trump his own. This happened slowly and by the time the book acknowledges it, the transformation is complete. It's a very strong moment in the book, especially given its semi-autobiographical nature, and one that games are not as comfortable pulling off.
+
+
+In part, this is the same quest as it always was. Biswas looks to get dignity through the achievements of his son, as does his sister-in-law, Chinta, through her son. Thus, when Chinta is so furious at her son for failing the exam as Biswas' son gets one of the highest scores in the country, that's a major reward from a subquest, but not in a way common to games. You feel the achievement and the schadenfreude of both Biswas and his son in a very direct way that makes reading the celebratory part a pleasure, albeit a shameful one. Naipaul does a lot to sharpen this. His prose is excellent and his willingness to relive the pettiness of his youth is unparalleled. 
+
+
+That particular feeling is always going to be one degree removed. It was not Biswas' work that got the score, it was that of his son, and were you to play Biswas, that would still be true. I feel that the relationship between player labor and the player feeling a sense of achievement is generally overstated and this highlights an achievement largely removed from labor. It can be argued that it is a different sense than that engendered by the player achieving that test score themselves, which I think holds water, but the better question is whether it a lesser feeling. Also, even if we somehow assume it to be so, it's important to be able to express it when we want to.
+
+## Writing
+
+Books like this live and die off their writing. It's clever, it's astute and it's sharp. It's even surprisingly sympathetic. It is this quality that lets small things hold so much weight over and over again in the novel. You don't need to explain to a player why saving the world is important, but explaining why it means so much to Biswas that his wife did not immediately go to her family for help is non-trivial.
+
+
+Additionally, it drops little insights and epigrams in throughout. There are lots of little things that make me smile, like Biswas and his brother-in-law Hari being deemed too clever and too incompetent to help during the puja and so being sent to debate with the pundits instead.
+
+
+Writing is sometimes used as the primary reward of a game, but they tend to aim for sensawunda. I want to see games adopt these little pithy sparkles and flourishes of the English language as well.
+
+## The Difficulty of Biswas
+
+It's difficult to have a main character with the personality of Biswas. Firstly, games like having the main character be a blank slate so that players can self-insert and so that players aren't forced into situations where none of the available choices represent what they want to do. Biswas is a man of very clear personality though.
+
+
+His two biggest traits, the search for dignity and the feeling of being too intelligent to fit in, are traits that many are quick to label themselves with, but Biswas is often the buffoon that he is treated as. He is just not at all cool, and it's hard to get players to be willing to inhabit a character like that.
+
+
+There's one of the extant big questions in video game design here, that of how we put character into the PC separate from that of the player. An approach is through making the PC semi-autonomous of the player, as in *The Sims*, but there's still a way to go before representing someone like Biswas is solved.
+
+## The Labor
+
+The part most interesting to me though what in the setbacks that Biswas faced over the course of the book. He had multiple houses and lots of money ripped away from him unceremoniously. Those setbacks are comprehensive and would be infuriating in a video game, but they're nothing of the sort in a book. Unlocking the ability to have setbacks like this would vastly expand what we can say with video games. Biswas making the terrible decision to set the fire that burned down his house is difficult to do in a game without frustrating the player. The most common approach is to take the player's control away so as to put the player in a bad position, and it's hard for a player to feel anything but cheated by that.
+
+
+I think the critical factor here is that we are bad at evoking labor, we only simulate it. By evoking it without requiring the player to simulate the entirety of it, we can likely take away much of the sting of losing the fruit of that labor. I take on some of the labor of Biswas while reading the book, but it's structured such that large amounts of the work are simply glid over.
+
+
+Simulation also tends to mean that we simulate uninteresting things. I imagine that if you had to play through all of the interviews of Deserving Destitutes, it would quickly become tedious, and the thought of repeating that tedium would be crushing.
+
+
+Here, we have one more of the extant big questions of game design, how can we represent the idea of the PC doing labor without explicitly simulating that labor. I'm interested in seeing if we can pull jump cuts into gameplay or fast-forward through routines, but I have yet to see those experiments tried.
+
+## Conclusion
+
+Many of the foundational elements of video games, the things that we take for granted, are common across very different contexts. Something like an epic quest is a common pattern and by looking at how it is expressed in things like traditional media, we can get a sense for what we currently are unused to expressing through video games. I think that both of the major questions in game design highlighted here, that of separating the PC from the player and of evoking labor instead of simulating it, will open up a lot of space in what we can make as video game designers, but more importantly, I think that we can identify many more major questions in this way and with these questions will hopefully come solutions and I really want to try the games that attempt those.
+

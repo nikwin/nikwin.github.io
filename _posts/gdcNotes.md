@@ -1,0 +1,266 @@
+
+---
+layout: post
+title: GDC Notes
+tag: notes
+date: 2018-10-24
+desc: Notes from GDC
+---
+<h1>GDC Notes</h1>
+
+Written on 2015-03-31
+
+<h2>Prototyping</h2>
+- Learnings from the game *Dwarven Den*
+- Regretted having production before prototype.
+- Don't green-light things before they are fun.
+- They feel that it should be the job of a single technical designer. Part of this is that they are short of full programmers.
+- Does not need good code, quick and dirty does it.
+- They needed to run the prototype like everything else and added a producer.
+- They pant a prototyper on existing teams to help solve design disputes.
+  <li>Tips:
+- Identify the goal.
+- Anything can be a prototype. Use more than just code.
+- Breadth, not depth. Make a bunch of things.
+- Prototype in parallel. Keep a prototype running in while in production.
+- Do not polish. Use intentionally bad art. *My personal stance on this is that this is great as long as you are only testing systems. Be wary about doing this for storytelling.*
+- Get everyone to play.
+- There is no fail, only try.
+  </li>
+
+<h2>YouTubers</h2>
+- BaerTaffy
+- Boosts from YoutTube is eclipsing that of traditional press.
+- Be engaged - become familiar/interact with the streamers you like.
+- Make sure that you choose an appropriate YouTuber.
+  <li>E-mail:
+- Hit official e-mail.
+- Be succinct.
+- *Include code/download*
+- *Have a gameplay trailer (less than 90s)
+- Personalize the e-mail
+- Persist a bit. Try a couple of times.
+  </li>
+- Baer recieves 10-15 messages per week.
+- Be on Twitter.
+- [http://videogamecaster.com/big-list-of-youtubers](http://videogamecaster.com/big-list-of-youtubers)
+- Game Mob is mobile focused.
+- Also give people accounts - set that up for them.
+
+<h2>Marvel Heroes</h2>
+- Encourage ALL employees to engage with players on forums.
+- Critical to listen and execute.
+- Twitch streaming is vital.
+- Also arrange times to play with your community.
+  <li>Issues with their F2P at first:
+- Hero drops were infrequent.
+- A few $20 items made people say that all items were $20.
+- Changed their model to focus on cosmetics and boosts instead of selling heroes.
+  </li>
+
+<h2>Designer Tricks</h2>
+- Form follows function.
+  <li>Sid Meier states that there are three kinds of games:
+- Games where the *designer* has all the fun.
+- Games where the *computer* has all the fun.
+- Games where the *player* has all the fun.
+      </li>
+- Will Wright - Your game is not complete until there is nothing else you can remove.
+- Game design rules are mostly personal, not universal.
+  
+## [@laralyn](https://twitter.com/laralyn)
+- Make emotional connections.
+  <li>Needs:
+- Relationship
+- Skill
+- Ownership
+- Info
+- Progress
+- Status
+- Individuality
+- Escapism
+  </li>
+- Also looks at the interactions and rewards available and see how you can tie them to needs.
+- Socialization can drive retention/monetization.
+- This is a good additional lens/tool.
+
+## [@chrisavellone](https://twitter.com/chrisavellone)
+- Look for the silver lining.
+- Look for stuff you can take for your games from everything, even crap.
+- His entire talk was about crap movies and what he took from them.
+- He uses his iPad to watch movies so he can easily screen cap.
+
+## [@deliciousbees](https://twitter.com/deliciousbees)
+- The number three is very important.
+- Working memory is 3-9 objects.
+- Human memory unit is three.
+- Commas in numbers help because of this.
+- Split UI in the same way - into chunks of threes.
+- He split the achievements into rows of four becuase that made them harder to parse and so made them seem longer.
+- This is only good when it comes to parsing visual stuff.
+
+## [@enameledkoi](https://twitter.com/enameledkoi)
+- Fight for the little things.
+- Cool, fun silly things add social currency to your game. It makes people want to talk about it.
+- Letting people fight for little things really helps with morale.
+
+## [@Nelsormensch](https://twitter.com/Nelsormensch)
+- Don't try to evaluate your own game.
+- This is really basic, but you are not your target player. You know too much and can do too much.
+- Don't listen to solutions from playtests, listen to problems.
+- This does not absolve you of vision.
+- Fun is a meaningless term.
+- Only you, the designer, know what the game should be.
+- Just becuase players enjoy something, doesn't mean that it is good. In the micro level, that may be good, but if the macro costs are high, kill it.
+- Focus groups just tell you what was popular yesterday.
+
+<h2>Game Design Case Studies</h2>
+## Tanya Short - *Shattered Planet* ([@kitfoxgames](https://twitter.com/kitfoxgames))
+- ProcGen for levels.
+- Their goal was to make it feel hand-designed.
+- Their system created rooms as islands, made possible doors and then connected the doors.
+- It decays the rooms from their base rects to create more organic pieces.
+- People wanted to explode the world, but would then get stuck, so they would have critical path tiles explode to reveal the skeleton of the world and others would disappear.
+  <li>They failed at: (by just not doing)
+- Pacing.
+- Having rooms know what their purpose is.
+- Deep patterns.
+  </li>
+
+## [@maltezefalkon](https://twitter.com/maltezefalkon) - Data-driven drafting
+- *Caveman: The Quest For Fire*
+- Stored all of his data as XML and built his own Excel-like program to wrok with his cards.
+- Kept data on how people played cards tomake sure they worked as intended for the strategies they were meant for.
+- Deck-building dies when all the cards are balanced.
+- Good tools allow for more experimentation.
+
+## [@bfod](https://twitter.com/bfod) - *Super Pole Riders*
+- Moved the elbows of the pole riders immediately to give the players feedback on their actions without just moving the pole immediately because that would have led to physics issues.
+
+<h2>Social Simulation</h2>
+- Believable characters is a design problem, not just AI
+- Games about people.
+- Virality of ideas is a thing.
+  <li>Considerations for social:
+- There's a trade-off between autonomous and authored.
+- Communication to the player is very important.
+- People need to be treated as ends and not means.
+- Expression through limitations.
+- Diversity as key.
+- Primacy of social interaction mechanics.
+      </li>
+- I really think that limitations in means of expression is key here. By reducing the fidelity of expression from text to something like emoji we can reduce the difficulty of programming and writing out social systems.
+- Autonomy in systems adds emergence, but emotional nuance is better with authored content.
+- Layer systems (but really do this for all games).
+- Make sure that there's feedback from social actions.
+- This helps players understand agency.
+- Social simulation is like physics in that it's a thing that people can intuit, but it is hard to exactly predict.
+
+<h2>Microtalks - 2015</h2>
+## [@emshort](https://twitter.com/emshort)
+- Mechanics for narrative is fine.
+- Narrative systems should not be degenerate, just like everything else.
+
+## [@wertle](https://twitter.com/wertle)
+
+  <li>Design Logs:
+- Keeping the log shaped development.
+- Added performance pressure.
+- Forced rapid tests of provable hypotheses.
+  </li>
+  <li>Dev Streams:
+- Did bascially the same thing.
+  </li>
+  <li>Weekly Builds:
+- Requires you to get feedback in the middle of the week.
+  </li>
+- These all require that you care about your audience. It's not going to work if it is just company policy.
+
+## [@mattboch](https://twitter.com/mattboch)
+- Proceduralism can help narrative.
+- Where is the roguelike for narrative?
+
+## [@metasynthie](https://twitter.com/metasynthie)
+- Embrace your glitches.
+
+<h2>Cultural Touchstones</h2>
+- *Firefall* played a ton of *TF2* and it became a reference point for design.
+
+<h2>Indie Polish</h2>
+
+[https://youtu.be/fYBvYWf_dTg](https://youtu.be/fYBvYWf_dTg)
+- Punk requires intention - not following rules due to ignorance instead of intent is more dangerous and less interesting.
+- *Thomas Was Alone* had rects stretch when jumping, but didn't squash when landing and got away with it.
+- Voice acting is cheaper than it looks.
+- Basics of color theory takes an afternoon.
+- *Thomas Was Alone* used only 24 colors. It makes everything look consistent.
+- Know what not to polish - things that don't exist don't need polish.
+- Graphics settings are valuable.
+- They put a mask on the main character of the game to avoid lip-syncing.
+
+<h2>Efficiency</h2>
+- Efficiency = value for player / work for developer
+- Forget good ideas, look for efficient ideas.
+- The effort a feature takes is a real cost that should be considered.
+- Part of this is just asking why a feature is good and then seeing if there's a cheaper way to do it.
+  <li>To estimate value to player:
+- How many times will 1 player get value out of it?
+- How many players will experience it?
+- Is this the type of value you care about creating?
+    
+  </li>
+- Factor in uncertainity: If you're certain that it will be good, but not sure if it is quick, give it a day. After that day, you should have better info.
+- Interconnected design tends to be highly efficient.
+- You can plot a feature by how quick it is to make and how certain you are that it will be good to know if you should do it. Try it if it is quick and you don't know if it is good. Give it a day if you are sure it's good but think it will take a while.
+- Efficiency is the art of not doing things
+- *Gone Home*, a game about people has no people
+- The best place to save time is in the concept.
+- Understand the danger of perfectionism.
+- Every day ask "Is this the most important things left to do."
+- The statement "It's teh little things that make the biggest difference is just wrong."
+- It's easy to stop polishing the silverware when you realize how much of the house is on fire.
+- It is important to feel good about yourself at the end of the day. If you are your own boss, be a good one.
+- He asks himself two questions: Did I work 8 hours and did I work efficiently.
+
+<h2>Exploding the Box</h2>
+
+  <li>Directors provide:
+- Inspiration
+- Communication
+- Conviction
+  </li>
+- *Sunset Overdrive*'s artstyle came from "On Melancholy Hill" by The Gorillaz.
+- It's harder to sell things that are not A+B.
+- They had movie nights to help build shared vernacular.
+- Have talking points - make sur epeople know why they're watching.
+- Horror movie resurrections as respawns - zombies coming out of coffins.
+- Small bits of tone really help communicate a prototype.
+- The had no design docs.
+- Better to make any solution as that leads to a good solution.
+- A lot of their good feature were made by giving people a couple of days to try things they were passionate about.
+- The had regular game jams, some of which were very high impact.
+- More prototyping, less talk helped reduce fighting.
+- Not resolving major playtest issues early cost them a lot.
+- Having a good team lets you give them more freedom.
+
+<h2>Erin Hoffman - Fun</h2>
+- "Fun is learning" is the beginning, not the end.
+- Kids in schools enjoy learning and are in a different state of mind when they play.
+- Believes fun is the cognitive process by which we transform fear into happiness through surprise. She calls this Sophia.
+- Meaningful games make the jump between game model and world model.
+- Meaningful is defined here as the ability to remain affected by the work 5-10 years later.
+- This is natural, games that affect your world model are going to be more valuable to you rationally as they can by used.
+  <li>Sophia as a lens - could your problem be:
+- Lack of clarity of the core emotion?
+- Not enough surprise preceding satisfaction.
+- Lack of tension because the fear is not illuminated.
+  </li>
+- Part of the Minecraft appeal to kids is how it respects them by being impenetrable.
+
+<h2>Games to Play</h2>
+- Blood and Laurels
+- Sims 4
+- Kitty Powers' Matchmaking
+- Redshirt
+- Polaris
+

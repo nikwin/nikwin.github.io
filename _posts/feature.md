@@ -1,0 +1,398 @@
+
+---
+layout: post
+title: Pending Syphilisation Features
+tag: syph
+date: 2020-10-08
+desc: A rundown of what's left to do for Syphilisation
+---
+
+
+You can buy a very early version of Syphilisation [here](https://whynotgames.itch.io/nikhil-murthys-syphilisation). You can read about what *Syphilisation* is [here](/blog/syph/announce) and the manifesto for the game [here](/blog/syph/newManifesto).
+
+
+I took some time to compile the list of pending features into something more tractable than it was before and the result is below. From this, it looks like the first pass will be finished by December at best. I had planned for a schedule of one major feature and one minor feature a week from now on. As the game is now live, I need to dedicate some portion of every week to playtesting and bug fixing, so that slows me down a bit. Looking at this list though, it's clear that I need to aim for one major and two minor features every week in addition to the maintenance work.
+
+
+On the one hand, I fear that some of the major features will need more than a single week, combat and culture in particular. These are tricky problems that I don't have solutions ready for. On the flip side however, my hope is that I will be able to roll a few of these points together into a single major feature. For instance, I should be able to solve the eXploitation currencies when solving the designed biome, but with luck, there will be a couple of other places where I can kill two birds with one stone that will become apparent while working out these problems.
+
+
+I should be able to get the second set of features out a few months after that, so hopefully by February, 2021. This includes a couple more player characters, Radha and Kiran. They are not very different from the current character, but having the option will shift the feel of the game. It's essentially taking down the last bit of scaffolding from the game.
+
+
+After that, the third set of features are what let me truly explore the questions that this game asks. It lets me not only present an anti-colonial 4X game, but a non-colonial one as well and so will be both exciting and challenging. Games are never completed, only abandoned though, so we'll see how much gets done there. As of now, I'm still really enjoying working on this game and I think that it holds a lot of promise, so I'm optimistic about how things will go then.
+
+<h2>Big features 1</h2>
+## Combat
+- How do kind units work
+- How do you push players into engaging more with it.
+- How do you keep your units busy?
+  <li>How do you push the player into more combat?
+- Consider having the game generate things that you want to discuss with people, ie; gossip, interesting facts, stuff that has you blocked.
+  </li>
+- How can you make the world terrain matter?
+  <li>How can you strongly differentiate kind / devious / brutal
+- Unique abilities for some units can help here
+- How do you represent the damage they do to enemy citizens
+- How do you highlight the human cost of war.
+  </li>
+- Need more wars that you can escalate through.
+- How do cities interact with each other?
+  <li>Maybe you can equip units with things like discussion points?
+- Devious and brutal units can have personal information attached to them.
+  </li>
+- The AI needs to declare war on you.
+- You need to be able to choose to side with other players or your adhoc player
+- What are things like satyagraha or the non-cooperation movement?
+  <li>The point of how you can only ever lose a war against your own people is something that you need to develop. You can temporarily gain an objective, but fighting your people is like fighting the tide.
+- However, you might be able to change minds.
+  </li>
+- How do you integrate soft power (culture, art, institutions, ideas) having a strong influence?
+- Bridges vs. walls
+
+## Designed Biomes
+
+  <li>What is the metaphor?
+- What are the different spaces of the relationship that the different biomes represent?
+  </li>
+  <li>What are the animals
+- Think about hunting here.
+- Creepers / animals as idiosyncracies is interesting.
+- Spread the currencies on them.
+  </li>
+- Can put zoos in the group districts where you go capture animals and bring them back for bonuses
+- How can you use them to push Pahal into the Study districts?
+  <li>What are interesting alternatives to creepers?
+- exhaustible mines? oil rigs?
+  </li>
+- Give the biomes names.
+- See how you can make the early regions feel more like they are parts of you.
+- The world needs to feel more textured.
+- Hills / creepers that cost two movement points
+- More unique natural wonders / resources
+  <li>Think out anomalies again
+- Praying unlocking anomalies does a number of things at once.
+  </li>
+- More things to explore
+  <li>Find out which bonus resource is there and if it is good enough to work
+- Units just need more useful things to do.
+  </li>
+
+## eXploitation Currencies
+- Specialized currencies.
+- It's exciting to get them in Civ
+
+## District Adjacency
+- I want to make placing a district into a very interesting decision
+- I like the idea of district zones and each district gives a bonus to everything in the zone.
+
+## Storyline
+- It doesn't feel important enough to get the insecurity wonder and I'm not able to get started with it either.
+- People really react well to the visual novel stuff in CK3.
+- Have some shared goals here.
+
+## Quest system
+- It does a lot of work in directing the player now. Lean more into that.
+- Quests need to feel less random. Biomes need to push you into a consistent direction.
+- This also needs to do something toward making it hard to manage a huge empire
+
+## Biome culture
+- Making projects affect culture from the beginning is a good way to add in another post-colonial hook
+- Make culture transform citizens regularly
+- Make a culture for the player as well.
+- Cultural effects need to be discrete. Don't just make them be small percentage bonuses.
+- Needs to be tied into the eXploration phases.
+- Completing quests needs to affect it.
+- Wonders and districts should change it too.
+- Keep track of health and happiness
+  <li>Culture being affected by adjacent cultures.
+- The more connected the biomes are, the more it spreads.
+  </li>
+- The goal is to actually not need buildings / districts through this.
+- Have the culture boost the project output.
+- The idea here is also to represent oral traditions.
+- Can possibly use renewable techs for this.
+- The goal is less direct output, but more flexibility.
+- Have projects sometimes give benefits to the buildings / projects of the city. Eg; completing a study project can sometimes result in an upgrade to a study building in the city.
+- Ad-hoc players doing things other than unrest
+- What are some major long-term bonuses that this can lead to?
+- Think about city beliefs wanting representation in the way of the INC
+- The calcification of beliefs and their industrialization
+- Try to industrialize the belief in the eXploitation phase.
+- Something about losing the ability to see the stars changing the culture of a city?
+
+<h2>Minor features 1</h2>
+- Roads
+- Maybe through a campaign?
+- City Menu Screen
+- Empire reports
+- Tooltips
+- Upgrade citizens
+- Reduce the number of research options open at any time.
+- Make the AI prioritize answering questions
+- Divide up the tile image properly. Do it from the top down. Figure out exactly what goes where.
+- Put the quest icon next to the road and river
+- I would like a move animation.
+- Prioritize settling for AI nomad cities.
+- Put in a pedia page
+- for trying inspiration
+- combat
+- for answering questions
+- for building camps
+- for building preserves
+- culture
+- Need to make inspirations more interesting
+- Make the great person choose where to go?
+- Always put an action interface showing the results
+- Put preserves into the expansion phase
+- What can players do with the preserves? How can you keep them interacting with them?
+- Wonders that change the report
+- Things that change facts to have the opposite value.
+- Eg; prove that partition violence came from British policy and so instead of partition supporting the idea of a benevolent Britain, it paints Britain as the villain
+- Be able to convert all of the camps by planting seeds in them.
+- Need to put the city strength somewhere visible?
+
+<h2>Big Features 2</h2>
+## Currency
+- Doesn't have enough utility yet
+- Allow players to refresh the unit turn limit by spending currency. Make an actionInterface for it.
+- You want things that cost currency that come up naturally, so that the player can spend currency without actively thinking about it.
+
+## Facts
+- How do you get players to identify with them?
+  <li>How do you get different weights across?
+- The way that all facts have the same weighting feels very dissonant. It doesn't make sense for Sartre's point on colonial agriculture to weigh the same as Kipling bragging about divide and rule.
+  </li>
+  <li>How do you help players contextualize them?
+- Let players identify keywords and then sort the facts accordingly so that they can get an idea of what is what.
+  </li>
+  <li>How do you deal with the fact that there are so many of them?
+- Do you want to push more for aggregates of them?
+  </li>
+  <li>Make absorbing a bunch of facts make reading similar facts easier.
+- Build this into the stances.
+- Try to make this big chunky changes though, not just a percentage bonus. The unlocking of questions is a good start. Can you do more there?
+  </li>
+- You can't really represent counter-arguments well right now and that limits you.
+  <li>Timeline extensions
+- Be able to move things a little bit in each zone though.
+      <li>Be able to filter by tags.
+- The person quoted
+      </li>
+- Color the facts by question
+  </li>
+  <li>Be able to switch the report menu into a timeline
+- Group the facts by the date
+- Display them horizontally
+  </li>
+
+## How do you focus cities?
+- Some cities feel like they just aren't doing anything.
+  <li>Especially true when some cities have questions up and others don't.
+- Made tougher because I don't feel like spending a district slot on a question that another city has built.
+  </li>
+  <li>Major rewards for getting to the end of a tech tree / completing a district
+- Make some empire-level bonuses
+  </li>
+- Make the projects more multiplier oriented instead of raw currency.
+- Avoid buildings / wonders that are just a bonus.
+  <li>Civ uses:
+- Adjacency bonuses
+- Spatial bonuses, eg; factories, arenas
+- Collection for theater squares
+  </li>
+  <li>Districts need to feel interesting and unique
+- Add memories to the group district.
+- Can do more around making the group district responsible for conversations and talk points.
+- If you keep the inter district next to a question, then that gives you double the currency when the question is answered.
+- Zone adjacencies is promising.
+- How do you put a park in the middle of a zone?
+  </li>
+  <li>I want the game to acknowledge that libraries do more than just boost tech
+- I like libraries and cultural zones because of what they represent, because they make my empire feel more civilized. I want the game to reflect that.
+- This needs to be something that's not mechanical
+  </li>
+- You want to make sure that the derived currencies define the eXploitation period. The game should become all about their management.
+- More recipes for currency conversion in the eXploitation period so that you can change direction in the middle.
+- Unexpected unlocks - Eg; having both coal and iron in a city allowed the player to build an ironworks in Civ4 and that unexpected unlock was a lot of fun. Could you do something similar with district combinations?
+- Keep questions connected to their parent district
+
+## A fundamental colonial belief is that you can run things better than other people. How do you combat this in Syph?
+- Something about only being able to keep track of so much at once? You can't focus on all of the questions and take on all of the roles IRL. How do you backport this to the game?
+- An important colonization dynamic that should translate well is the idea that the British could manage other regions better than the natives could
+
+
+## Radha and Kiran
+## Climate catastrophes are important
+- Think through the full metaphor
+- The game doesn't do enough right now to push you into polluting.
+- Consider having entire biomes change.
+- Diseases spread quickly in a tropical post-climate change world
+- Forest fires!
+- Chain reactions for ecosystem loss - losing a species causes a creeper to die out.
+- Maybe don't let the player know what pollutes immediately. Make it come out of traits of the group that you discover later in the game.
+  <li>Spread viruses through trade routes.
+- Put in syphilis.
+- Be able to research cures for other viruses though (eg; fatigue with the project) as a tech-utopian point
+  </li>
+  <li>I want the equivalent of an energy producing system too.
+- I want people to be able to choose between healthy and non-healthy ways of generating electricity.
+- I feel like any solution to this will also generate something interesting for the eXploitation currency conversions.
+  </li>
+- Industrializing to the point of being able to place cities anywhere.
+- Harvesters causing environmental disasters, like oil spills
+- Gold mining is interesting as a thing that is used for artistic and spiritual benefits, but the mining of which has environmental effects.
+- Sea levels rising
+
+## Special events
+- Unpredictable things that force players to drastically alter their existing plans
+
+<h2>Minor features 2</h2>
+- The fragility of farms - have farms generate a bunch of food every few turns. If there’s a drought or flood or anything similar though, the entire cycle is lost. Farms need to generate more food per tile than foraging, but less food per turn.
+- Automate templates?
+- Maybe instead of using templates, automatically build the building in every district. Maybe just do that for the work and not the self-improve?
+- Feels like nothing happens in the eXploitation phase
+- Need to encourage the player to have more questions up.
+- Make the AI chase quests better.
+- The environment needs to get more cities
+- Need more gold in the haystack.
+- The governments in Civ are big, rare pieces with a very understandable impact.
+- More non-facts in the research tree
+- Show the last researched tech when you research a new tech.
+- Being able to ask people to answer certain questions
+- Special events that let you build a second city in a biome.
+- The question of whether supporting the Allies in WW2 justifies colonialism and whether India should have gone for independence before that.
+- Integrate Churchill's belief that the colonization of India was justified by the establishment of welfare for poor Britons
+- Add a question here for whether nationalism is ethical.
+- Integrate the question of what is best for the world.
+- Look at how much the industrialization of the world has benefited people.
+- The universality of English is a big deal.
+- Make the ahimsa war again.
+- Also make a more violent way to force peace.
+- Wonder that lets you expand camp boundaries a second time - different ones for different camps.
+- Branching wonder paths - be able to choose between different tier 2 wonders
+- Think about the repurposing of the Hagia Sophia here.
+- Make a wonder that prevents camps from being formed when people declare war on you. - eXtermination phase
+- Make the sidebar panel more skeumorphic
+- Instead of the locked tiles, you can just keep the tiles off the board and only put them on when the region is unlocked.
+- I want to make the point of how the colonials were liberally educated and that did not make them moral.
+- Be able to understand the research that other people have done / integrated.
+- Wars to learn from.
+- Reading the report as an action.
+  
+
+<h2>Big Features 3</h2>
+## What are preserves?
+- I like the dynamic of camps being very focused and so making it such that you don't get any of the other resources in the tile
+- This feels nicely industrial and as though you've lost something by choosing industrialism.
+- The idea of waste products that you ignore when industrializing, but using the whole pig when playing in a more environmentally friendly way.
+
+## What is prayer?
+- You can make prayer sites into camps.
+- Praying should generate quests - unlocking nature's secrets through sympathy.
+- Inspirations should also be able to add points.
+  <li>Is there a way to represent spirituality in a way that is not number-based
+- The way that Civ represents faith in basically the same way as gold feels like it can be improved.
+  </li>
+- Gifts of devotion are a nice idea though
+- What is the metaphor here?
+- Can you model yourself changing? What is spiritual growth?
+  <li>Praying as spending time and effort on the relationship without a goal in mind.
+- This keeps the relationship healthy
+- Acts as an anti-pollution method
+  </li>
+
+## Better celebration points
+- First time settling a city.
+- Every time you convert a biome.
+- Every time you answer a question
+- Wonder movies worked really well for Civ. The timeline / golden age mechanic isn't bad either
+- Maybe the celebration points can be visual novel pieces.
+- I like the idea of having overt choices, like for the religions in Civ or the bonuses of BE.
+- Maybe when certain techs are researched.
+  <li>Does a throne room make sense?
+- It's a non-mechanical reward.
+- You can put memories in here.
+  </li>
+
+## Report at the end of the game
+## Anupam
+- Maybe have Anupam not use the tech tree at all - they just get how to do things, but do not care about why those things can be done.
+- Make playing him very organic. Have lots of things happen without player impetus.
+- Anupam shouldn't be constrained by the point system.
+
+## How do you achieve your ends without use of means?
+- How do you unlock nature's secrets through sympathy?
+- The idea of surrender to a higher power as fundamental to decolonial thought.
+
+## Textured relationships between players
+- Discover things about them that have no mechanical value.
+
+## History from below
+- Corporations building mines and polluting.
+- Random actions in the biome.
+- Random buildings coming up, Maybe as soon as the building is researched.
+- The happiness of a people, not just their historical achievements.
+- 4X games cannot really represent the New Deal. The US gained development due to WW2, which is against the idea of swords vs pitchforks.
+- You can actually represent wealth inequality though where some units are on tiles that produce huge amounts of value and some are not.
+
+## Deep ecology
+- I want players to be able to be able to arrange safari / hiking style things where people get some beauty from the deep beauty at the cost of only some of the deep beauty, but not all.
+- I also want a goal for maximizing deep beauty.
+- I want to be able to send explorers out to specific outposts of deep beauty
+
+## Fighting the idea of growth for the sake of growth
+- Celebrate paring things down as much as building things up. Try to get the players to ask what exactly it is that they need.
+- The statement of how modern life doesn't give anyone space for beauty
+  <li>For the whole fragility of the industrialist economy, think about how when you buy vegetables, you want to buy a bunch of them because there’s a fixed cost, but then if you don’t cook with them soon, they go bad.
+- Can just have goods spoil X turns after harvesting and it does the same.
+  </li>
+  <li>Generate garbage and dump them on third world countries.
+- I like the metaphor of venting here.
+  </li>
+
+## Colonizing other regions
+
+  <li>What all can you build in it?
+- Need the ability to commit a massacre
+  </li>
+- Put in the dynamic of indigo plantations.
+
+<h2>Minor features 3</h2>
+- eXploitation and Roles
+- Be able to have a defined role in the eXploitation phase
+- Be able to use the role to force group actions and group projects
+- Units moving around in your empire without your control
+- eg; transporting goods from a camp to a city
+- Give someone the silent treatment.
+- Consider making it neutral units that explore again. Alternately, consider having some combat in exploration. Maybe also be able to escalate that war.
+- Think about ruins of ancient cities being great to visit.
+- Something like the explorers chasing down and taming aliens in BE?
+- Something like the exploration quest to find 6 hydracoral brains in BE?
+- Be able to make a bid to conquer an area and so trigger unrest.
+- Fomenting unrest in others.
+- A Gandhi-style character that brings about unrest in your territory.
+- Meditation
+- Can have it kill nearby quests.
+- Give a bonus for multiple cities meditating at once.
+- Further citizens
+- Have some buildings allow &amp; require multiple citizens on the tile.
+- Have buildings that allow for extra foragers.
+- Be able to research different settlers too.
+- Have citizens sometimes change themselves.
+- Citizens need to start demanding finished goods.
+- Be able to upgrade citizens with more advanced ones.
+- You want to be able to upgrade foragers to take two of the unitTag and be more efficient. Give players a way to make the decision to stick to units instead of making a camp or preserve.
+- If you put in the question system for the tech tree, consider making it much lighter, or at least only rarely put in personal details as the rarity will be more exciting for the player.
+- I want a way to merge your research with someone else’s and merge your answer with someone else’s.
+- I want to be able to mine incidents between players for tech and for humor.
+- New question districts for ancillary questions related to major questions.
+- Think out archaeology
+- Proposal to prune from the report - eXtermination phase
+- Need a full report for every currency that you can store so that I can debug what is happening to my actual cash
+- Need to give the minor notifcations icons
+  <h2>Points to keep in mind</h2>
+- Fungibility is inherently neoliberal and makes games neoliberal too.
+- The game has too high a cognitive demand
+- How can you better direct the player to long-term goals?
+

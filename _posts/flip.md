@@ -1,0 +1,31 @@
+
+---
+layout: post
+title: The Quiet Sleep: Third Story
+tag: city
+date: 2018-12-23
+desc: Introducing the third story for the quiet sleep.
+---
+
+<p style="font-size:10px">Written: 2017-07-27
+
+
+The first two stories of *The Quiet Sleep* are done, but my company's incorporation still has a way to go. As this is mostly just waiting for various documents to get through a diverse set of bureaucracies, I'm going to use this dead time to implement my idea for a third story.
+
+## A Quick Note On Mechanics
+
+Much of the promise I saw in *The Quiet Sleep* was in the tower defense/city builder hybrid that the game is built on. I felt that the tower defense part would have given a game like *Settlers 2* a lot more focus in the end-game as a sink and that the city-builder would have given the tower defense some extra depth so as to offset the traditional shallowness of the genre. I ended up downplaying this side of the game for my first two stories in favor of the novelty factor of building out a person's mind.
+
+
+I do feel that there is actually space here for a competitive game that works out to a simplified RTS. Essentially, build out a network of buildable areas connected by paths and build units to attack down those lanes and towers to defend them. This isn't a game that I want to make at the moment though. If anyone wants to pick this up, please message me so that I can buy a copy when it comes out.
+
+## The (Yet-Untitled) Third Story
+
+I would always go to a *Starcraft*-style game when thinking about the game from the angle of the above mechanics, but at some point when working on the second story, *Songcraft*, I realized that I could set it as two people competing over shared space in a relationship. The idea is that the two of you are staking out and then competing over roles in the relationship, such as which friend is whose, who is the calm one and who's the fun one and so on.
+
+
+The player's goal is to try to elicit emotion from the other person in the relationship. I want it to become an idée fixe with the player character, where the stoicism of the player character's partner causes insecurity and so the PC constantly pushes to bring some emotion out. This ties in nicely with how the previous stories have used emotions as the creeps of the tower defense. This also feels nicely toxic, which should be fun to implement.
+
+
+I'm looking forward to seeing where this story goes. This feels like the game I should have built from the beginning as it would have really shown the mechanics to their full potential, but it's too late to do anything about that now. Anyway, I should be able to make a decent stab at it over the next month or so while going through the process of launching the rest of the game.
+

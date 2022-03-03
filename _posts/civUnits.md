@@ -1,0 +1,75 @@
+
+---
+layout: post
+title: Units of Civilization
+tag: syph
+date: 2019-1-8
+desc: Breaking down the units of Civilization
+---
+<h2>[Units of *Civilization*](/blog/syph/civUnits)</h2>
+
+[Cities](/blog/syph/civCities) are what makes *Civ* run, but the units are a lot of what makes it work. I'm going to break them down here and try to show why they are such a critical part of the series.
+
+## Spreadsheets
+<img src="/blogImages/civUnit1.png" />
+
+I believe that without any units at all, the game would feel far too much of a spreadsheet for players to enjoy it. The units are the largest connection that the player has to the world and that's key to grounding the game and keeping it from feeling too abstract.
+
+
+It's also an integral part of the fantasy of playing an empire and is constantly reinforced as such by the amount that the player interacts with it. When I build a library in Civ, my interactions with that are just choosing to build it and then watching it complete. With units, building them is just the beginning of my playing with them.
+
+## Tactics
+
+Tactics function as a secondary skill for players to develop and the variety and expansion added to the decision making helps keep the game from feeling repetitive and solvable. They also give players a way to make up for falling behind economically.
+
+## Dramatic Effects
+<img src="/blogImages/civUnit2.png" />
+
+Capturing an opponent's city is one of the most dramatic power shifts in the game and (mostly) requires units for it to happen. Loyalty mechanics occasionally provide an alternate path to shifting control, but are nowhere near as quick and effective as just using troops. This is especially true for the most important cities which naturally have the highest power swings associated with them.
+
+
+Due to this fact, units are often an integral part of playing to win, even if you are not going for a domination victory.
+
+## Sinks
+
+Interestingly, units also function well as a production sink. Building units is a repeatable way of using production that often improves the position of your empire. This makes it a good safety valve for when the player's production outpaces their tech.
+
+
+Additionally, they function as a tech sink. Having a tech tree of this size requires a lot of pieces to give the player and units fill in a lot of those holes.
+
+## The Drumbeat of War
+<img src="/blogImages/civUnit3.png" />
+
+The side-effect of all of this though is that the game pushes players into war. There are two thought patterns in particular to highlight here.
+
+
+The first is "Let me just run a quick war here and capture their major cities and then I can coast to victory for the rest of the game." As it results in the dramatic power shifts mentioned above, this is often a highly viable strategy.
+
+
+The second is "I'm a little bored with what's going on right now. Let's start a war." This is something that I used to do more when both I and the series was younger, but the theory still holds true. When a large part of the game revolves around unit combat, it is only reasonable that the player engages with it.
+
+## War Breeds War
+
+There are a number of mechanics that further reinforce this. The facts that units heal and that it's much cheaper to maintain a unit than to buy a new unit together push players to maintaining an army once it is created. Additionally, the other civs further push the player to maintain a sizable army due to the threat of their military invasion. Once you have a standing army as a player, it then becomes significantly more tempting to start a war, especially if a neighbor seems weak. Through this, war breeds war in *Civ*.
+
+
+Interestingly, *Colonization* dealt with this issue quite neatly by letting the player have military units put up their weapons and work on the colony like the rest of your citizens. They can then be re-equipped with muskets as the player needs. This gives the player something valuable to do with the troops besides using them for warfare and so removes this particular push towards war.
+
+## Non-Military Units
+
+<b>Workers/Settlers:</b> Workers and settlers also function as ways to tie the player to the map. However, they do not function as a direct source of interaction between the different civs in the game, and so lose a large part of what makes the combat units so interesting for the players. Even nabbing a city spot from the other civs is not the same feeling as capturing another civ's city. The developments that they make are also very satisfying though.
+
+
+<b>Archaeologists:</b> These are interesting units and it's fun to dig up artifacts, but they also don't interact with the other civs and are constrained to a very small piece of the game.
+
+
+<b>Spies:</b> These do actually work as interaction between the civs and can have some impact. However, the systems underpinning them are quite shallow and so limit how interesting they are. It lacks the tactics component that makes the normal units so compelling.
+
+## Religious Combat
+
+Similar to the spies above, the religious combat system lacks the depth that it needs. While religious units share the combat mechanics of standard units, there are far fewer religious units and no type differences and so the tactics of the standard units does not get fully carried over. Additionally, as religious spread is much less valuable than actually taking over cities and as it is difficult to get a religion at high difficulty levels, religious combat is just less important than standard combat.
+
+## Conclusion
+
+Units do a lot to define the experience of playing *Civ* and I think that I've gone over all of the parts of them. Please tell me if there's anything that I missed or anything that you think could use further thought.
+

@@ -1,0 +1,99 @@
+
+---
+layout: post
+title: Why Not? Ep. 1c - Pokemon Go, Pokemon and Adding Value to Pieces
+tag: pokego
+date: 2018-11-29
+desc: On how the Pokemon games make their pieces valuable.
+---
+
+
+The act of collecting is central to many games. It's a great way to foster a sense of progression in your game and gives your players goals. It is tremendously important to Pokemon Go, but I feel that were the pieces I'm collecting not Pokemon, I would have no attachment to them. This game piggybacks off the existing value decades of Pokemon has conferred on its pieces. I don't think that this is a strike against the game, it is just a large part of why IP can add so much to a game.
+
+
+I feel that the original games were absolutely fantastic at making their Pokemon feel valuable though. Over the rest of this article, I'm going to break down a number of mechanics they used to achieve that.
+
+## Value Theory
+## Gotta Catch 'Em All
+
+<img src="/blogImages/catchEmAll.png" />
+
+
+The simple act of telling your players that you are a collection game has a large effect on meaningful the collection side of the game is to them. Pokemon tells you to Catch 'Em All and reinforces that by having the professor reward you for doing so.
+
+
+Additionally, the game lets you progress with almost any team of Pokemon that you want as you tend to be well above the level of the NPCs you encounter. This further de-emphasizes the combat systems and lets the collection mechanic remain center stage.
+
+
+Contrast this with a game like *Hearthstone*. The game has the pieces in place to support a collection sub-theme, but chose instead to focus on being competitive instead. The game has no Pokedex equivalent and never references the number that you own. Just to be clear, I think that this was absolutely the right idea for *Hearthstone*. The game is fun because I'm trying to build and pilot the best deck, not because I want to collect all the cards. The side-effect of this though is that when I get a new card that is not going to make any of my decks, it does not function as a reward point.
+
+## Procurement Cost
+
+It is natural that players will value stuff that they had to work hard to get more than they will value things that were easy to get. There's a reason I don't really care about any of the Pidgeys that I caught. Their replacement value is extremely low.
+
+
+Clearly one way to increase this cost is simply to have some pieces be rarer than others or more difficult to catch. It's worth noting how frustrating this can be for a player though. If the player is forced to go through a lot of Pokemon that they no longer care about in the hope of finding one that they do, that process can be excruciating.
+
+
+What the original games did very well was having different Pokemon in different regions. The first thing this does is make the rarities clearer by keeping the number of Pokemon low. This lets you use numbers large enough to be meaningful to the players for even your rarest ones. Essentially, if you have three rarities and two pokemon in each class, you can break that down into something like 30%,30%,15%,15%,5%,5%. So, even your rarest Pokemon have a five percent chance of appearing and your player can complete a region. Using the same rarity classes and putting 10 pokemon in each class, your rarest 10 pokemon all have a 1% chance of appearing, and so many players will play for a long time without seeing some of them.
+
+
+Additionally, it provides variety with the common Pokemon. In a world where all of the common Pokemon are the same everywhere your players will take longer to reach the plateau of having caught most of the Pokemon, but once they hit that plateau, they are stuck. Here, you see that same curve shrunk and repeated as players plateau in one area, but then move to the next one with a new set of commons. This makes for a better experience as the player knows that the player knows that the plateau is temporary. Furthermore, this gives players some agency in finding the Pokemon that they want. The player still has to go through a lot of randomness to get the Pokemon, but can meaningfully affect that randomness, which feels better for the player and makes the investment more meaningful. This makes the story of catching the Pokemon stronger. Instead of just saying that you caught something while wandering around, now the player gets to feel like they searched for that particular Pokemon, which makes finding it and capturing it more satisfying.
+
+
+<img src="/blogImages/zapdos.png" />
+
+
+Similarly, the effort that players spent on catching the legendary birds or Mewtwo in Red Version made those Pokemon more valuable. The fact that you had to go all the way through the Power Plant and fight a ton of people made catching Zapdos mean a lot more than catching one of the Voltorb in that dungeon. The game made Zapdos the payoff for getting all the way through the dungeon, and so the Pokemon took on the value of the time and effort that the player spent getting there, even if fundamentally the player only performed the same actions that they used for the rest of the game anyway.
+
+## Investment Costs
+
+Similarly, investing in a piece is a good way to get the player to value that piece more. Leveling up and evolving Pokemon are both classic approaches to this. This is a very delicate method to use though. If a player feels like their investment does not produce the returns they expect, especially if the game pushes them to invest in that manner. A piece is only worth the cheapest way to obtain it, so if investment is a sub-optimal way to get a piece, that can be very frustrating for a player.
+
+
+A failing of both the original games and Pokemon Go is in being able to catch evolved Pokemon. As it takes more effort to evolve one than to catch one, spending the effort to evolve a Pokemon is a sub-optimal way to obtain that particular Pokemon. I'd argue that it's a lot less of an issue in the original games as you're not trying to fill your Pokedex through evolutions until very late in the game, at which point you've already caught the evolved forms. However, it does give players the scope to make this mistake. Additionally, the default seems to be needing to evolve the Pokemon in the original games.
+
+
+<img src="/blogImages/stardust.jpg" />
+
+
+Stardust and Pokemon candy function as a channel for player investment in Pokemon Go. A major issue with it is how rarely it is the correct action to spend stardust on your Pokemon however. It feels very frustrating for the reasons described above to have spent a lot to power up a Pokemon just to catch something even stronger. My goal was to get a powerful Pokemon and invested a lot in that goal just to find that my investment was wasted.
+
+
+Another corollary of investment costs providing value is that if the player constantly interacts with a piece, that piece will naturally seem more valuable to the player. This not only increases the apparent value of the piece to the player, but also reminds the player of the investment spent on that piece.
+
+## Value Within The System
+
+Getting Eevee was fantastic for many reasons, but one of them was just that all of the Eevee evolutions were powerful Pokemon. They made it easier to beat other trainers and wild Pokemon, which is after all, a fair bit of what the game asks from you. Essentially, combat in the game functions as a system that gives different Pokemon different values. An interesting implication of this is that if the game were perfectly balanced such that every Pokemon is exactly as viable as every other one, then this axis of value no longer exists.
+
+
+Type systems work as an additional way to add an axis of value to the combat system. This forces players to compare Pokemon by more than raw combat stats and so increases the number of Pokemon that matter due to the combat. For instance, getting a good fire Pokemon can feel valuable even if it wouldn't normally make your team as an option to bring in against Erika's gym.
+
+
+Also, HMs (like Cut and Fly) add arbitrary value to Pokemon. It was just necessary for me to have a Pokemon that could Fly me around. It's also very flavorful, which helps make the Pokemon feel more like real creatures instead of game pieces. The idea of riding around on your Lapras or flying on your Articuno is just cool.
+
+## Intrinsic Value
+
+Sometimes pieces have value just as that piece. If a player is a dog person, then that player is probably going to really like Growlithe. It doesn't matter what the stats are, or how effective it is for that player, the Pokemon is a puppy and that carries a lot of value with it. Similarly, everyone wants a Pikachu. These are pieces that have taken their value from outside of the game, but that in no way means that you can discount their value when designing your game.
+
+
+Additionally, you can have something like the legendary birds, where NPCs in the game will occasionally talk to you about the Pokemon, thus building up its value. This is even more pronounced in this case as those Pokemon are unique and require a lot of player effort to obtain.
+
+## Translation Value
+
+<img src="/blogImages/farfetchd.jpg" />
+
+
+If the player can translate a piece into a valuable piece, then the first piece becomes valuable in itself. For example, catching a second Spearow was pretty meaningless in Red Version, but the fact that I could trade it for a Farfetch'd made it very meaningful. Similarly, catching a Dratini was far more valuable than catching a Tangela as it would fill three spaces in my Pokedex and eventually evolve into a powerful Dragonite.
+
+## Value Across Axes
+
+I think that it only takes an item to be valuable on a single axis for the player to value it. For instance, I never played Zapdos because I would always get a Jolteon and use that as my electric Pokemon instead, but I was still excited about capturing it because it was so valuable across multiple of the above axes. It was a legendary bird and I had to get through the entire Power Plant to get it. The fact that I wasn't going to use it in battle felt immaterial.
+
+
+This is not quite as simple as it may seem though. Having a piece be valuable across some axes can result in players expecting it to be valuble on other axes as well, and if it is not, that can disappoint your players. For instance, Moltres always felt a little disappointing as it wasn't difficult to catch as it just showed up at the end of Victory Road and wasn't strong enough to jump into the team. It felt like a bit of a let-down for a legendary Pokemon.
+
+## Conclusion
+
+The value associated with pieces in the game is often a key part of the experience of that game. It has repercussions across your game and taking the time to reason through why players will care about your pieces can solve a lot of your game's issues.
+

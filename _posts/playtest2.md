@@ -1,0 +1,31 @@
+
+---
+layout: post
+title: City: Playtest 2
+tag: city
+date: 2018-11-30
+desc: Further notes from playtesting.
+---
+
+<p style="font-size:10px">Written: 2016-08-07
+
+## Screenshot
+<img src="/blogImages/SS_2016-08-07_01.png" />
+## Playtest Results
+
+We ran the version of the game described [here](/blog/city/playtest1) by a few more people and mostly got the results we expected. The metaphors resonated strongly with a lot of people. People really got things like using the paint tower to calm down and people did perk up a bit at the ability to flirt.
+
+
+However, the UI and onboarding remain issues. The entire process of generating currencies, the basic action that players take in the game, is far from clear and players have had severe issues with the flow.
+
+## Story
+
+As the first playtests were in progress, we also got work done on the narrative of the game. The major plot lines are now complete, but the side stories still require some filling out. Additionally, I need to play through the whole thing quite a few more times before I'll be satisfied with the story.
+
+
+Both the first and last 15 minutes are much weaker than I'd be happy with. These are absolutely critical for a game like this, so something major will have to be done about that. I'm hopeful that we can make the first 15 minutes feel a lot better with the right visuals. The problem with the ending though is that I just do not know where exactly to end the game, and the options that I have don't feel high-impact enough and feel a little forced. Hopefully some more iteration will make this problem clearer.
+
+## Goal Choices
+
+Moving the story forward resulted in finally building a feature that's been on my list of things to make forever. Now, there are places in the game where the player has multiple competing goals appear at once and can only complete one. This is the way that players can make major choices in the game, such as whether to fight their programming or go along with it. This also lets me represent these decisions as more than a simple choice as the different approaches often require different currencies.
+

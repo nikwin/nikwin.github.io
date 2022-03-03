@@ -1,0 +1,106 @@
+
+---
+layout: post
+title: Florence
+tag: articles
+date: 2021-07-16
+desc: Thoughts on the many moments of Florence
+---
+
+<img src="/blogImages/florence1.jpg" />
+
+I finally got around to playing *Florence* and it is magnificent. It's beautiful and moving and the kind of game that you cannot miss and so I want to write out some things about it that you can take away for your own games.
+
+
+In case you haven't seen the game before, it involves small, toybox-like interactions to progress through a narrative in comic panels. You do things like match numbers to work, rub back and forth to brush your teeth and assemble things to say through a jigsaw.
+
+
+Also, if you haven't played the game yet, you really should start there. It takes about half-an-hour to finish, it's wonderful and there are lots of spoilers below.
+
+## Moments
+
+Given the structure of the game, it's naturally individual moments that really stand out. The first one that I'm going to highlight is a pretty straightforward one, that of Krish cleaning up his room before Florence came over. It's a very familiar trope and a very cute one. It also helps us flesh out Krish by showing us his stuff. We learn his interests by cleaning up his mess.
+
+
+The centerpiece of the game is probably the part where you have to piece together a torn-apart photo of Florence and Krish hugging as it drifts apart. I'm not going to lie, this is a very literal interaction. There's no subtlety here. However, the medium is novel enough to carry it and the story and characters do enough to justify it. It's a powerful and beautiful moment and having the pieces move apart communicates the breakdown sharply.
+
+## Compound Statements
+
+There's a moment in the game where you literally push Krish through the doors of the music academy that he has joined. There's a button with a pair of hands on them and you tap it until Krish is finally through the doors. In itself, this is very evocative. You feel like the supportive girlfriend pushing her significant other to finally chase his dreams. You understand Krish's reluctance to put himself out there and Florence's determination that he do so.
+
+
+This button with the hands shows up once more much later in the game. After you and Krish break up, there's a scene where you have to push yourself to get out of bed with the same hands that you once used to push Krish to follow his dream. The change in noun and change in context completely changes the meaning of the same action, but more interestingly, the fact that it is the same action flavors the current interaction with the previous one and tinges the past one with the present. Now, there's a melancholy to when you pushed Krish to school where once it was cute and the struggle to get out of bed takes an extra sharpness when it was an action once reserved for Krish.
+
+
+A more novel statement is in the accounting work that you do. There's a number matching mini-game that is used to represent this accountancy and it comes up first in the day job and later when Florence starts her own business. When the relationship between Florence and Krish is at its best however, the numbers match themselves. This functions beautifully as a translation of the feeling that work is easy and that you are floating, a feeling you get when deliriously happy. What's most interesting though is that the numbers don't match themselves once Florence has started her own art business. I run my own game company, I have to do some accounting nonsense every now and again and I can tell you that the work certainly never feels like it completes itself. I love that the game found the space to put in some of the slog that comes with following your dreams, which is a dynamic that is too often overlooked when talking about doing so.
+
+## Mirrored Statements
+
+There's an interesting, if obvious, pair of mirrored statements around unpacking Krish's belongings when he moves into Florence's apartment and then packing them up again when he moves out. I spent a long time debating whether to pack the photo of Florence with Krish's family or to leave it there. Finally, I decided to leave it there for Florence.
+
+
+Similarly, when things finally finished breaking down, there's an action where you throw a map that Florence and Krish made of their memories together into the trash. When I made the map with them in the first place, I was excited by how cute it was. I now want to make a map like that with my wife. Once the pandemic allows me to, I will. Throwing that away felt particularly poignant.
+
+## The Medium
+<img src="/blogImages/florence3.jpg" />
+
+The story falls very neatly into a very well-defined archetype, that of the rise and fall of a relationship. It's normal to view this as something of a defect, as evidence of a lack of imagination, but here the innovation is not in the message, but in the medium. When the novelty is so formal, keeping the message minimal keeps the game clear and coherent.
+
+
+A lot of what the game has to say is not in the actual relationship, but instead in the isomorphisms that it presents. It translates everyday actions into minigames and the delight of the game is in these isomorphisms. It's fun to see work presented as mindlessly matching numbers or conversation as piecing together the pieces of what you want to say like a jigsaw or scratching off the conversation bubble to reveal the meaning behind the words. These are all established metaphors that now get a video game representation and that novelty is fun in itself.
+
+## On Autonomy
+
+I often feel that game design theory has a tendency to get caught up in autonomy as it is the most obvious point of difference between video games and traditional media, and this preoccupation can somethings us lead us off-base. Personally, I feel that had the game allowed the player to keep the relationship together or even to win conversations, it would have been a poorer game. Concrete goals almost always dominate games that they are in. Their binary nature and numerical clarity are very easy for players to latch onto and so they very easily define the game. For many games, this sharp definition is exactly what you want, but here, I feel it would have been atonal.
+
+
+I claim the joy of the game is in the isomorphisms and if that is true, then it becomes hard to fit autonomy to that aesthetic. One can imagine a game about building a system to express the entirety of the relationship (*The Quiet Sleep* actually even does this), but this is not a game built to express big statements like that, but instead one that finds beauty in details.
+
+## Genre
+
+There's a cross-media genre here that I've never fully pinned down, but want to signal towards. So, I'm just going to list out a bunch of things that seem to fall into the same category:
+- L'Illusionniste
+- "Service Road" by Better Oblivion Community Center
+- Machinarium
+- Old Man's Journey
+- An Artist of the Floating World
+- "Chinatown" by Girlpool
+- Asterios Polyp
+- "The Suburbs" by Arcade Fire
+- 500 Days of Summer
+- Eternal Sunshine of the Spotless Mind
+- I Am Easy To Find by The National.
+
+
+
+All of these feel like they evoke the same emotions and share the same make-up. To me, *Machinarium* is closer to *Florence* than it is to a point-and-click like *Day of the Tentacle* and I'd like better vocabulary to express this partially orthogonal axis.
+
+
+This genre is melancholy.
+
+## What Next?
+## Poetry
+
+A question that I've long mulled is what exactly makes for poetry in video games. I feel that there's quite likely a deep aesthetic vein that will be uncovered when an answer to that question is fully understood. I don't think that *Florence* is the answer to that question though.
+
+
+The compound statement of the hands does not feel like a rhyme. It just feels like a noun substitution. A defining trait of poetry to me is that it forces attention on the words themselves. What is often just the means to the end of expressing a thought becomes the focus of the art. There's something of that in the embellishment of base actions in the game. You have to push with your hands instead of just pressing a button once. From this though, I cannot identify what a rhyme looks like.
+
+
+I'm not going to use this article to really explore the concept, but it is something that I wanted to point out.
+
+## Embellished Interactions
+
+The importance that the game gives to the embellished interactions is a big deal though. Scratch-offs, jigsaws and the like are more effort-intensive than the action strictly needs to be. These embellishments are a delight though.
+
+
+This is also something that can be melded with more system-driven games very nicely. The interactions of *Hay Day* were a very underrated part of that game's success. Additionally, games like *In Other Waters* and *Spaceteam* play so well largely because of how fun the UI is to interact with in itself.
+
+## B-Side: Krish
+<img src="/blogImages/florence2.jpg" />
+
+As a quick B-side to this article, I want to highlight Krish for a moment. It's very nice for me when I see an Indian boyfriend, especially one like Krish. It's a small bit of representation that just makes my day a little better. He's very cute. He's the kind of guy that I would want to be with and that I would want to be when I was younger. He's not pathetic.
+
+
+With Krish came a couple of really nice touches too. The Ganesha, for one, was fun to see. My favorite moment though was when unpacking in the kitchen and negotiating the spice rack. It's a very singular dynamic and one specific to multi-cultural households and it was nice to see.
+

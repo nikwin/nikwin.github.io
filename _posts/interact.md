@@ -1,0 +1,43 @@
+
+---
+layout: post
+title: City: Interaction
+tag: city
+date: 2018-12-16
+desc: A quick note on a failed feature.
+---
+
+<p style="font-size:10px">Written: 2017-03-27
+
+
+I have a personal theory about Tower Defense games. I believe that they need a secondary mechanic in order to keep players engaged. A vanilla tower defense revolves around the decision of what tower to place next and where to place it, which is informed by:
+- The existing towers.
+- The way the map is set up.
+- The available towers to build
+- The expected wave.
+
+
+This itself is enough raw material to produce interesting decisions from. What complicates this for the game designer is the tempo of the decisions and the frequency of deciding not to build anything. When your tower setup is good enough to handle the waves coming at you and you have nothing to invest in, the correct decision is just to wait. Additionally, this state is often very easy to identify, and so there are often extended periods where the player is not physically interacting with your game and only barely mentally engaged.
+
+
+I believe that this is why there were so many TD-with-a-twist games back when TD games were at their peak. Of course, the twist also had the benefit of acting as a differentiator and thus helping the game stand out in a crowded marketplace, but a twist of this magnitude is still surprising. *Sanctum* added a full FPS into their TD and *Orcs Must Die* added an ARPG.
+
+
+My favorite twist like this is much simpler than either of those though. *Plants vs. Zombies* simply asked the player to click on sun and coin icons to collect them. This doesn't distract from the core parts of the game, laying down plants and killing zombies, but keeps the player engaged when the systems ease up on them a bit.
+
+
+As a side note, tycoon-style games are similar in that they ask the player to wait while their funds build back up. However, the systems of those games encourage spending that money immediately in order to increase your profits. This greatly ameliorates the problem described above, but it is definitely conceivable that they would benefit from some twists themselves.
+
+## The Quiet Sleep
+
+For *The Quiet Sleep* however, the tighter narrative and the city builder aspects reduce the problem. The TD itself is one of the smaller pieces of the game, but I did think it was worth looking through this lens a bit. *The Quiet Sleep* itself has some long waiting periods that felt necessary narratively and the second story has a wider range of situations and so could see a similar problem in some cases.
+
+
+I decided to try having the trains of thought remain stationary after picking up a currency until the player clicked them. The idea is that this would add some busywork in the manner of *Plants vs Zombies* and also emphasize the paths that these trains were taking. Additionally, it meant that player focus mirrored the player character's focus to a larger degree. Lots of trains, especially trains with complex paths, would require more attention from the players themselves and that cadence feels interesting to me.
+
+
+However, in practice, this was just far too much to handle. It played out as too stressful and too demanding, even with the game speed reduced. Additionally, it didn't actually do anything to emphasize the paths that the trains took as the timing made it hard to keep track of cause and effect.
+
+
+As of right now, I decided not to put this feature in. It's basically the definition of a high risk/low reward feature for me. The gameplay effects are potentially huge and the problem it solves is one that other features help with already. Features like this naturally get less effort and fewer hours than more promising ones and given the failure of the first test, I'm pretty happy leaving this one on the shelf. There are some minor tweaks that I may try if I feel like tinkering, but as a whole, I can look at this feature as closed.
+

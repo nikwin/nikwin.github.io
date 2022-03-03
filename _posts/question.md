@@ -1,0 +1,75 @@
+
+---
+layout: post
+title: Syphilisation and Big Questions In Game Design
+tag: syph
+date: 2020-08-08
+desc: Thinking through the big questions in game design that Syphilisation can answer
+---
+
+
+You can read about what *Syphilisation* is [here](/blog/syph/announce) and the manifesto for the game [here](/blog/syph/manifesto).
+
+I keep coming back to ["You and Your Research" by Richard Hamming](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf). I don't know that I care to do great work, I don't know that I care for the amount and kind of work that would go into persuading for change, but I do know that I want to work on important questions. One of the things Hamming mentions in this talk is that in examining the problem that you're working on, you can sometimes find a more important question hidden inside it and then, with only a minor shift, you can take aim at that. I'm going to go over some of the game design questions here and see what comes up.
+
+## Parody
+
+I picked up *Syphilisation* because of how perfectly it feels placed as a parody. The *Civilization* series is an institution and one ripe for examination and *Syphilisation* is just the perfect name.
+
+
+I'm not building a parody in the sense of a humorous take-down of a trope (although that does sound fantastic and I wish someone would build that), but more as an attack on the genre's conventions from within the genre. It thus requires and rewards understanding of the genre and I want to see this be more common. I don't like genre conventions as incestuous defaults, but I do like the idea of having conversations with players as to what they mean.
+
+
+I even like pretty meaningless things here. I like how the pirate comic in *Watchmen* draws on comic book history. I like how *Beautiful Escape: Dungeoneer* cares so deeply about the RPG Maker forums. *Syphilisation* is meaningful in that decolonizing the 4X genre is meaningful, but there's so much game design space here if we don't limit ourselves with significance.
+
+
+It really expands the idea of storytelling in the space between explicit pieces in video games in a way that I'm excited about. The implicit is key to what makes video games work now and key to what the future of video games can be. It's a necessary tool for traditional media and our hesitancy with it holds us back.
+
+
+There have already been a number of interesting games in this space. *Jostle Bastard* explicitly takes aim at *Hotline Miami* and my own *Getting Over It Without Bennett Foddy* pushes at the original game. More notably, both *Bioshock* and *Star Wars: Knights of the Old Republic II* examine genre conventions, but I don't think that there is a game that is both as committed to parody and of the same scale as *Syphilisation* and my hope is that this will demonstrate the space. For instance, I would love to see an anti-capitalist trading game.
+
+## Idiosyncratic
+
+There is not enough idiosyncracy in video games right now. There's a strong desire for it. You can see game designers celebrated for it right now, especially the Japanese auteurs, but it feels like many designers are still reluctant to put themselves in the game, possibly due to the heavy influence of corporate game design culture. *Syphilisation* is built to give you my perspective and I'm very up-front about it through the game. I want players to think about the person behind the game as that will put them in a good position to question the value system of the game.
+
+
+My hope is that by reminding players that there is an actual person behind the keyboard, I can get them to reject my authority. By building the game and setting up the pieces, I automatically am put in a position where players believe that what I say in the game is true. I've personally put a foolish amount of effort into the facts that I put into the game. However, first of all, I'm not a historian and I've made the financial decision not to get a fact-checker and there will be mistakes. Secondly, and more importantly, the game encodes my beliefs about those facts. I want players to think about what they feel about the philosophy of the game and not just uncritically internalize what I put down. Idiosyncracy should help them with that.
+
+## Post-Colonial Games
+
+There's been a marked rise in post-colonial games over the past few years, but I don't think that any of them function in quite the same way as *Syphilisation*. I feel that this game's direct and comprehensive look at a colonial period is going to feel quite different. However, I see the issue of colonial defaults in video games as a function of the environment that these games are made in and not of the games that are being made. A lot of how to make a game post-colnial is understood, it is just that people choose not to make them.
+
+
+I'm also just not interested in the idea of making a post-colonial primer. This game is not being built to teach and even if it were, I'm not going to sell enough copies to make that worthwhile. There is a lot in this game that can be used to learn from, but I'm not interested in chasing the goal of making something that people can point to for others to understand.
+
+## History Game
+
+On the same note, I'm not interested in building a game to teach history. The question of how to make games that teach has long been one of the biggest open questions in the field, but it's not one that I like. I think that it's based in interactivity exceptionalism, and I disagree with that fundamentally. If you're making a game to teach history, then the goal has to be to teach history, not to teach history better than books. If your goal is to be better than books, then you can't use much of what books do. That aside, I'm just not interested in that question. It's too utilitarian for me.
+
+## Winner-Take-All
+
+There's a deep trend in game design towards winner-take-all with concrete win states. I don't think that this is a difficult question for any individual game to solve, but I do think it's a choice people default to. The cooperative aspects of *Syphilisation* should push against that a little and hopefully spark some interesting ideas.
+
+## Highlight Features
+
+The features that I want to highlight in the game are:
+- The organic, history-from-below aspects.
+- The history.
+- The perspective on group dynamics.
+- The conceit of ethical standards for empires needing to match those of people.
+- The dangers of industrialization.
+- The new tech tree structure and new approach to settling areas.
+
+
+Most of these points come down to things that are interesting when contrasted with the 4X genre as a whole. There are also some points that build off what I started with *The Quiet Sleep*, the mechanical representation of things that are normally thought too human to represent. Finally, there's the history point, which is really just because I put a lot of work into it and I'm proud of it. I believe it will contribute a lot to the fun that players have, but really, it's just there because it was fun to put in.
+
+## Insights
+
+From this exercise, I am now convinced on the value of rewards for educated gamers. Earlier, I was divided on the idea of capitalizing the Xs in words like eXpression or even eXploration. I thought that it was too precious, like I was congratulating myself for something not that clever, but from this, I think that there is value in doing this for the players, and so I'm happy with it in.
+
+
+The other takeaway that I've had is to bring in an anti-colonial point very early into the game. It's a piece that has clearly been missing and putting it in will hopefully sell the player on the core idea from the start.
+
+
+I don't think that I've completed this thought though. I'm going to come back to this a couple of times in the future and see if I can fully figure it out.
+

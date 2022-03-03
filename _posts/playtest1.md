@@ -1,0 +1,38 @@
+
+---
+layout: post
+title: City: Playtest 1
+tag: city
+date: 2018-11-25
+desc: The results of the first playtest.
+---
+
+<p style="font-size:10px">Written: 2016-07-12
+
+## Screenshot
+<img src="/blogImages/SS_2016-07-12_01.png" />
+## Playtests
+
+We hit our goal of getting a playable version of the game out by July 1st and we had three people play the game over the past week. The biggest issue is, unsurprisingly for us, the UI. We have a lot of actionable notes on that and have already done a bit to make it less problematic.
+
+
+We did see people engaging with some of the metaphors in the game however. It is intuitive to try to relax to deal with anger, for instance. The UI, improper emphases and lack of information all made made this less powerful than it could be, but nevertheless, this axis seems promising for this stage.
+
+## Focus System
+
+The biggest source of playability issues seemed to be the focus system. The multi-step process involved was just unintuitive and easy to forget. In addition, the system was incomplete and didn't hit all the points we wanted it to. As a result, much of the past week was spent redesigning it from scratch. You can read the full breakdown of the system and potential fixes [here](/blog/city/focusProposal).
+
+
+In a nutshell, we:
+- Linked the entire pipeline required to complete a goal from the menu of that goal to help players keep track of what they needed to do.
+- Removed the manual focus controls and made the entire process more automatic to reduce the number of hoops that the player had to jump through.
+- Added a system to represent the player's subconscious and so introduce incentives to not be completely focused all the time.
+
+
+## Playtesting Process
+
+We now have the game up on itch.io and will start sending out keys very soon. We planned on being able to explain the game in person, but given how difficult it is for many people to come by our office, we've been working on getting the game to the point where you have a fighting chance of getting somewhere with it alone.
+
+
+Our process is pretty straightforward right now. We keep a stable branch that is exactly what's on the store. Our process requires a full playthrough before it can be fast-forwarded to master, but that is basically the entire process. We'll keep updating this as things go on.
+

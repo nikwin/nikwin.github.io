@@ -1,0 +1,60 @@
+
+---
+layout: post
+title: An Extended Note on The Traitor Baru Cormorant
+tag: syph
+date: 2019-1-12
+desc: A lot of thoughts on a recent book that I read
+---
+<h2>[An Extended Note on The Traitor Baru Cormorant](/blog/syph/baru)</h2>
+
+I saw a recommendation for *The Traitor Baru Cormorant* on Twitter a week ago and immediately bought it. Given my current work on [Syphilisation](/blog/syph/manifesto), I’m hoovering up all that I can find on colonialism, both fiction and non-fiction. This seemed to be the right book at the right time. I’ve only read it once though, so there’s a fair chance that further reading or discussion will convince me against some of the points below.
+
+
+To quite a degree, it managed to follow through on what it promised. I really appreciate the commitment to a character as non-traditional as Baru Cormorant. I was impressed by how the book managed to bring in points on racism and sexism and how it abjured the cop-outs that most fantasy books employ.
+
+
+The early section of the book actually manages to live up to my hopes. It contains my favorite part of the entire book, where a very young Baru asks if one of her fathers was actually her father or, to use the words of the colonizers, was a sodomite. It’s rare to see a work that understands a moment like that, where imperialism goes beyond just control over territory, but changes the way that people talk and the way that people think. Using an actual school is also an interesting choice and one with great historical significance due to the missionary schools that dotted the British Empire and the horrors of the schools that Native Americans were subjected to. The book nods toward that without actually doing anything close to depicting the horrors of the latter.
+
+
+The bigger problem though is that it doesn’t take this indoctrination seriously enough. It’s willing to have the idea of the Masquerade’s politics be deeply ingrained into Baru, which is a thing that we’ll unpack a little later in this note, but it doesn’t give the social ideas the same due. Baru’s mother seems to cut away the entirety of that part of Baru’s education with a few brief sentences. Baru lives in fear of being persecuted for her homosexuality, but doesn’t have the inner struggle with what the Falcresti would have conditioned her to consider impure that one would expect. Given the time she spent in a school that focused on morality, it seems implausible that none of the cultural values of the colonizers stuck with her for more than a moment.
+
+
+It’s certainly not impossible for a character like Baru Cormorant to have retained the cultural values of her people despite the schooling. She was part of the first generation of the conquered, which makes her experience very different from that of people in the real world of colonized countries. However, the conquering of a people is often associated with a massive cultural shock as an empire that considered itself puissant suddenly finds that not to be true. People turn as easily to cultural superiority as to technological advantages for an explanation.
+
+
+More than that argument though, it is just the scattershot nature of the teachings that cause parts of it to stick. While Baru might have immediately denied the orthodox marriages of the Masquerade, there are a million other small ways through which Falcresti values would have been imprinted on her and the book shows none of that.
+
+
+This is exacerbated by the Young Adult-feel of the book. Firstly, the writing itself is just not up to scratch. It is poor enough in places to break the experience and in others it fails at communicating the ideas of the writer. It is often amatuer, mechanical or self-satisfied. This lack of quality made much of book beyond the first section an effort to read through. This failure of flow actually affected the points that the book has to make on colonialism in a couple of important ways.
+
+
+The choice of a Young Adult-tone is a good choice for the explorations of Baru’s relationships (even if the book itself needed to be less blunt about this) and the commitment to diversity of the book. I do not use Young Adult as a pejorative here, merely as a descriptor. There is too much good YA fiction out now for any reasonable person to dismiss the genre. However, in the case of this specific book, it does feel like the choice of sub-genre significantly injured the book’s ability to speak on imperialism and the undercurrent of explicit racism that enabled it.
+
+ 
+Actual colonialism is both far more mundane and far more evil than its representation in this book. I understand the temptation of writing a shadow cabal. The book holds Baru’s perspective and this secret society stuff makes for clear and actionable problems for her to face. The simplification to a machine and to an Illuminati is a shallow fantasy as is Cardine Farrier. Mere shallowness is forgivable, but this fantasy is dangerous for how it disempowers the everyday people of the Empire and so keeps them from their share of guilt for the atrocities of the Masquerade.
+
+
+The British Empire was built off a hodge-podge of competing interests and the very human ambition of people like Robert Clive. The hypocrisy that E.M. Forster wrote of was integral to the British Empire. The people of Britain itself enjoyed their status as the center of the world during the time of the Empire and simultaneously told themselves that they were helping the people indigenous to the colonies. These concepts are fundamentally incompatible without the racism disguised as paternalism that defined the public sentiment toward the colonies at that time and place. To absolve the common person of this is more than merely disingenuous, it’s actively harmful.
+
+
+I actually really dislike how the book bases their critique on imperialism on the Roman Empire instead of the more recent European powers.  The best part of the Temeraire series is the Napoleonic backdrop. Additionally, I feel like the romantic view of the Roman Empire has not been examined to the same degree as that of European imperialism as we just don’t have the same amount of information of the time. For the British Empire in India, we can read Gandhi, Nehru and Tagore as well as Churchill and Kipling as well as Orwell. For the Romans, that degree of documentation just does not seem to exist. This may just be my lack of knowledge on the subject though.
+
+
+Additionally, the idea of  the technologically advanced colonizer and that of the noble savage are both colonial narratives that are often misapplied. Take for instance my current city of residence, Bangalore. Under Tipu Sultan as Mysore State, it was one of the most advanced places in the world. Technologically, he pioneered rocket artillery and economically Mysore had one of the highest living standards in the world of the late 18th century. Yet for all of that, he could not compete with the scale of the British economy of the time. When colonial narratives underpin a book about colonialism, it’s unsurprising that it ends up being softer on the colonists than they deserve.
+
+
+My favorite book on colonialism has been *Burmese Days* for quite a while. Orwell is scathing of everyone in the book, from the blustering people of the European club to the servile Dr. Veraswami and above all to Flory himself and his falseness. It’s a bitter, angry book that is unsparing to everyone in it and so manages honesty. To be fair though, it was fueled by Orwell’s time in Myanmar and the politics of the world of the time, neither of which is easily replicable now.
+
+
+As with the above issues with colonialism, I feel that the book’s treatment of eugenics was a little off. I think that a belief in eugenics would have scads of secondary effects in thinking and action, but here it felt like it only showed up superficially. Can you have eugenics without deep-seated racism and a racial superiority complex? It seems unlikely to me that a young girl from Taranoke would get a fair chance through their civil service examination in a world as obsessed with eugenics as this one. However, I did really like how Baru was constantly cognizant of how any of her failures would be a mark against her entire race and gender. That pressure is a real part of functioning as a minority and it’s rare to see a book explicitly bring it in.
+
+
+The other place where the writing failed was in pacing. The kinetic energy of *Black Panther* did so much for the ethical questions of the movie in the way of the best superhero works. Here, the book got bogged down with ancillary concerns and so the ethical questions of imperialism fell apart. The justifications of colonialism were never really examined. This is part of why the ending didn’t quite do it for me. I was not surprised by Baru Cormorant’s eventual betrayal in a book titled “The Traitor Baru Cormorant” and I knew that we were going to see Falcrest from the inside before the series was done. It was some of the best written scenes of the book, but the shift in character and tone just did not feel sufficiently justified.
+
+
+This is a book that’s clearly read *The Master’s Tools Will Never Dismantle The Master’s House* and I expect that the sequels will do some amount of work to address these concerns. However, the sentiment applies not only to the politics of the book, but to the book itself. Can a fantasy novel of this style truly liberate itself with the tools of the fantasy novel? I felt the book was too involved with Baru herself and not enough with the themes it tries to play with. Additionally, the book lost steam when Baru took up her political position as it shifted from allegorical to straight YA fantasy as that allegory was the most interesting part of it. I question the ability of a book so enamored with war and political maneuverings to truly examine the effects of those same actions.
+
+
+It is unfortunate that such a note must necessarily appear critical if it is to critique. *The Traitor Baru Cormorant* is an exciting and interesting novel to have in the market and I look forward to the sequel due this year. It’s amazing to see a novel as ambitious as this one. I’m really glad that it’s possible to have this conversation at all. If you haven’t checked it out, and you’re looking for something in this space, I highly recommend that you give it a try.
+

@@ -1,0 +1,30 @@
+
+---
+layout: post
+title: The Villages of Civilization
+tag: syph
+date: 2019-12-24
+desc: A brief thought on the villages of Civilization
+---
+<h2>[The Villages of *Civilization*](/blog/syph/village)</h2>
+
+Sometimes I think about the tribal villages of *Civilization*. They are just so friendly. All they ask is that I visit and take their gift and all I do is kill them.
+
+
+When my unit enters the village, the village dies. Interaction with my civilization ends theirs.
+
+
+How did I kill them? Did I bring the smallpox of the Spanish? Did I bring the weapons of the United States? Did I bring a Bible to the Andamans?
+
+
+If I did not do it, someone else would. It might be a few hundred or even a few thousand years, but it would happen anyway.
+
+
+I know that excuse to be false. Every year of existence matters. To deny a people every second they can get is unthinkable.
+
+
+And yet, I want their secrets and their relics and their people and their gold. I want what I can take. *Civilization* is a brutal game and I want the edge they give me.
+
+
+There's quite a bit of honesty in *Civilization* asking you to eliminate native people for your material advantage and quite a bit of humor in presenting them as happy to see this happen. It's a very apt name.
+

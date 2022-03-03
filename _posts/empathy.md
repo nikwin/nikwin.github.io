@@ -1,0 +1,77 @@
+
+---
+layout: post
+title: Start Expecting Games To Build Your Empathy
+tag: articles
+date: 2019-1-19
+desc: My response to an article asking that we stop expecting games to build empathy
+---
+<h2>[Start Expecting Games To Build Your Empathy](/blog/articles/empathy)</h2>
+
+I just read [a piece](https://www.wired.com/story/games-and-empathy/) asking people to stop expecting games to build your empathy, and while I agree with the majority of the points made in it, I unfortunately also disagree with a few critical ones. I'm going to take this article to lay out my thinking on this topic.
+
+## Sunday School Books
+
+There's a temptation to look to art as some kind of panacea for the social ills of the day. The hero of the story just stands up to the bullies or says no to drugs or whatever the case may be and millions of children around the world now have a positive role model to draw from and the world becomes a better place. I understand how tempting it is to look at a simple, actionable strategy and want it to be effective. Maybe it even is effective. I don't have enough information to make a statement either way. I don't believe in it though, and even if I did, I have other issues with this school of thought that I'll get to shortly.
+
+
+There are lots of people who do believe in this though, or at least think the strategy is sound, but the implementation is lacking. From there, any kind of games for change initiative seems heaven-sent. The idea that games can be the missing piece of the magic bullet that fixes these problems is naturally tempting. I understand how perfect it would be if the increased immersiveness of video games allowed for the construction of works that inject empathy into a mind, but I don't even believe that games are more immersive than other media, let alone that said immersiveness increases empathy.
+
+
+Similar to this, but not quite the same, is the idea that video games can function as a sort of dressing to make raw information or difficult activities more appealing. My expectation is that this will go the way of the informational cartoon or comic book, never dying but never quite succeeding either. I feel that a game designer attempting something in this space is best served by examining the system that causes potential players to devalue the information instead of trying to create a new one to add value to it. This will hopefully lead such a game designer to find a better solution than the retrofitting of tools designed for leisure.
+
+
+These ideas detailed above are naturally tempting for a game developer to adopt. If these were true, then they form an undeniable base for arguments about the worth of the medium. Then, when people question the role of games in school shootings and the like, we would be able to point at these as a source of unquestionable good that video games provide. While I agree with the motivations, I feel that we would be better served with other, less flawed, arguments.
+
+## Traditional Media
+
+Let's take a list of books that I've read as the basis of the next argument. I'm going to take *Rabbit, Run*, *To Kill A Mockingbird*, *Catcher of the Rye*, *The Beggar Maid* and *An Artist of the Floating World* as the basis of this. This is a pretty random selection and I don't actually like all of them, but they make the point well. I can't look at any of these books and prove that they made me any different. I cannot draw an explicit link between any part of these books and a meaningful change in myself. However, I think that as a collective, they definitely have provided me with exposure to ideas and so developed my empathy. It's a lot easier to understand a person going through something when you've read something resonant with their situation.
+
+
+Similarly, did *Path Out* make me more empathetic? I don't know and I can't prove it. Did *Life Is Strange*? Again, I just don't know. Nevertheless, as a collective, I do feel that games made me more empathetic in the same way as books or film.
+
+
+This is not to say that increased empathy is a guaranteed result of being well-read. There are far too many counter-examples for that to be true. Under the right circumstances though, it can do a lot to help.
+
+## The Differences Between Media
+
+There are however difficulties intrinsic to the medium or the games that mostly comprise it that hinder building empathy and these are worth examining.
+
+## A Question of Scale
+
+An important characteristic of the books that I listed above is how small they are in scale. There are no world-shattering disasters waiting in the wings there, just people and their problems. It's a lot easier for Kazuo Ishiguro to build empathy than Dan Brown or for *Lost In Translation* than *Transformers*. There are many games that are more personal in scale, but they tend to be overshadowed by the larger, more bombastic games and form a much smaller part of the discourse than would be ideal from the perspective of empathy-building.
+
+## The Analytical Frame of Mind
+
+Core to many video games is a logical analysis of the systems that they present in an attempt to find an optimal path. Pushing players into this mindframe can cause them to pay less attention to the softer, more emotive parts of the game while playing it, which in turn makes it harder for a game to build empathy. Players calculating point trade-offs are likely to avoid complicating the equation by bringing in empathy, especially when the game is telling them through player interactions that empathy is not going to help them with their goals.
+
+## System Pressures
+
+An important cautionary tale deals with a game built to help players empathize with the poor. It presented players with what it termed to be a simulation of the life of a poor person and let them play with it. However, those players were able to find straightforward solutions to the simulation and so came out of the experience with the belief that poor people could easily work their way out of poverty. Rather than increase empathy, as was the game's stated goal, it merely pushed players to believe that poverty was the fault of the poor and so countered its own goal.
+
+
+Games like to present interesting choices. It's famously part of a common definition of the medium. However, just like allowing for solutions, while balancing choices may make sense from the perspective of a game designer that is optimizing for fun, it can be counterproductive for the one who is trying to evoke empathy.
+
+
+It's also worth noting that games like this one often suffer from the issues detailed above under Sunday School books and so I think are inherently and inescapably flawed.
+
+## Artificiality
+
+Most characters in video games cannot come close to escaping their artificial underpinnings. RPGs, IF, visual novels and even something like *The Sims* have difficulty in disguising the numbers and dialogue trees underpinning their characters. It's much harder to empathize with a simulacrum than with a person.
+
+## Forced Discomfort
+
+Games often let you make choices that reflect your own moral proclivities and then force the game to follow along. Doing this keeps the player from examining things they felt immoral and so empathizing with perspectives other than their own. Linear narratives often have protagonists do immoral things, like cooking meth, and so allow you growth.
+
+## Conclusion
+
+The essay this piece responds to asserts that "Games, like any other type of art, can make life more interesting and more tolerable. But they can't make you a better person ... Games can't make you better. That's your job." I agree with the sentiment that games are art like any other and that becoming a better person is the responsibility of the individual, but I think that good art is a helpful and often important tool in that process and good video games can function there as well as anything else.
+
+## Postscript 1
+
+I think it's worth noting that the value of a game, as with any other work of art, is not in the way that it influences the player or makes the world a better place. The value of artwork is intrinsic.
+
+## Postscript 2
+
+This topic is slightly personal as I believe that my latest game *The Quiet Sleep* does help build empathy, even if that was not the intention behind it. I think that its systemic representation of the processes behind thought and action help you come to terms with the periods where it is difficult to act ideally, both for yourself and for other people. You can check it out here - [http://store.steampowered.com/app/724510/The_Quiet_Sleep](http://store.steampowered.com/app/724510/The_Quiet_Sleep).
+

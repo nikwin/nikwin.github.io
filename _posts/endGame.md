@@ -1,0 +1,36 @@
+
+---
+layout: post
+title: Post-Colonial End Games
+tag: syph
+date: 2020-07-22
+desc: Assorted thoughts on post-colonial end-games
+---
+
+
+You can read about what *Syphilisation* is [here](/blog/syph/announce) and the manifesto for the game [here](/blog/syph/newManifesto).
+
+
+An interesting issue that recently came up is that the ending of a game automatically ponts the player toward a colonial mindset. The player knows that the state of the game 20 turns after winning is immaterial. Once the game is done, it is done. This pushes them to decisions with short-term payoffs because anyway there is no long-term to worry about.
+
+
+A good example of this is a pollution mechanic. Polluting can have extreme consequences in *Syphilisation*, but it takes some time for those consequences to kick in. So, in the final phase of the game, there's absolutely nothing keeping the players from polluting hard, strip-mining everything they can and causing huge ecological damage. This kind of short-term thinking becoming degenerate undercuts a game that's supposed to question the capitalist and colonial underpinnings of the genre.
+
+## Senescence
+
+One option that I'm interested in working more on is that of senescence. Imagine a player choosing no longer to reproduce and thus to fade quietly out of the game. If the end-state has no remnants of the player left, then it's no longer possible for the player's state to be unstable at the end of the game. Besides which, having a goal be the removal of influence instead of the establishment of superiority is intereting in itself.
+
+
+I do worry though that in their hurry to eliminate themselves from the game, players will be heedless of the destruction that they do to the environment. If there is a clear goal, it's hard for players not to race towards it, and even if the goal is to end yourself. I also fear that it would play out in a manner similar to a standard goal. There might be something of a fun dynamic where you tear down establishments that you had earlier put up, but it would still play out close to a standard technological victory if the turning point is tech related.
+
+
+I really like how this is not a statement of permanence though. The idea of a world that continues after the player is gone has always appealed to me.
+
+## Aiming for Stasis
+
+Another option is simply to have stasis be the goal. By keeping track of the axes like pollution, I can just mark the end of the game as reaching stasis on these axes. I dislike the rigidity of this though and I also feel that the player will inevitably game it somewhat. More than that though, I think that it feels too self-important. I want the game to signal that there is a future beyond the scope of the game, but this feels like autonomy ends when the game does.
+
+## Mentioning The Future
+
+I'm going to try having the end-game screen mention how the group functions after the game finishes. One of the goals of the game has always been to stay friends with the other people in the group and integrating the state of the game at the end ties in nicely. I can extrapolate the state of the game at the ending to get the result and so push people away from going wild. Players are still going to figure out ways to game this, but that's a fact with much of the game anyway. I think that putting the idea of the characters of the game continuing after the game ends into the minds of the players will do most of the work anyway.
+

@@ -1,0 +1,452 @@
+
+---
+layout: post
+title: Pull Algorithm Explorables
+tag: pulls
+date: 2018-12-19
+desc: An interactive article on pull algorithms in games.
+---
+<script type="text/javascript" src="http://www.whynotgames.in/static/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="http://www.whynotgames.in/static/underscore-min.js"></script>
+<script type="text/javascript" src="http://www.whynotgames.in/static/std.js"></script>
+<script type="text/javascript" src="http://www.whynotgames.in/static/pullSim.js"></script>
+<h2>Pull Algorithms</h2>
+
+Often when designing games, we need to design a pull algorithm, or a way to give the player a random game object from a pool of random objects. It's hard to visualize how these random distributions look in practice and so difficult to design them well. Over the course of this article, I’m going to present a bunch of small simulations to help understand various algorithms.
+
+## Table of Contents
+
+
+    <li>[Basic Player Engagement](#chap1)
+- [Stimulation](#chap1a)
+- [On The Simplifications of the Article](#chap1b)
+    </li>
+- [Basic Systems](#chap2)
+    <li>[Pull Systems](#chap3)
+- [Simple Simulation](#chap3a)
+- [Pokemon Go](#chap3b)
+    </li>
+- [Introducing New Content](#chap5)
+    <li>[Various Pull Algorithms](#chap6)
+- [Deterministic](chap6a)
+- [Placing a Ceiling on Bad Pulls](#chap6b)
+- [Pokemon Red and Blue](#chap6c)
+    </li>
+- [Conclusion](#conclusion)
+
+
+## <a name="chap1"></a>Basic Player Engagement
+## <a name="chap1a"></a>Stimulation
+
+This is our first simulation and it’s pretty simple. Just click the interact! button to give the player a game piece. Different players require different amounts of engagement. If a player receives too little stimulation, they will leave.
+
+
+This is a really abstract representation of how getting stuff in games works. Nevertheless, you can imagine that if this were *Pokemon Go*, every time you pressed the interact button, the player got a new Pokemon.
+
+<table><tr>
+    <td><canvas id="sim1" width="480px" height="320px" align="center"></canvas></td>
+    <td><button id="sim1Inter1">Interact!</button>
+</tr></table>
+## <a name="chap1b"></a>On The Simplifications of the Article
+
+This is an obvious and gross simplification of the player's experience. However, if we look at it as purely the experience on the single axis of the pull system, and a heavy simplification of that as well, we can still derive value from these simulations. It is also worth remembering that a new feature could do well in this simulation, but still be bad for your game due to something that this article doesn’t cover, such as negatively impacting the decision making in the game or increasing complexity to the point of impenetrability. Video games are complex and need to be looked at with multiple lenses.
+
+## <a name="chap2"></a>Basic Systems
+
+A common game development pattern is to use a system to drive the player’s engagement instead of hand-crafting it in the manner of the above simulations. It’s often time consuming and expensive to hand-craft a full drop pattern. So, with this simulation, we’re going to go over a basic system to do that for us.
+
+
+There are three sliders to play with in this simulation:
+- <b>Pull Rate</b>: How often the player gets a new game piece.
+- <b>Novelty Requirement</b>: The player's need to get new stuff.
+
+
+<table><tr>
+    <td>
+      <table>
+      <tr><td><canvas id="sim2" width="480px" height="320px" align="center"></canvas></td></tr>
+      <tr><td><canvas id="graph2" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input2_eps" type="range" min="0" max="50" value="0"><span id="disp2_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input2_bore" type="range" min="0" max="5" value="1"><span id="disp2_bore">1</span>
+</td></tr></table>
+
+Observations:
+- You can see that in this simulation, you get to an almost steady state very quickly, where the players that want more engagement than the system provides leave and the rest persist indefinitely.
+
+
+## <a name="chap3"></a>Pull Systems
+## <a name="chap3a"></a>Simple Simulation
+
+We're now going to add some detail to the previous simulation to make it skew closer to a real pull system.
+
+
+The impetus for this piece came from watching *Pokemon Go* release the second generation of Pokemon into the wild, so we’re going to use that game as the primary example for the rest of the piece. In particular, we’re going to look at the way players randomly encounter new Pokemon to catch, and consider that a pull system.
+
+
+We’re going to start with the most abstract representation, where we’ll just assume that all of the pieces are of equal value and we’ll assume 100 of them.
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim3" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph3" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input3_eps" type="range" min="0" max="50" value="0"><span id="disp3_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input3_bore" type="range" min="0" max="5" value="1"><span id="disp3_bore">1</span>
+      
+Number of Pieces
+
+      <input id="input3_count" type="range" min="100" max="500" value="100" step="10"><span id="disp3_count">100</span>
+      
+Value of New Piece
+
+      <input id="input3_newVal" type="range" min="0" max="5" value="2"><span id="disp3_newVal">2</span>
+      
+Value of Duplicate Piece
+
+      <input id="input3_oldVal" type="range" min="0" max="5" value="0"><span id="disp3_oldVal">0</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data3_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data3_2"></span>
+
+      
+Average Time for Player: <span id="data3_time"></span>
+
+    </td>
+</tr></table>
+
+Observations:
+- Setting the pull rate to a value equal to that in the previous graph and leaving the value of duplicate pieces at 0 results in the graph tending to 0 as all the players get more and more pieces and so are less likely to experience that boost of getting a new piece.
+- If we set the value of a new item to be equal to the value of a duplicate, we can recreate the previous graph trivially.
+- Increasing the pull rate beyond a point when the value of duplicate pieces is still 0 results in a *decrease* in average time beyond a certain point as players quickly collect all of the pieces and then quickly leave.
+- Increasing the value of the duplicate pieces has a large impact on the size of the tail of the graph.
+- For 100 pieces and optimizing for highest average time, the players average about 77 unique pieces.
+
+
+
+Possible Improvements:
+- <b>Calculating the potential value of a pull</b> - When players have things that they are excited to get, then they are naturally more excited about the chance to get those things. However, that is a layer of complexity too far for these simulations, so the calculation of those effects are left as an exercise for the reader. However, this excitement is a major part of the player experience and you should keep it in mind when designing your own systems.
+- <b>Uneven pull rates</b> - In the real world, the pull rate can be as complex as you want it to be. Here, I left it as a steady stream just to keep the simulations simple.
+
+
+## <a name="chap3b"></a>Pokemon Go
+
+Let’s get a little deeper into what a real pull system looks like. Taking *Pokemon Go* itself, different Pokemon are differently valuable due to the following axes:
+- <b>Intrinsic Value</b> - Pokemon have value to players beyond that of simple gameplay. People who like puppies are probably going to like Growlithes no matter what the stats are.
+- <b>Not having caught it before</b> - This is a collection game and you want to Catch ‘Em All, so getting a Pokemon that you have not caught before is naturally going to be a major reward moment for most players.
+- <b>Evolution</b> - This is similar to the previous one, if of lower intensity. Being able to convert a piece into one that you have yet to get is valuable to players.
+- <b>Combat value</b> - Getting a Pokemon that is stronger than the ones you already have or that is able to power up a major member of your team is valuable to players.
+
+
+
+We're not going to simulate all of that, just something a little closer to it than the simulation above. Note, that at this level of abstraction, this data can represent a lot of games, not just *Pokemon Go*. To do this, I:
+- Gave all of the cards a rarity tier and gave them a new and old value based off that with some random noise.
+- Set the number of pieces to 150.
+
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim3b" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph3b" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input3b_eps" type="range" min="0" max="100" value="0"><span id="disp3b_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input3b_bore" type="range" min="0" max="5" value="1"><span id="disp3b_bore">1</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data3b_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data3b_2"></span>
+
+      
+Average Time For Player: <span id="data3b_time"></span>
+
+    </td>
+</tr></table>
+
+Observations:
+- Naturally, these graphs look very similar to the previous ones when the duplicate value is non-zero but less than the new value.
+
+
+## <a name="chap5"></a>Introducing New Content
+
+*Pokemon Go*, when introducing the second generation, just added more pieces to their existing pulls. Releasing like that when your players have already performed a large number of pulls results in a graph that looks something like the below one.
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim5" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph5" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input5_eps" type="range" min="0" max="50" value="0"><span id="disp5_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input5_bore" type="range" min="0" max="5" value="1"><span id="disp5_bore">1</span>
+      
+Number of Old Pieces
+
+      <input id="input5_count" type="range" min="100" max="500" value="100" step="10"><span id="disp5_count">100</span>
+      
+Number of New Pieces
+
+      <input id="input5_newCount" type="range" min="0" max="500" value="100" step="10"><span id="disp5_newCount">100</span>
+      
+Starting Number of Pulls
+
+      <input id="input5_startPulls" type="range" min="0" max="2000" value="0" step="50"><span id="disp5_startPulls">0</span>
+      
+Value of New Piece
+
+      <input id="input5_newVal" type="range" min="0" max="5" value="2"><span id="disp5_newVal">2</span>
+      
+Value of Duplicate Piece
+
+      <input id="input5_oldVal" type="range" min="0" max="5" value="0"><span id="disp5_oldVal">0</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data5_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data5_2"></span>
+
+      
+Average Time For Player: <span id="data5_time"></span>
+
+    </td>
+</tr></table>
+
+Observations:
+- For comparison, you can set one of the above graphs to the same parameters to see what your engagement curve would look like if you just only let people pull from the new items. Of course, this is not practical as your players want the ability to catch them all, but it is notable how much worse the graphs for this pull algorithm look.
+- Making sure that your duplicate pieces hold value makes a huge difference here.
+
+
+## <a name="chap6"></a>Various Pull Algorithms
+
+We've only worked with simple, highly random pull algorithms thus far. In this section, we'll take a look at some other kinds.
+
+## <a name="chap6a"></a>Deterministic
+
+What does this graph look like in the trivial case of just going through every element one by one?
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim6a" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph6a" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input6a_eps" type="range" min="0" max="50" value="0"><span id="disp6a_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input6a_bore" type="range" min="0" max="5" value="1"><span id="disp6a_bore">1</span>
+      
+Number of Pieces
+
+      <input id="input6a_count" type="range" min="100" max="500" value="100" step="10"><span id="disp6a_count">100</span>
+      
+Value of New Piece
+
+      <input id="input6a_newVal" type="range" min="0" max="5" value="2"><span id="disp6a_newVal">2</span>
+      
+Value of Duplicate Piece
+
+      <input id="input6a_oldVal" type="range" min="0" max="5" value="0"><span id="disp6a_oldVal">0</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data6a_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data6a_2"></span>
+
+      
+Average Time For Player: <span id="data6a_time"></span>
+
+    </td>
+</tr></table>
+
+Note that it *feels* very different for players to get random pulls and to get deterministic pulls. One reason for this is that being able to calculate the effort required for something changes the way players value that thing. These simulations have no way to model that though. They can only show you what players get.
+
+
+Observations:
+- The optimal pull rate is much lower here than for the simple simulation. It also results in a lower average time.
+- It's very easy to get all of the pieces to all of the players.
+
+
+## <a name="chap6b"></a>Placing a Ceiling on Bad Pulls
+
+A common approach to smooth out the variance of a pull system is to place a ceiling on the number of low-value pulls. That results in graphs that look like this:
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim6b" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph6b" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input6b_eps" type="range" min="0" max="50" value="0"><span id="disp6b_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input6b_bore" type="range" min="0" max="5" value="1"><span id="disp6b_bore">1</span>
+      
+Number of Pieces
+
+      <input id="input6b_count" type="range" min="100" max="500" value="100" step="10"><span id="disp6b_count">100</span>
+      
+Value of New Piece
+
+      <input id="input6b_newVal" type="range" min="0" max="5" value="2"><span id="disp6b_newVal">2</span>
+      
+Value of Duplicate Piece
+
+      <input id="input6b_oldVal" type="range" min="0" max="5" value="0"><span id="disp6b_oldVal">0</span>
+      
+Bad Pull Cap
+
+      <input id="input6b_pullCap" type="range" min="0" max="250" value="0" step="10"><span id="disp6b_pullCap">0</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data6b_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data6b_2"></span>
+
+      
+Average Time For Player: <span id="data6b_time"></span>
+
+    </td>
+</tr></table>
+
+Observations:
+- The graph drops off much more sharply here.
+- It's very easy to param such that all players get all of the items.
+- The optimal average time is very close to that of the simple simulation, but the variance is much smaller. All of the players have a very similar experience, which leads to them getting all of the pieces and then leaving.
+- So, while all of the players come very close to the average mark, there are no players that spend much more time than the average.
+- The optimal pull rate here is lower than that of the simple simulation.
+
+
+
+On a personal note, I dislike it when games do this without communicating the skew to the player because I feel it reinforces the gambler’s fallacy. I also feel that making the cap more explicit is a better experience for the player as the player doesn’t feel like bad pulls help them get to good pulls when it is implicit.
+
+## <a name="chap6c"></a>Pokemon Red and Blue
+
+Another option is to divide your pool of pulls across a lot of smaller pools and then let the player move between them. This is essentially what *Pokemon Red* did and also what a game like *Heroes Charge* does as well. This changes the flow to be much wavier, and so the graph looks more like this:
+
+<table><tr>
+    <td>
+      <table>
+        <tr><td><canvas id="sim6c" width="480px" height="320px" align="center"></canvas></td></tr>
+        <tr><td><canvas id="graph6c" width="480px" height="320px" align="center"></canvas></td></tr>
+      </table>
+    </td>
+    <td>
+      
+Pull Rate
+
+      <input id="input6c_eps" type="range" min="0" max="50" value="0"><span id="disp6c_eps">0</span>
+      
+Novelty Requirement
+
+      <input id="input6c_bore" type="range" min="0" max="5" value="1"><span id="disp6c_bore">1</span>
+      
+Number of Old Pieces
+
+      <input id="input6c_count" type="range" min="100" max="500" value="100" step="10"><span id="disp6c_count">100</span>
+      
+Number of New Pieces
+
+      <input id="input6c_newCount" type="range" min="0" max="500" value="100" step="10"><span id="disp6c_newCount">100</span>
+      
+Starting Number of Pulls
+
+      <input id="input6c_startPulls" type="range" min="0" max="2000" value="0" step="50"><span id="disp6c_startPulls">0</span>
+      
+Value of New Piece
+
+      <input id="input6c_newVal" type="range" min="0" max="5" value="2"><span id="disp6c_newVal">2</span>
+      
+Value of Duplicate Piece
+
+      <input id="input6c_oldVal" type="range" min="0" max="5" value="0"><span id="disp6c_oldVal">0</span>
+      <br />
+      <br />
+      
+Average Number of Pulls: <span id="data6c_1"></span>
+
+      
+Average Number of Unique Pieces: <span id="data6c_2"></span>
+
+      
+Average Time For Player: <span id="data6c_time"></span>
+
+    </td>
+</tr></table>
+
+Of course, there are a lot of ways to implement a division like this and the amount of effort required is dependent on the kind of separation that you want to make.
+
+
+Observations:
+- The optimal average time here is much higher than in any of the other simulations.
+- The optimal pull rate is lower than in any of the others, but only slightly below the cap.
+- Once again, the player ends up with all of the pieces here in the optimal scenario.
+
+
+## <a name="conclusion"></a>Conclusion
+
+This is, of course, a very incomplete taxonomy. Hopefully though, it lets you think about how players interact with the pull systems that you have made and the potential problems and benefits of these solutions.
+
+
+You can look through the source code here - [https://github.com/nikwin/pullArticle](https://github.com/nikwin/pullArticle)
+
+
+If you have any feedback on this or if you want to see more things like this, you can reach me on Twitter at [@murthynikhil](https://twitter.com/murthynikhil). If you make any new simulations like this, please do tell me. I’d love to see more explanations like this.
+

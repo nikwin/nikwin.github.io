@@ -1,0 +1,56 @@
+
+---
+layout: post
+title: City: Pieces of Mind
+tag: city
+date: 2018-11-10
+desc: 
+---
+
+<p style="font-size:10px">Written: 2016-02-23
+
+
+My last set of tasks has resulted in a number of features that helps flesh out the game and make it feel more varied.
+
+## Screenshot
+<img src="/blogImages/SS_2016-02-23_01.png" />
+## Things Popping Up On The Map
+
+I am absolutely in love with this feature right now. Various things now pop up on the map without the player placing them there. The first of these are little buildings representing a build-up of an emotion. Every creep has a small chance of causing one to spawn near it and so a concentration of them naturally makes their chance spawning reasonable. These then take damage like other creeps. I like this because:
+- It's a very visible piece of the map.
+    <li>It interacts well with the player. It takes space on the map so the player cannot build there and the player can build new towers to deal with them.
+- It also represents a build-up of emotion quite well. Conglomerations of creeps also do that, but this shows a more permanent effect to momentary emotions well.
+
+
+
+Additionally, towers now have a chance of popping up. This is something that I was dubious of because of how strongly it can disrupt what a player is doing, but its dramatic effect is what made it so fun when playtesting once. I lacked the will to build the second tower that I needed, but happened to fluke into the right one spawning at the right place. I'm going to keep this in, but paramed such that the event is very unlikely.
+
+## Personality Traits
+
+I've added support for personality traits. These are emotion sources like concepts or tower sources that represent a part of the player's personality. For instance, workaholism can generate happiness if enough work is done and generates anger and sadness if not. I still need to write out the generation of these traits and iron this feature into the game some more, but it adds a lot to the definition of the player's mind in the game and adds some variety to the emotional sources. The game would make a lot less sense if it was all activities to deal with the output of other activities.
+
+## Wishes
+
+The person now generates wishes. These are very small tasks with a short lifespan that the player can choose to complete. This is to help the game feel like managing a mind. I expect the player to mostly make rational decisions, so the wishes texture those decisions. Left to themselves, players would have their surrogates live completely ideal lives, as is common in *The Sims*. This forces players to take actions that are more realistic. Hopefully, doing this also will make players more understanding of themselves when they choose to take short-term actions in their real lives over things they feel that they should do.
+
+## Tower Traits
+
+I tried giving players a choice of traits to add to towers when the tower source levels. Ideally, this was supposed to add some degree of customization to the game and help emphasize the leveling. I just don't feel that it does enough on either front and feels separate from the rest of the game as well. The goal remains, but the feature needs to be replaced.
+
+## Creep Variance
+
+The creeps also needed some variance in them. Having all of them be exactly the same is probably fine, but this seemed like a reasonable place to make the game feel a little less flat. The one change that I liked was making some of them invulnerable. They then stay moving until they natural health bleed kills them. This is easy to keep track of and makes the emotions a little less plastic for players.
+
+
+I also tried making the health of the creeps random within a range and giving them the ability to damage towers and to damage other creeps, but none of those seemed to be worth their associated costs, especially given how indirect the player's control over them is. I'm going to need to figure out a couple more things to try instead.
+
+## Minor stuff
+- The UI is now substantially more functional. It is not noticeably prettier, but more functional makes a big difference at this stage.
+- The flow focus state reduces the emotional effect of creeps. So, you can now keep busy in order to keep your emotions under control until they are taken care of by time and by the safety net you set up.
+- The actions are now more significant. Undertaking different actions can result in towers producing different things and require different amounts of focus.
+- Support for branching paths. This isn't a particularly interesting feature, but it was a tricky problem to solve well and needed to be solved at some point.
+
+## Conclusions
+
+This was a reasonable start, and the final game is getting substantially clearer with every week. However, these features need some more work to get to the level I expect from them and this next week will be about fixing that.
+

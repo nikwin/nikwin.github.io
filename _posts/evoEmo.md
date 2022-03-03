@@ -1,0 +1,56 @@
+
+---
+layout: post
+title: The Evolution of Emotion in The Quiet Sleep
+tag: city
+date: 2018-12-29
+desc: How the representation of emotion changed in The Quiet Sleep
+---
+<h2>[The Evolution of Emotion in *The Quiet Sleep*](/blog/city/evoEmo)</h2>
+
+*The Quiet Sleep* ([out now in Early Access on Steam](http://store.steampowered.com/app/724510/The_Quiet_Sleep/)) is a city builder/tower defense game that is set in your mind and so emotion was naturally always a key part of the game. Just as naturally, the representation has evolved significantly over the course of the game and I thought it would be interesting to go over the changes.
+
+<img src="/blogImages/tqs_shareExperience.png" />
+## First Pass
+
+The first pass of the game as a whole was pretty far removed from what I have now. I had the idea to cross *The Settlers 2* with a Tower Defense because of how nicely the two cover for each other. The Tower Defense adds interactivity to the simulation that it would otherwise miss and the simulation adds depth and meaning to the tower defense. This seemed like it would form a solid mechanical foundation for the game and also seemed like a reasonably small technical challenge for my first game after going indie.
+
+
+Additionally, I had been thinking for a while about representing thought processes mechanically. Quite a few years ago, I had experimented with a *Flight Control*-like game about convincing people of your position in an argument and wanted to develop those ideas further. These two parts are somewhat disparate and merging them seemed like it could be difficult enough to doom the project, but I thought that it was worth experimenting with.
+
+
+I immediately went to the idea of having the emotions serve as the creeps of the tower defense and having calming activities serve as towers. My first prototype had anger from work and writing in a diary filling these roles and it worked surprisingly well.
+
+
+At this point, I had no home base for the creeps to attempt to reach, so they just bounced around the paths at random and would get shot at as they passed by the towers. The idea was to kill the creeps as fast as you can. The number of creeps alive at any point represented the person's emotional state, so killing the emotion as soon as it came out was key to keeping yourself calm.
+
+
+This proved more compelling than I expected. Watching the creeps go back and forth across the person's mind made for a strong representation of how emotional the person is at that moment and having the emotions bounce around your head was a fun visual metaphor for a common saying.
+
+
+Unfortunately, having emotions go everywhere proved to be difficult to manage as a player. Additionally, the game as a whole felt disconnected from the player while simultaneously being less than compelling as a simulation. Nevertheless, it held the early promise that I was looking for and so merited further iteration.
+
+## Further Iterations
+
+The game underwent some fundamental changes from this stage, and so the emotion systems also mutated significantly. First, I created a central point for the emotions to go towards and the player to defend. Also, I made the currencies of the game, such as will and energy, go down the same paths that the emotions used. This both reduced the abstractness of the game and emphasized the interplay between the tower defense and city building sides of the game.
+
+
+At this point, I wanted to have the players use emotions to build things and achieve goals. So, there were goals like standing up for yourself that needed the player to provide anger. This allowed the player to use up emotions productively and so tax the towers less. This was a solid metaphor, but the game was too complex for my liking at this point. It was hard for the player to keep track of everything that was going on and so it became hard for the player to connect events to their causes.
+
+
+I also changed the game so that all of the construction was done on personality traits, like Adulthood and the Homeland. From this, I made it so that when an emotion is to be generated, it also creates its own trait that the player can build on. These traits gradually fade away as the memory of the incident fades away.
+
+
+The first iterations of this were stuffed full of towers to build and goals to complete, but the way these memories popped up and disappeared made that complexity pronounced and so I ended up cutting a lot of pieces from them. As part of this, I made it so that each of the memories had a single currency generator in them separate from the emotions they produce, such as pain for sad memories in addition to sadness. This currency is then what I use in the rest of the game for conversions. This loses much of the idea of working out your emotions productively, but is significantly more playable.
+
+
+In addition to this, the memories are sources of flashbacks, which generate a rush of emotion. The early iterations of this were complex and linked the memories to the actions that the player was engaged in, but that proved too opaque for the player and was indistinguishable from simply randomly appearing. The effort/payoff calculation for making this clearer seemed less rewarding than just making the flashbacks random, so that's what the feature became. I liked the effect of old emotions flaring up too much to just cut the feature entirely.
+
+## Latest Change
+<img src="/blogImages/tqs_emotion.png" />
+
+Unrelated to all of this, I recently changed the way day transitions worked in the game. Earlier, they used to wipe all of the currency stores and emotions in the game. I did this both because I liked the feeling of getting a clean start to every day and because I liked keeping players from stockpiling currencies. The latter point felt like it needed more emphasis than this feature provided, so I put in a hard cap on the amount of a single currency that can be on a resource. A while after this feature went in, player feedback was that losing all of your built up currencies when the day ends felt punishing. As the hard cap covered the mechanical problem, I simply removed the end of the day clearing the currencies.
+
+
+From here, I made it so that the flashbacks trigger only when the resource associated with the emotion builds up to the currency cap, which let me communicate that idea of working out your emotions productively without much of a complexity hit. This also adds mechanical fun as it pushes players to weigh if they would rather use the resource of the emotion to reduce the flashbacks or if they would rather use the more efficient alternatives. Through this, I was able to recapture what I liked about an old feature in a new context that eliminates most of its problems and so I have the feature as a whole in a place that I like.
+

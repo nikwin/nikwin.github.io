@@ -1,0 +1,76 @@
+
+---
+layout: post
+title: The Interactivity of Reading
+tag: thoughts
+date: 2019-02-19
+desc: Assorted thoughts on how to examine traditional media with game design tools
+---
+<h2>[The Interactivity of Reading](/blog/thoughts/reading)</h2>
+
+This article is to put down something that I've had come up in conversation multiple times, but that I have yet to put across as clearly as I would like. I believe that we can apply game design principles to things well outside their normal ambit, such as reading. It is axiomatic that game design principles come from underlying truths of people and so it follows that they apply to more than just video games.
+
+## Interactivity In Processing
+
+The primary form of interactivity while reading is in the mind digesting the text of a book. Actually taking the words on the page and converting them into a full cohesive story in the reader's mind is an interactive activity. It requires effort from the player and is even a developable skill.
+
+## Difficulty Levels
+
+It is generally accepted that some books are harder than others, but it's not that the physical act of reading changes. There's very little variation in the act of turning a page and even dealing with obscure words will only require the occasional dictionary reference. However, coming to terms with the ideas of the book can vary greatly in difficulty.
+
+
+One of my favorite lines is from James Joyce's *Ulysses*, where Leopold Bloom is introduced with "Mr Leopold Bloom ate with relish the inner organs of beasts and fowls." This line tripped me up for a moment with the specificity of "inner organs". I had not until that moment paid any attention to the standard of eating the flesh over the organs and the unusual structure of the sentence brought that to the forefront. This slowed me down when reading and forced me to pay greater attention to the book, much in the way that a difficulty spike in a video game forces me to re-engage my brain when I had been on auto-pilot.
+
+
+Similarly, a common trope in traditional media is to introduce a twist in the plot right as it begins to settle. Processing the unexpected is more challenging for the reader than processing a part that follows naturally from what came before and this difficulty spike forces the reader into a deeper engagement.
+
+
+Inversely, here is a brief paragraph from *The Lost Symbol* by Dan Brown:
+
+
+"No! He tried to fight them off, but he had no arms ... no fists. *Or did he?* Suddenly he felt his body materializing around his mind. His flesh had returned and it was being seized by powerful hands that were dragging him upward. No! Please!"
+
+
+Note how simple the English is here and how short and punchy the sentences are. Additionally, the material here is heavily redundant and easy to understand. You could probably skip half of the words here while skimming and not miss a thing. This all allows the reader to adopt a breakneck pace when reading this section, which in turn makes the book feel fast-paced.
+
+
+There are some reasonable design takeaways already illustrated here. Lowering the difficulty of games that are meant to be fast-paced is an interesting conceit that I would love to experiment with further. There are two much meatier concepts to work with here though. The first is to think more about the narrative difficulty of our games and not just mechanical difficulty and also to think about their interplay and the second is to start mining things other than video games for difficulty curves. We're very used to the idea of a wave in a Csikszentmihalyi graph but there are clearly many more options that we have yet to formalize.
+
+## Black Panther
+
+What made *Black Panther* so excellent to me was the pace of the ideas in the movie. Killmonger's forcible decolonization of a museum, the structure of Wakandan society, the combination of a lip plate and a matching suit, the morality of isolationism, the radicalization of the impoverished and probably a number of other things that I've forgotten, they all came one after the other at a pace rapid enough to keep me off-balance the entire way. *Inception* was the same way for me.
+
+
+Essentially, it takes time and effort for a viewer to digest an idea. Often a movie will go over some variations itself so as to aid in that digestion. Some ideas require more work because of their alien nature, as in *Inception*, and some require more work because of how they resonate, as in *Black Panther*. Both of those movies use the combination of the pace of the ideas with a heavy dose of action to keep you off-balance the entire way through, while a movie like *Arrival* takes its time with the ideas and gives you the space to work things out, which results in a very different feeling.
+
+
+There are certainly video games that bury you under a deluge of ideas, but the way in which games often abdicate the responsibility of pacing to the player keeps them from generating the feeling of unbalance that defined my experience of both *Black Panther* and *Inception*.
+
+## An Artist of the Floating World
+
+At one point in *An Artist of the Floating World* when Ono is still at Mori-san's villa, the star pupil has schismed from the rest of the school and as he is leaving, he has a brief conversation with someone who is presented as a third pupil, but is clearly Ono. A narrator that is so unreliable as to be flat-out lying to us is clearly an instance of difficulty, but it is used here so that we can see Ono distancing himself from the memory.
+
+
+This difficulty naturally forces engagement. Once we realize that Ono is lying, we now must scrutinize the rest of his words more carefully. It also adds detail to the encounter and about how Ono feels about it now that would be missing were it more direct.
+
+
+I think that this is a case of a technique meant to build distance also increasing difficulty as a side-effect and so I'm not sure how much information I can pull from this with the use of traditional game design tools, but it does still make for an interesting thinking point and one that I don't think I have fully resolved. Incidentally, the game that really used the trope of the unreliable narrator, *The Beginner's Guide*, doesn't have much in the way of mechanical difficulty but has tons of narrative difficulty.
+
+## Progression Systems
+
+Books are honestly incredible at progression systems. This is especially true for SFF series, but you can see it over a large spread of writing. Readers invest time and effort into the pieces of the book, the characters, the setting and the rules of the story being put down. So, the book gains the increased retention that we see from our video game progression systems and people rush out to buy the latest *Harry Potter* because of how invested they are in the books. I've played games past the point where they were fun because of how much I've already invested and I've read books past the point where they were good because of how invested I am and the two feel quite similar.
+
+
+This is also the investment that mattered the most to me in *Yakuza 0*. The story and the complicated web of yakuza politics was a much more compelling investment than the Real Estate Royale or the skill tree.
+
+
+Another facet of progression systems that holds true is the promise of the reward. I'll read to get to the happy ending because I want good things for the characters. Things that the reader wants to see can be viewed as a reward in just the same way as a powerful card in a deckbuilding game. Similarly, an unsatisfying ending can cause dissatisfaction in the same way as an underwhelming quest reward.
+
+## Self-Expression
+
+At the end of *Lost In Translation*, the whispers between Bill Murray and Scarlett Johansson are kept from the viewers. This explicit space is key to a lot of traditional media. We're used to the camera cutting away or the scene ending right before the event. This gives the viewer some space to self-express, even if only subconsciously. As game designers, we are often quick to make our decision points explicit and sharp. There's a lot of space in quieter, more implicit decision-making that we have left to explore.
+
+## Conclusion
+
+There's not much that's particularly novel in this post, but putting it all down like this helps make the point clear. This was more about the learnings we can pick up from traditional media because of my personal leanings, but a lot of it can be reversed and I could see a writer using a video game difficulty curve or an unrolled random reward system to great effect too. However, my core point is that as game designers, we can learn a lot by applying our standard tools to non-standard questions, like dissections of traditional media.
+

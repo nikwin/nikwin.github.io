@@ -1,0 +1,30 @@
+
+---
+layout: post
+title: City: Info
+tag: city
+date: 2018-11-16
+desc: Some work on cleaning up the information flow of City.
+---
+
+<p style="font-size:10px">Written: 2016-04-13
+
+
+The first thing that I wanted to work on for this phase of the game is the information. There are a lot of things going on in this game and their representation was haphazard and, in some cases, missing. This week focused on getting all of the information into the hands of the player.
+
+<img src="/blogImages/SS_2016-04-13_01.png" />
+
+As you can see in the image, the side bar is gone and has been replaced with floating panels. Right now, they look terrible, but they function as a stand-in for the final information flow of the game. They're a little less convenient than the old UI was, but the additional flexibility they confer lets the player make them more comfortable. I need to figure out a sensible set of defaults for them and then start the game with those.
+
+
+Additionally, the player can now look up the details of which emotions are going to be spawned from which source. There's a small indicator with the icon of the creeps that are going to be made and clicking on it shows why that source is alive.
+
+
+I also did some work to make the tower defense side clearer. I put in a bullet animation and showed the damage done and bonus applied when a creep is hit. It was a quick change, but making the link between cause and effect clear is critical to making a system understandable.
+
+
+The other big change was folding the associations into the memories and making the memories clearer as well. So now, actions that are associated with a memory have a chance of causing that memory to flare, which will spawn the emotions associated with that memory. This has worked out well as coalescing features tends to do and now I plan on trying to put boosts into this as well.
+
+
+The information flow of any game is very important and for a simulation game like this, it is the source of a lot of the fun. I'm going to spend some more time making this easier for players to naviagate.
+
