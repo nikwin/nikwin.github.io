@@ -52,7 +52,7 @@ In it you will:
   {% for post in site.posts %}
     {% if post.tag == "city" %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       {{ post.desc }}
     </li>
     {% endif %}
