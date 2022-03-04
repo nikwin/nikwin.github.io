@@ -3,7 +3,7 @@ layout: post
 title: "Notes on You And Your Research by Richard Hamming"
 tag: notes
 date: 2019-01-25
-desc: "Notes on "You And Your Research" by Richard Hamming"
+desc: "Notes on You And Your Research by Richard Hamming"
 ---
 <h2>[Notes on "You And Your Research" by Richard Hamming](/blog/notes/youAndYourResearch)</h2>
   
