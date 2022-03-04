@@ -3,7 +3,7 @@ layout: post
 title: "Her Story Moments"
 tag: articles
 date: 2018-10-26
-desc: A couple of examples of how Her Story deals with giving people the freedom to find content.
+desc: "A couple of examples of how Her Story deals with giving people the freedom to find content."
 ---
 
 

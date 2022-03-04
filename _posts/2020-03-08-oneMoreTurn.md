@@ -3,7 +3,7 @@ layout: post
 title: "One More Turn"
 tag: fadt
 date: 2020-03-08
-desc: Breaking Down The One More Turn Pattern
+desc: "Breaking Down The One More Turn Pattern"
 ---
 
 

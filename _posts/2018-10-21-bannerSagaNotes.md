@@ -3,7 +3,7 @@ layout: post
 title: "Banner Saga Notes"
 tag: notes
 date: 2018-10-21
-desc: Notes on The Banner Saga
+desc: "Notes on The Banner Saga"
 ---
 
 

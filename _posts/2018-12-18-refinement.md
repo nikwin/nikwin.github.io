@@ -3,7 +3,7 @@ layout: post
 title: "City: Refinements"
 tag: city
 date: 2018-12-18
-desc: Some refinements to city.
+desc: "Some refinements to city."
 ---
 
 <p style="font-size:10px">Written: 2017-05-31

@@ -3,7 +3,7 @@ layout: post
 title: "City: Surprises"
 tag: city
 date: 2018-12-11
-desc: Playing through the latest build of city.
+desc: "Playing through the latest build of city."
 ---
 
 <p style="font-size:10px">Written: 2017-01-17

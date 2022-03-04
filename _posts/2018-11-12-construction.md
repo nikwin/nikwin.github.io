@@ -3,7 +3,7 @@ layout: post
 title: "City: Construction For Communication"
 tag: city
 date: 2018-11-12
-desc: Building out features to help communicate ideas.
+desc: "Building out features to help communicate ideas."
 ---
 
 <p style="font-size:10px">Written: 2016-03-03

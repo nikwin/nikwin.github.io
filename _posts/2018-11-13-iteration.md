@@ -3,7 +3,7 @@ layout: post
 title: "City: Iteration"
 tag: city
 date: 2018-11-13
-desc: Growth and pruning of existing city features.
+desc: "Growth and pruning of existing city features."
 ---
 
 <p style="font-size:10px">Written: 2016-03-17

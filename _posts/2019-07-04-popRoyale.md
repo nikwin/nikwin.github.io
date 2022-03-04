@@ -3,7 +3,7 @@ layout: post
 title: "Tortured Video Game / Music Comparisons"
 tag: articles
 date: 2019-07-04
-desc: Some unexpected comparisons between video games and music songs and genres.
+desc: "Some unexpected comparisons between video games and music songs and genres."
 ---
 <h2>[Tortured Video Game / Music Comparisons](/blog/articles/popRoyale)</h2>
 

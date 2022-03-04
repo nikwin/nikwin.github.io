@@ -3,7 +3,7 @@ layout: post
 title: "Game Idea: High School Gossip"
 tag: gameIdeas
 date: 2018-12-25
-desc: A design doc for a game about high school gossip.
+desc: "A design doc for a game about high school gossip."
 ---
 
 ## Idea

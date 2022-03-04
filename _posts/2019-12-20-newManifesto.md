@@ -3,7 +3,7 @@ layout: post
 title: "THE NEW SYPHILISATION MANIFESTO"
 tag: syph
 date: 2019-12-20
-desc: THE NEW SYPHILISATION MANIFESTO
+desc: "THE NEW SYPHILISATION MANIFESTO"
 ---
 <h2>[THE NEW SYPHILISATION MANIFESTO](/blog/syph/newManifesto)</h2>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Miscellaneous Thoughts on Designed Decisions"
 tag: articles
 date: 2018-12-22
-desc: Assorted thoughts on decisions that are human-designed.
+desc: "Assorted thoughts on decisions that are human-designed."
 ---
 <h2>[Miscellaneous Thoughts on Designed Decisions](/blog/designedDecisions)</h2>
 ## Premise

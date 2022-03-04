@@ -3,7 +3,7 @@ layout: post
 title: "City: Towers, Focus and Emotion"
 tag: city
 date: 2018-12-10
-desc: Looking to fix the issues with a few systems of city.
+desc: "Looking to fix the issues with a few systems of city."
 ---
 
 <p style="font-size:10px">Written: 2016-12-24

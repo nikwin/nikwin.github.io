@@ -3,7 +3,7 @@ layout: post
 title: "City: Focus Proposal"
 tag: city
 date: 2018-11-24
-desc: The proposal for a new focus system for city.
+desc: "The proposal for a new focus system for city."
 ---
 <h2 class="title">[FOCUS](/blog/city/focusProposal)</h2>
 <p style="font-size:10px">Written: 2016-07-11

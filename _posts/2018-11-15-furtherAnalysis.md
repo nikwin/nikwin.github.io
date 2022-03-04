@@ -3,7 +3,7 @@ layout: post
 title: "City: Further Analysis"
 tag: city
 date: 2018-11-15
-desc: A deep analysis of the mechanics of City.
+desc: "A deep analysis of the mechanics of City."
 ---
 
 <p style="font-size:10px">Written: 2016-04-03

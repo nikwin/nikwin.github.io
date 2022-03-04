@@ -3,7 +3,7 @@ layout: post
 title: "The Anti-Pattern of Optional Goals in Tasklists"
 tag: fadt
 date: 2018-12-27
-desc: How optional goals can conflict with the rest of your game
+desc: "How optional goals can conflict with the rest of your game"
 ---
 <h2>[The Anti-Pattern of Optional Goals in Tasklists](/blog/fadt/optionalGoals)</h2>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Asking For Less Unexamined Games"
 tag: articles
 date: 2020-06-01
-desc: Why I want games scholars to ask for games to better examine themselves.
+desc: "Why I want games scholars to ask for games to better examine themselves."
 ---
 <h2>[Asking For Less Unexamined Games](/blog/articles/unexaminedGame)</h2>
 

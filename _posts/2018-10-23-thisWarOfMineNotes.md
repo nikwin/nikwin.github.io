@@ -3,7 +3,7 @@ layout: post
 title: "This War of Mine Notes"
 tag: notes
 date: 2018-10-23
-desc: Rough notes on the game This War of Mine.
+desc: "Rough notes on the game This War of Mine."
 ---
 
 

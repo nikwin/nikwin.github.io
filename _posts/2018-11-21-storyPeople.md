@@ -3,7 +3,7 @@ layout: post
 title: "City: Story and People"
 tag: city
 date: 2018-11-21
-desc: Work on the story and people of City.
+desc: "Work on the story and people of City."
 ---
 
 <p style="font-size:10px">Written: 2016-05-03

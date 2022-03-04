@@ -3,7 +3,7 @@ layout: post
 title: "Shallow Syphilisation Status Check"
 tag: syph
 date: 2019-12-06
-desc: A shallow status check on the Syphilisation big picture
+desc: "A shallow status check on the Syphilisation big picture"
 ---
 
 

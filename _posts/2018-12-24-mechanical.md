@@ -3,7 +3,7 @@ layout: post
 title: "The Quiet Sleep: Mechanical Parallels"
 tag: city
 date: 2018-12-24
-desc: A deep dive into an interesting design approach
+desc: "A deep dive into an interesting design approach"
 ---
 
 <p style="font-size:10px">Written: 2017-08-12

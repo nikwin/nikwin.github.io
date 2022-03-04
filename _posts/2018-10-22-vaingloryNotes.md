@@ -3,7 +3,7 @@ layout: post
 title: "Vainglory Notes"
 tag: notes
 date: 2018-10-22
-desc: Rough notes on the game Vainglory
+desc: "Rough notes on the game Vainglory"
 ---
 
 - Why have UI on the bottom for the store instead of an interactive world element? It just makes no sense.
