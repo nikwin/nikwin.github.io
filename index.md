@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Why Not Games makes independent video games that expand what the medium can say.
+
 ## Nikhil Murthy's Syphilisation
 
 *Nikhil Murthy's Syphilisation* is a post-colonial 4X game where you play a student doing a group report on Gandhi, Churchill and the Raj. It eXplores space left uncharted by the genre and so proposes alternatives to established systems.
