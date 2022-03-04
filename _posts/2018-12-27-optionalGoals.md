@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Anti-Pattern of Optional Goals in Tasklists

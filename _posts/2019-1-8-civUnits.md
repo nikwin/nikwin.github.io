@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Units of Civilization

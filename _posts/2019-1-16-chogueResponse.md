@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: A Quick Note on Chogue

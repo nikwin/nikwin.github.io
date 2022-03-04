@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: This War of Mine Notes

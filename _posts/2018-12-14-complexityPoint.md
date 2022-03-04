@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: A Couple of Points on Complexity

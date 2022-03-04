@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Fear and Allure of Pure Narrative Gaps

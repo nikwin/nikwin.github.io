@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Thoughts on Loose and Tight Choices

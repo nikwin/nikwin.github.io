@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Why Not? Ep. 1b - Pokemon Go: Nostalgia

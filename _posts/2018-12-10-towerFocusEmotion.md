@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: City: Towers, Focus and Emotion

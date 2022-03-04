@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: A Final MDA Analysis of The Quiet Sleep

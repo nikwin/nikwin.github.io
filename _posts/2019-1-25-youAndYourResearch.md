@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Notes on "You And Your Research" by Richard Hamming

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: There Is No Reason To Be Against Non-Interactivity In Video Games

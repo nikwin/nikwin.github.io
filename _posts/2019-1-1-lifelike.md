@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: In Defense of Life-Like Games

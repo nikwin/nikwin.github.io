@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Miscellaneous Thoughts on Designed Decisions

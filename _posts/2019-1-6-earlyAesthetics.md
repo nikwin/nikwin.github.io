@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: An Early Note On The Aesthetics of Syphilisation

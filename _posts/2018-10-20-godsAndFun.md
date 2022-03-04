@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Gods Will Be Watching and Fun

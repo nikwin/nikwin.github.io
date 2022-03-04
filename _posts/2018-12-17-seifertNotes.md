@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Notes on The Continued Influence of Misinformation in Memory: What Makes a Correction Effective

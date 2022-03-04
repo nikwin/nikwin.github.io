@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Thoughts on Getting Over It

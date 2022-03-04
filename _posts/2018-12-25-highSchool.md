@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Game Idea: High School Gossip

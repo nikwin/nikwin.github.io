@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Asking For Less Unexamined Games

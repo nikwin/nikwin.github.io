@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: I Love The RPS Review of Foundation

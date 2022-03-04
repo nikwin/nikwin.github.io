@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The First Build Point in Syphilisation

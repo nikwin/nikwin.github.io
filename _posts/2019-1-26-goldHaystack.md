@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Gold In The Haystack

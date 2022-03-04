@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Putting An Emotional Moment In The Quiet Sleep

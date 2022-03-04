@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: City: The Difference Between Spending and Losing Pride

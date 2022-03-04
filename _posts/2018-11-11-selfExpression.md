@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Designing For Self-Expression

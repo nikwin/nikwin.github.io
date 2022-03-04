@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Notes on The Spirit of Japan(1916) by Tagore
