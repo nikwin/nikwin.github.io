@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'In Defense of Life-Like Games'
+title: "In Defense of Life-Like Games"
 tag: articles
 date: 2019-1-1
 desc: What life-like games are and why they are worth defending

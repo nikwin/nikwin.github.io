@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: Surprises'
+title: "City: Surprises"
 tag: city
 date: 2018-12-11
 desc: Playing through the latest build of city.

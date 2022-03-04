@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Rock, Paper, Scissors'
+title: "On Rock, Paper, Scissors"
 tag: articles
 date: 2018-12-7
 desc: Examining some of the features of rock, paper, scissors.

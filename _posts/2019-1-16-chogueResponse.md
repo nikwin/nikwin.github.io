@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Quick Note on Chogue'
+title: "A Quick Note on Chogue"
 tag: articles
 date: 2019-1-16
 desc: A quick note on hybridized design.

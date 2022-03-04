@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: Construction For Communication'
+title: "City: Construction For Communication"
 tag: city
 date: 2018-11-12
 desc: Building out features to help communicate ideas.

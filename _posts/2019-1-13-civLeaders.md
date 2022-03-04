@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Leaders of Civilization'
+title: "The Leaders of Civilization"
 tag: syph
 date: 2019-1-13
 desc: Breaking down the other players in Civilization

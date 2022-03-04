@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: A Quick Story'
+title: "City: A Quick Story"
 tag: city
 date: 2018-12-3
 desc: A quick anecdote of The Quiet Sleep.

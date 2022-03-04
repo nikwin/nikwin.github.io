@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Fear and Allure of Pure Narrative Gaps'
+title: "The Fear and Allure of Pure Narrative Gaps"
 tag: articles
 date: 2018-12-30
 desc: How missing a part of the interface of The Shrouded Isle led to an interesting difference in its gameplay.

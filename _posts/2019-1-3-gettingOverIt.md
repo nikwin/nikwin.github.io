@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thoughts on Getting Over It'
+title: "Thoughts on Getting Over It"
 tag: articles
 date: 2019-1-3
 desc: A lot of thoughts on Getting Over It with Bennett Foddy

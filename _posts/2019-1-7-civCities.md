@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cities of Civilization'
+title: "Cities of Civilization"
 tag: syph
 date: 2019-1-7
 desc: Breaking down the components of the cities in Civilization

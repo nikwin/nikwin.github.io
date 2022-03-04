@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Notes on The Continued Influence of Misinformation in Memory: What Makes a Correction Effective'
+title: "Notes on The Continued Influence of Misinformation in Memory - What Makes a Correction Effective"
 tag: notes
 date: 2018-12-17
 desc: Notes on The Continued Influence of Misinformation in Memory: What Makes a Correction Effective

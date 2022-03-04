@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gold In The Haystack'
+title: "Gold In The Haystack"
 tag: fadt
 date: 2019-1-26
 desc: How to seed info dumps with approachable elements.

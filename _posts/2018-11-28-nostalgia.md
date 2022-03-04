@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why Not? Ep. 1b - Pokemon Go: Nostalgia'
+title: "Why Not? Ep. 1b - Pokemon Go: Nostalgia"
 tag: pokego
 date: 2018-11-28
 desc: On the nostalgia factor of Pokemon.

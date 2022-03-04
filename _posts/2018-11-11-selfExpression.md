@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Designing For Self-Expression'
+title: "Designing For Self-Expression"
 tag: articles
 date: 2018-11-11
 desc: How to design your game to better support self-expression for your players.

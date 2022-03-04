@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: The Difference Between Spending and Losing Pride'
+title: "City: The Difference Between Spending and Losing Pride"
 tag: city
 date: 2018-12-13
 desc: A look at some of the minutiae of making The Quiet Sleep.

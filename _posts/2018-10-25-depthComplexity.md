@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Depth & Complexity'
+title: "Depth & Complexity"
 tag: articles
 date: 2018-10-25
 desc: Thoughts on depth and complexity in video games.

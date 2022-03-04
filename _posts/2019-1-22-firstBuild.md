@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The First Build Point in Syphilisation'
+title: "The First Build Point in Syphilisation"
 tag: syph
 date: 2019-1-22
 desc: Examining the first point where you can choose what to build.

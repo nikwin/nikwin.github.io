@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: Second Story'
+title: "City: Second Story"
 tag: city
 date: 2018-12-6
 desc: Thoughts on the second story for The Quiet Sleep

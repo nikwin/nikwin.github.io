@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gods Will Be Watching and Fun'
+title: "Gods Will Be Watching and Fun"
 tag: articles
 date: 2018-10-20
 desc: I examine Gods Will Be Watching and analyze design decisions it made given that the game is not about having fun.

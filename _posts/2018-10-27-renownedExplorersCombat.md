@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Renowned Explorers Combat'
+title: "Renowned Explorers Combat"
 tag: articles
 date: 2018-10-27
 desc: Examining the depth of the combat of Renowned Explorers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: Iteration'
+title: "City: Iteration"
 tag: city
 date: 2018-11-13
 desc: Growth and pruning of existing city features.

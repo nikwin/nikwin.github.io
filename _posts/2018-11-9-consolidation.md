@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'City: Consolidation'
+title: "City: Consolidation"
 tag: city
 date: 2018-11-9
 desc: Work done on consolidating my game.
