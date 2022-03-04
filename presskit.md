@@ -15,6 +15,29 @@ Company:
 - Skype: [@murthynikhil](callto:murthynikhil)
 - Description: Why not games?
 
+Nikhil Murthy's Syphilisation
+
+- Title: Nikhil Murthy's Syphilisation
+- Website: [http://www.whynotgames.in/](http://www.whynotgames.in/)
+- Platforms:
+  - Steam (PC) - [https://store.steampowered.com/app/1712530/Nikhil_Murthys_Syphilisation/](https://store.steampowered.com/app/1712530/Nikhil_Murthys_Syphilisation/)
+  - Itch (PC) - [https://whynotgames.itch.io/nikhil-murthys-syphilisation](https://whynotgames.itch.io/nikhil-murthys-syphilisation)
+- Price: USD: 14.99
+- Description: *Nikhil Murthy's Syphilisation* is a post-colonial 4X game where you play a student doing a group report on Gandhi, Churchill and the Raj. It eXplores space left uncharted by the genre and so proposes alternatives to established systems. 
+- History: When reading *Ulysses* by James Joyce, I came across the term Syphilisation and happened to be thinking about parody in video games at that time. The game just fell into place from there.
+- Features:
+  - Research actual facts about Gandhi, Churchill and the Raj.
+  - Try empathy in a 4X game. Play opportunistically if you must, but don't expect to be treated as clever for doing so.
+  - Experience some amount of history from below.
+  - eXplore 4X systems that are not rooted in imperialism.
+- Trailers:
+  - Syphilisation Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jH2GzGH18M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - Gameplay video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZAuHrQoew0wIFKMTz_-wzOzWtmxBuLVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Credits:
+  - Nikhil Murthy
+
 The Quiet Sleep
 
 - Title: The Quiet Sleep
@@ -24,7 +47,7 @@ The Quiet Sleep
   - Steam (PC / Mac / Linux) - [http://store.steampowered.com/app/724510/The_Quiet_Sleep/](http://store.steampowered.com/app/724510/The_Quiet_Sleep/)
   - Itch.io (PC / Mac / Linux) - [https://whynotgames.itch.io/the-quiet-sleep](https://whynotgames.itch.io/the-quiet-sleep)
 - Price: USD 4.99
-- Description: The Quiet Sleep is a city builder/tower defense game that is set in your mind. It's about building out different parts of your personality to achieve goals and deal with issues.
+- Description: *The Quiet Sleep* is a city builder/tower defense game that is set in your mind. It's about building out different parts of your personality to achieve goals and deal with issues.
 - History: The mechanical overlap between city-building games and tower defense games intrigued me and having it represent thinking seemed fitting.
 - Features:
   - Build out a personality and watch your mind develop.
