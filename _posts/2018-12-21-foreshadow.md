@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mechanical Foreshadowing
+title: 'Mechanical Foreshadowing'
 tag: fadt
 date: 2018-12-21
 desc: Going over what mechanical foreshadowing is and how to integrate it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Recreation Commons of SMAC
+title: 'The Recreation Commons of SMAC'
 tag: syph
 date: 2021-03-11
 desc: How the recreation commons of SMAC help worldbuilding.

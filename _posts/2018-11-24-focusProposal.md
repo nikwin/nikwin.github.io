@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Focus Proposal
+title: 'City: Focus Proposal'
 tag: city
 date: 2018-11-24
 desc: The proposal for a new focus system for city.

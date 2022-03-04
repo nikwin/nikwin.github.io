@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Quiet Sleep Playlist
+title: 'The Quiet Sleep Playlist'
 tag: city
 date: 2019-1-4
 desc: The playlist I used when working on The Quiet Sleep

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There Is No Reason To Be Against Non-Interactivity In Video Games
+title: 'There Is No Reason To Be Against Non-Interactivity In Video Games'
 tag: articles
 date: 2018-12-26
 desc: An examination of reasons to disapprove of non-interactive games in general.

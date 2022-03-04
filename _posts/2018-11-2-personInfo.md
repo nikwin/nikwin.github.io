@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Personal Information
+title: 'City: Personal Information'
 tag: city
 date: 2018-11-2
 desc: The progress made on the player representation of my game.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THE SYPHILISATION MANIFESTO
+title: 'THE SYPHILISATION MANIFESTO'
 tag: syph
 date: 2019-1-9
 desc: THE SYPHILISATION MANIFESTO

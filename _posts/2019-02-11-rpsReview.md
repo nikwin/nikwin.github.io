@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Love The RPS Review of Foundation
+title: 'I Love The RPS Review of Foundation'
 tag: articles
 date: 2019-02-11
 desc: The RPS review of Foundation compares it to a warm bath and I absolutely love that

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Quiet Sleep: Mechanical Parallels
+title: 'The Quiet Sleep: Mechanical Parallels'
 tag: city
 date: 2018-12-24
 desc: A deep dive into an interesting design approach

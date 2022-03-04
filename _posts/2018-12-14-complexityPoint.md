@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Couple of Points on Complexity
+title: 'A Couple of Points on Complexity'
 tag: articles
 date: 2018-12-14
 desc: Thoughts on a specific point on complexity in game design.

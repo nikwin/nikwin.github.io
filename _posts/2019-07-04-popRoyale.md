@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tortured Video Game / Music Comparisons
+title: 'Tortured Video Game / Music Comparisons'
 tag: articles
 date: 2019-07-04
 desc: Some unexpected comparisons between video games and music songs and genres.

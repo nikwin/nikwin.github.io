@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vainglory Notes
+title: 'Vainglory Notes'
 tag: notes
 date: 2018-10-22
 desc: Rough notes on the game Vainglory

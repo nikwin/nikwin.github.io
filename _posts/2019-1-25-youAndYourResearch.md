@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on "You And Your Research" by Richard Hamming
+title: 'Notes on "You And Your Research" by Richard Hamming'
 tag: notes
 date: 2019-1-25
 desc: Notes on "You And Your Research" by Richard Hamming

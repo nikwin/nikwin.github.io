@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Loose and Tight Choices
+title: 'Thoughts on Loose and Tight Choices'
 tag: articles
 date: 2018-12-5
 desc: A deep look into loose and tight choices and alternate hypotheses for their effects.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on The Spirit of Japan(1916) by Tagore
+title: 'Notes on The Spirit of Japan(1916) by Tagore'
 tag: syph
 date: 2019-1-23
 desc: Notes on Tagore's lecture on the changing Japan of 1916.

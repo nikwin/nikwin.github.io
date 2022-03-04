@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Road Not Taken Notes
+title: 'Road Not Taken Notes'
 tag: notes
 date: 2018-10-19
 desc: Notes on Road Not Taken

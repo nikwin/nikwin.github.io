@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Putting An Emotional Moment In The Quiet Sleep
+title: 'Putting An Emotional Moment In The Quiet Sleep'
 tag: city
 date: 2019-1-2
 desc: Analysing the addition of an emotional moment to The Quiet Sleep.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asking For Less Unexamined Games
+title: 'Asking For Less Unexamined Games'
 tag: articles
 date: 2020-06-01
 desc: Why I want games scholars to ask for games to better examine themselves.

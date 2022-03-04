@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Materials In Syphilisation
+title: 'Materials In Syphilisation'
 tag: syph
 date: 2019-1-21
 desc: Raw materials and their conversions

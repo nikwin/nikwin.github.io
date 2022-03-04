@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: First Playable
+title: 'City: First Playable'
 tag: city
 date: 2018-10-30
 desc: Description of the first playable version of my game.

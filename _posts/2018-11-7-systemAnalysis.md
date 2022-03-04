@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: A System Analysis of City So Far
+title: 'City: A System Analysis of City So Far'
 tag: city
 date: 2018-11-7
 desc: Analysing the systems of city thus far and the aesthetics desired from the game.

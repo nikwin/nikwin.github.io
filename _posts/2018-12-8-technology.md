@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Technology
+title: 'City: Technology'
 tag: city
 date: 2018-12-8
 desc: Looking at a new approach to narrative in city stories.

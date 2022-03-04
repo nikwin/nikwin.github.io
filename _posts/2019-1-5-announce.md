@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syphilisation: Announcement
+title: 'Syphilisation: Announcement'
 tag: syph
 date: 2019-1-5
 desc: Announcing my new game Syphilisation.

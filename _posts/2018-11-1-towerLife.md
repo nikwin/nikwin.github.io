@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Tower Life
+title: 'City: Tower Life'
 tag: city
 date: 2018-11-1
 desc: The progress made on the towers of my tower defense game.

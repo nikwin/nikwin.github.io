@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Early Note On The Aesthetics of Syphilisation
+title: 'An Early Note On The Aesthetics of Syphilisation'
 tag: syph
 date: 2019-1-6
 desc: Drilling down into the core aesthetics of Syphilisation.

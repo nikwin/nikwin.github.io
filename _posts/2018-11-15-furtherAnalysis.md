@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Further Analysis
+title: 'City: Further Analysis'
 tag: city
 date: 2018-11-15
 desc: A deep analysis of the mechanics of City.

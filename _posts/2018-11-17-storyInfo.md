@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Story and Info
+title: 'City: Story and Info'
 tag: city
 date: 2018-11-17
 desc: Work on the story and UI of City.

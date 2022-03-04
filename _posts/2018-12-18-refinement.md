@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City: Refinements
+title: 'City: Refinements'
 tag: city
 date: 2018-12-18
 desc: Some refinements to city.
