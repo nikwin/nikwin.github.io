@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Suprisingly Rewarding Experience of Building An Ideological Game"
+title: "The Surprisingly Rewarding Experience of Building An Ideological Game"
 tag: syph
 date: 2022-07-22
 desc: "On how Syphilisation was rewarding to build."
