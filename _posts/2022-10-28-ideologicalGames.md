@@ -6,9 +6,9 @@ date: 2022-10-28
 desc: "Understanding the big question of ideological games and what Syphilisation does in the space."
 ---
 
-What is a big question in video game design? I like to think of them as questions that if answered, moves forward the medium in a meaningful way. I view them as questions that, when answered, help people imagine the future of what games can be.
+What is a big question in video game design? I like to think of them as questions that, if answered, move forward the medium in a meaningful way. I view them as questions that, when answered, help people imagine the future of what games can be.
 
-For me, at this place and at this moment, that involves space to build from. Countless games followed in the vein of *DOOM* or of *Minecraft* and this style of advancement has a lot to be said for it, but what if we tried something different, something more conceptual?
+This involves space to build from. Countless games followed in the vein of *DOOM* or of *Minecraft* and this style of advancement has a lot to be said for it, but what if we tried something different, something more conceptual?
 
 With *Syphilisation*, I ask and try to answer the question of what is an ideological game? Every game reproduces ideology to some degree, whether greater or lesser, but most do it uncritically. What does it look like to start with an ideology and work through existing paradigms with that lens?
 
