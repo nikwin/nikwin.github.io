@@ -32,7 +32,7 @@ Also, the game often has me leaving animals half- or three-quarters dead. *Monst
 
 ### Fair Chase
 
-A key concept in ethical hunting is that of fair chase. The game needs a reasonable chance to evade the hunter. Honestly, *Monster Hunter* already does a lot of this by simply having a lot of the large monster be more than capable of taking you down. However, a lot of the sense of the hunt is lost with the way the game presents the hunt and with how the game is framed around very explicit objectives.
+A key concept in ethical hunting is that of fair chase. The game needs a reasonable chance to evade the hunter. Honestly, *Monster Hunter* already does a lot of this by simply having a lot of the large monsters be more than capable of taking you down. However, a lot of the sense of the hunt is lost with the way the game presents the hunt and with how the game is framed around very explicit objectives.
 
 ### Against Classification
 
