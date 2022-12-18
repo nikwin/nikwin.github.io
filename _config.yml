@@ -11,9 +11,8 @@ show_excerpts: false
 minima:
   skin: dark
   social_links:
-    twitter: murthynikhil
-    youtube_channel: UCoFEuEueEt1Z2L-CQM8Uopw
-    youtube_channel_name: Nikhil Murthy
+    - { platform: twitter, user_url: "https://twitter.com/murthynikhil" }
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/UCoFEuEueEt1Z2L-CQM8Uopw" }
 
 remote_theme: jekyll/minima
 
