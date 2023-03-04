@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 Why Not Games makes independent video games that expand what the medium can say.
