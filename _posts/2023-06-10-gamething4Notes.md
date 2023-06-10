@@ -6,7 +6,9 @@ date: 2023-06-10
 desc: Notes on GAMETHING Season 4
 ---
 
-Here are my notes on season 4 of GAMETHING, a podcast in which Pippin Barr and David Wolinsky play through a series of videogames. This season was horror games. You can listen to it to it here - [https://open.spotify.com/show/23cGs1bJiejoeeY5JwiNd0?si=e1e4688f7fdb4a57](https://open.spotify.com/show/23cGs1bJiejoeeY5JwiNd0?si=e1e4688f7fdb4a57). A lot of what interested me was their thinking on how the player helps the game scare them. Please feel free to ping me if a note here interested you but you're not sure what I mean. These notes are very raw. Of course, if something sounds interesting, the relevant episode will have a lot more detail than any of these notes.
+Here are my notes on season 4 of GAMETHING, a podcast in which Pippin Barr and David Wolinsky play through a series of videogames. This season was horror games. You can listen to it to it here - [https://open.spotify.com/show/23cGs1bJiejoeeY5JwiNd0?si=e1e4688f7fdb4a57](https://open.spotify.com/show/23cGs1bJiejoeeY5JwiNd0?si=e1e4688f7fdb4a57).
+
+A lot of what interested me was their thinking on how the player helps the game scare them. Please feel free to ping me if a note here interested you but you're not sure what I mean. These notes are very raw. Of course, if something sounds interesting, the relevant episode will have a lot more detail than any of these notes.
 
 ## Alone In The Dark
 
@@ -24,7 +26,7 @@ Here are my notes on season 4 of GAMETHING, a podcast in which Pippin Barr and D
 
 ## Mirror Layers
 
-- The responsibility to be afraid is still so interesting. What are equivalents for other kinds of games? Roleplaying in strategy games, eg; pretending that you have real citizens in Civ / CK or Cities Skylines.
+- The responsibility to be afraid is still so interesting. What are equivalents for other kinds of games? Roleplaying in strategy games, eg; pretending that you have real citizens in *Civ* / *CK* or *Cities Skylines*?
 - This blends very interestingly with an issue I've often had reading reviews, where it feels like the reviewer reaches hard for a gameplay experience that the game gestures at but doesn't quite deliver. I've always been frustrated with these because I feel like it is the responsibility of the game designer to have the game actually deliver the gestured experience, but maybe it is actually a lack of gaming literacy on my part.
 - "Repetition is the enemy of being scared" and is also inextricable from a core loop. That's an interesting tension. The core loop is a means to letting the player engage with the systems of the game instead of the surface.
 - Figuring out the sheet guy killing fear is an important thing.
@@ -72,10 +74,10 @@ Here are my notes on season 4 of GAMETHING, a podcast in which Pippin Barr and D
 
 ## End of Messages
 
-- Horror not with the goal of scaring the player but instead as a way to add a new flavor to a game. I really like this game.
+- "Horror not with the goal of scaring the player but instead as a way to add a new flavor to a game" - I really like this idea.
 - Are horror games more theme-parky than the average game?
-- The setting has to feel like a character for a great horror game - it has to be both believable and horribly unbelievable. Is this more true for horror than other genres? Isn't this true for SFF as well?
+- "The setting has to feel like a character for a great horror game - it has to be both believable and horribly unbelievable." - Is this more true for horror than other genres? Isn't this true for SFF as well?
 - The fear of being scared is a very important part of horror and this is a really interesting place of cooperation from the player and so an interesting way for the player to interact with the game. They always have the choice to yawn at the horror or cheese their way around the horror, but choose to make the game scary.
-- I would really like for a game to explore the fear of being a monster. For what it's worth, Whalefall will do a lot of this.
+- "I would really like for a game to explore the fear of being a monster." - For what it's worth, Whalefall will do a lot of this.
 - Are Ico & Shadow of the Colossus games about losing your identity?
 - I would like a game about being escorted by powerful NPCs in a dangerous world as a way to express the fear of abandonment. Have the powerful NPCs protecting you go in and out of the party. Have them send you on the occasional (but rare) task by yourself.
