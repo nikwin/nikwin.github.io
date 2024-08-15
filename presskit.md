@@ -30,11 +30,19 @@ Nikhil Murthy's Syphilisation
   - Try empathy in a 4X game. Play opportunistically if you must, but don't expect to be treated as clever for doing so.
   - Experience some amount of history from below.
   - eXplore 4X systems that are not rooted in imperialism.
-- Trailers:
+- Videos:
   - Syphilisation Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jH2GzGH18M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - Gameplay video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZAuHrQoew0wIFKMTz_-wzOzWtmxBuLVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=gFlngUJURhxeSccF&amp;list=PLZAuHrQoew0xhBL9_4nLLDEJPICAXGeyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  - Talk on postcolonial game design
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jkx5FOCx5kI?si=muv-l05dVFbPg3vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Screenshots:
+{% for file in site.static_files %}
+   {% if file.path contains 'syph_shots' %}
+<img src="{{ file.path }}">
+   {% endif %}
+{% endfor %}
 - Credits:
   - Nikhil Murthy
 
