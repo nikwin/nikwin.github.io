@@ -29,6 +29,7 @@ On the rewards of postcolonial design:
 General Postcolonial Design Principles
 - [The general question of postcolonialism](https://whynotgames.in/2023/02/11/generalPoco.html)
 - [Can you make an anti-imperial empire game](https://www.eurogamer.net/can-you-make-an-anti-imperial-empire-game)
+- [Introduction to an Oleomingus Exhibit](https://whynotgames.in/2024/09/15/oleo.html)
 - [Postcolonial Monster Hunter](https://whynotgames.in/2022/09/24/monHunPoCo.html)
 - [Postcolonial Stardew Valley](https://whynotgames.in/2022/12/18/pocoStardew.html)
 - [Postcolonial Breath of the Wild](https://whynotgames.in/2023/01/22/pocoZelda.html)
