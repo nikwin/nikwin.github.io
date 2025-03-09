@@ -25,6 +25,7 @@ On the rewards of postcolonial design:
 - [Solving ICS through postcolonialism](https://whynotgames.in/2022/03/11/ics.html)
 - [The surprisingly rewarding experience of building an ideological game](https://whynotgames.in/2022/07/22/rewardIdeology.html)
 - [The pleasure of translation in 4X games](https://whynotgames.in/2023/03/04/translate4x.html)
+- [Review of Syphilisation](https://telanganatoday.com/syphilization-a-turn-based-strategy-game-to-empathy-co-operation-and-historical-facts)
 
 General Postcolonial Design Principles
 - [The general question of postcolonialism](https://whynotgames.in/2023/02/11/generalPoco.html)
@@ -36,6 +37,7 @@ General Postcolonial Design Principles
 - [Postcolonial Pokemon](https://whynotgames.in/2024/03/18/pocomon.html)
 
 Civilization Analysis:
+- [Syphilisation in conversation with Civ 7](https://www.nytimes.com/2025/02/11/arts/civilization-7-design-firaxis.html)
 - [How games fail Gandhi](https://www.rockpapershotgun.com/how-video-games-consistently-fail-gandhi)
 - [Searching for postcolonialism in Civilization](https://whynotgames.in/2022/01/19/searchPocoCiv.html)
 - [The Recreation Commons of SMAC](https://whynotgames.in/2021/03/11/recCommon.html)
