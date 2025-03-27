@@ -20,7 +20,7 @@ Instead, sports are used to demonstrate a narrative point. They tell the viewer 
 
 Sports act as the canvas of conflict. This is what allows the same techniques to be used in both superhero and sports shonen anime. However, the healthiness of sports recontextualizes the conflict, practically almost necessitating a free and fair contest of peers over the imbalance of good and evil. Thus, sports as the clash of philosophy naturally emerges, as done expertly in *Headshot*, but absent from video games.
 
-The bildungsroman naturally attaches easily to sports media. Athletics is a young person's game and the teamwork and personal growth that come with it suits a coming-of-age story perfectly as do the friendships and rivalries that come with sports. Video games tend to focus on professional sports, as would be expected from their AAA lienage, leaving this area unexplored.
+The bildungsroman naturally attaches easily to sports media. Athletics is a young person's game and the teamwork and personal growth that come with it suits a coming-of-age story perfectly as do the friendships and rivalries that come with sports. Video games tend to focus on professional sports, as would be expected from their AAA lineage, leaving this area unexplored.
 
 ## Anime storytelling
 
@@ -42,7 +42,7 @@ Interestingly, NBA games have a lot of air. Personally, I often multitask as I w
 
 ## Questions
 
-Some standing problems in games surface from this analysis. The first is the pattern of solving a crossword to turn a page, a poetic that puts the players in two distinct modes; watching and playing. *Hoop Dungeon* holds the space to blend systems and narratives together in a way distinct from other answers like *The Sims*, *Crusader Kings* or *Dwarf Fortress*, games that find themselves reliant on the player to sustain the illusion that transparent systems stand in for something more.
+Some standing problems in games surface from this analysis. The first is the pattern of solving a crossword to turn a page, a poetic that puts the players in two distinct modes; watching and playing. *Hoop* holds the space to blend systems and narratives together in a way distinct from other answers like *The Sims*, *Crusader Kings* or *Dwarf Fortress*, games that find themselves relying on the player to sustain the illusion that transparent systems stand in for something more.
 
 A second issue to address is the lack of stakes in video games narratives, particularly in roguelikes. This exercise has not brought an approach vector to light but highlights the limitations of leaving the question unanswered.
 
