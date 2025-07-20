@@ -14,8 +14,6 @@ In *Potion Craft*, this does not emerge. Choosing to defer experimentation is bo
 
 A potential solution could have been allowing the player more power over navigating the map through material conversions. For instance, if one could treat a root that takes you down the map and convert it to something that takes you up instead, possibly at reduced efficiency, that would dramatically reduce the tension, albeit by simply reducing the challenge animating both dynamics and the challenge of the game as well.
 
-The solution that the game adopts is to allow the player to purchase materials to make up for the shortfalls that a random garden and random requests generate. This similarly breaks the challenge of the game. It pushes the tuning such that missing a request does little harm to the player and such that they will tend towards a surplus of cash.
-
-The scarcity also pushes the player to online guides which take away most of the experimentation altogether.
+The solution that the game adopts is to allow the player to purchase materials to make up for the shortfalls that a random garden and random requests generate. This similarly breaks the challenge of the game. It pushes the tuning such that missing a request does little harm to the player and such that they will tend towards a surplus of cash. Additionally, it pushes the player to online guides which take away most of the experimentation altogether.
 
 This leaves us in a tough spot. These are both dynamics that are important to the game and their conflict results in both being hobbled. Possibly a solution that grants the player more autonomy and does more to locate the tension into a single decision point so that the conflict can become a trade-off would clean this up. However, it's also possible in a situation like this that the best choice is simply to pick which of the dynamics is most in tune with your game and foreground only that one.
