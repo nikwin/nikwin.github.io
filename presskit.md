@@ -3,7 +3,7 @@ layout: base
 title: Presskit
 ---
 
-Company:
+## Company:
 - Title: Why Not Games
 - Based In: Bangalore, India,
 - Founding Date: November, 2015
@@ -11,11 +11,40 @@ Company:
 - Press Contact: [murthynik1@gmail.com](mailto:murthynik1@gmail.com)
 - Phone: +91 9739818144
 - Address: 51/4, 6th Main, 13th Cross, Malleswaram, Bangalore, Karnataka, India, 560003
-- Twitter: [@murthynikhil](https://twitter.com/murthynikhil)
+- Bluesky: [@murthynikhil.bsky.social](https://bsky.app/profile/murthynikhil.bsky.social)
 - Skype: [@murthynikhil](callto:murthynikhil)
 - Description: Why not games?
+- Games:
+  - [Hoop Dungeon](#hoop-dungeon)
+  - [Nikhil Murthy's Syphilisation](#nikhil-murthys-syphilisation)
+  - [The Quiet Sleep](#the-quiet-sleep)
 
-Nikhil Murthy's Syphilisation
+## Hoop Dungeon
+
+- Title: Hoop Dungeon
+- Website: [http://www.whynotgames.in/](http://www.whynotgames.in/)
+- Platforms:
+  - Itch (Web Prototype) - [https://whynotgames.itch.io/hoop-dungeon-prototype](https://whynotgames.itch.io/hoop-dungeon-prototype)
+- Description: *Hoop Dungeon* is a basketball tactics roguelike game.
+- History: *Hoop Dungeon* is built to provide an alternative to the narrative paradigm of solving a puzzle to turn a page. It draws from sports anime to keep the narrative on the court. It also tries to prove the value of such experimentation to a popular audience by building off a classic framework while giving players something new.
+- Features:
+  - Deep strategy and tactics
+  - Combinable moves and modifiers
+  - On-court narrative system
+- Videos
+  - Gameplay video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9jLPMwfmTw?si=JmZ4aOdhEj9qppeX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- Screenshots:
+{% for file in site.static_files %}
+   {% if file.path contains 'hoop_screen_shots' %}
+<img src="{{ file.path }}">
+   {% endif %}
+{% endfor %}
+- Credits:
+  - Nikhil Murthy
+  - Ryan Sumo
+
+## Nikhil Murthy's Syphilisation
 
 - Title: Nikhil Murthy's Syphilisation
 - Website: [http://www.whynotgames.in/](http://www.whynotgames.in/)
@@ -46,7 +75,7 @@ Nikhil Murthy's Syphilisation
 - Credits:
   - Nikhil Murthy
 
-The Quiet Sleep
+## The Quiet Sleep
 
 - Title: The Quiet Sleep
 - Release Date: Oct. 15, 2017
