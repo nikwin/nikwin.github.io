@@ -9,13 +9,16 @@ Hoop Dungeon Demo - [https://whynotgames.itch.io/hoop-dungeon-prototype](https:/
 
 ## Introduction
 
+*Hoop Dungeon* is a turn-based-tactics basketball game that keeps the narrative on the court.
+
 Selling Points:
-- Basketball turn-based-tactics roguelike game.
+- Deep turn-based-tactics.
 - Unique, combinable moves.
+- Real basketball moves and Easter eggs for basketball fans.
 - Novel narrative told entirely on the court.
 
 Practical Points:
-- 90% feature complete.
+- Nearly feature complete.
 - Story slice implemented.
 - Projected Q1 release.
 
@@ -55,12 +58,12 @@ I would prefer to focus on the development of the game and trust in the publishe
 
 ## Production
 
-Nov '25: Steam page live
-Dec '25: Content complete
-Feb '26: Early Access release
-Mar '26: First content expansion
-Apr '26: Second content expansion
-May '26: Third content expansion
+- Nov '25: Steam page live
+- Dec '25: Content complete
+- Feb '26: Early Access release
+- Mar '26: First content expansion
+- Apr '26: Second content expansion
+- May '26: Third content expansion
 
 *Hoop Dungeon* marks one year of development in September, 2025. The core of the game is already in place but only the MVP for the narrative is implemented. I plan to expand that to all of the characters in the game as well as add a few more pieces to make the narrative pop.
 
