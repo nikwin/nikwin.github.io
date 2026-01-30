@@ -24,7 +24,8 @@ title: Presskit
 - Title: Hoop Dungeon
 - Website: [http://www.whynotgames.in/](http://www.whynotgames.in/)
 - Platforms:
-  - Itch (Web Prototype) - [https://whynotgames.itch.io/hoop-dungeon-prototype](https://whynotgames.itch.io/hoop-dungeon-prototype)
+  - Steam - [https://store.steampowered.com/app/4250030/Hoop_Dungeon/](https://store.steampowered.com/app/4250030/Hoop_Dungeon/)
+  - Itch (Demo) - [https://whynotgames.itch.io/hoop-dungeon-prototype](https://whynotgames.itch.io/hoop-dungeon-prototype)
 - Description: *Hoop Dungeon* is a basketball tactics roguelike game.
 - History: *Hoop Dungeon* is built to provide an alternative to the narrative paradigm of solving a puzzle to turn a page. It draws from sports anime to keep the narrative on the court. It also tries to prove the value of such experimentation to a popular audience by building off a classic framework while giving players something new.
 - Features:
