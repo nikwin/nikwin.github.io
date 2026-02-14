@@ -6,7 +6,7 @@ date: 2024-03-30
 desc: How the crafting systems of Vampire Survivors and Backpack Battles function as an achievement system.
 ---
 
-*Backpack Battles* is my latest guilty pleasure game. It's what I turn to when I need a bit of a break from work. I tend to always have some game of this nature that I play repeatedly while my backlog grows ever bigger. I'm going to go over something that this and *Vampire Survivors*, a previous obsession of mine, do very well and abstract it out into a FADT.
+*Backpack Battles* is my latest guilty pleasure game. It's what I turn to when I need a bit of a break from work. I tend to always have some game of this nature that I play repeatedly while my backlog grows ever bigger. I'm going to go over something that this and *Vampire Survivors*, a previous obsession of mine, do very well and abstract it out into an FADT.
 
 ## Crafting Completionism
 
