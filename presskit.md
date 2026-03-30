@@ -33,6 +33,8 @@ title: Presskit
   - Combinable moves and modifiers
   - On-court narrative system
 - Videos
+  - Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZpOyk_dmxs?si=UNrTvaB3d91Kf175" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   - Gameplay video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9jLPMwfmTw?si=JmZ4aOdhEj9qppeX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - Screenshots:
@@ -41,6 +43,8 @@ title: Presskit
 <img src="{{ file.path }}">
    {% endif %}
 {% endfor %}
+- Assets:
+  - ![Transparent logo](/assets/hoop_shots/logo_transparent.png)
 - Credits:
   - Nikhil Murthy
   - Ryan Sumo
