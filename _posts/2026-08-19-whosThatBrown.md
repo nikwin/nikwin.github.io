@@ -22,6 +22,6 @@ I miss that style of tie-in video game. I see that *The Odyssey* has one on *Rob
 
 I do not think that I have seen this kind of game made by people outside of games for people outside of games in a long time. By definition, it cannot be on Itch. Mobile has coagulated. Probably I am just old.
 
-If I were to imagine someone like Rich Brian to make a game for one of his songs, I expect the game would look very similar to Who's That Brown. I think the retro-pastiche would draw from the same aeshetics despite being made a decade later. I would still expect arcade pixel art instead of blocky 3D.
+If I were to imagine someone like Rich Brian to make a game for one of his songs, I expect the game would look very similar to Who's That Brown. I think the retro-pastiche would draw from the same aesthetics despite being made a decade later. I would still expect arcade pixel art instead of blocky 3D.
 
 However, Charli XCX's music video for "1999" has the isometric graphics of *The Sims*. It is a shame that she did not make the full game to go along with that. I would love to play Charli XCX meets *The Sims*.
