@@ -6,7 +6,6 @@ date: 2018-10-27
 desc: "Examining the depth of the combat of Renowned Explorers."
 ---
 
-
 I've been playing a lot of *Renowned Explorers: International Society* of late. The game does a lot of things very well, but what I'm going to write about here is the combat system. The core of the combat system is a turn based strategy game where each character can move and then take an action. The game does a couple of things to make sure that this setup remains deep enough to keep the player making decisions.
 
 <img src="/blogImages/renowned1.png" width="700px" height="350px" />

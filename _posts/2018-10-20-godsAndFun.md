@@ -46,7 +46,6 @@ Success is based largely upon pure RNG. In the torture scene for instance, I fai
 - This obfuscates the spreadsheet, making it harder to learn the systems (especially in the campfire scene)
 - This does often create tension and forces the player into uncomfortable situations.
 
-## Results
 ## Difficulty:
 
 *Gods Will Be Watching* is clearly designed to be difficult. The difficulty helps create a setting and communicate story, both of which are the core of this game. However, it is worth examining what exactly it does for those. Abraham is clearly a far more than ordinary man. He finds ways out of situations where most people would fail. I know this because I failed at them many times but, by the story, Abraham succeeded. This is all well and good, but it does not hold up well to deeper examination.
