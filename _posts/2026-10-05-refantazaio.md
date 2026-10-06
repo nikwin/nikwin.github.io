@@ -2,7 +2,7 @@
 layout: post
 title: FADT - Deadlines in *Refantazio*
 tag: fadt
-date: 2026-02-13
+date: 2026-10-06
 desc: Abstracting out the deadlines in *Refantazio*
 ---
 
