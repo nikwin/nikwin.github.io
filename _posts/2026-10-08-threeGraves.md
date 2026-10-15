@@ -2,7 +2,7 @@
 layout: post
 title: Three Graves
 tag: gdd
-date: 2026-05-22
+date: 2026-10-15
 desc: Sample questline.
 ---
 
